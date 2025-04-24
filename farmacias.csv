@@ -1,0 +1,1002 @@
+﻿FARMACIA;;;;;;;;;;;;;;
+ID_Cliente;Zona;ID_ZONA;País;Tipo_de_producto;Canal_de_venta;Prioridad;Fecha_pedido;ID_Pedido;Fecha_envío;Unidades; Precio_unitario ; Coste_unitario ; Importe_venta_total ; Importe_coste_total 
+2421;Europa;5;United Kingdom;Snacks;Offline;Crítica;12/10/2020;242113196;30/11/2020;5530; $ 152,58 ; $ 97,44 ; $ 843.767 ; $ 538.843 
+1908;Europa;5;Malta;Cárnicos;Online;Alta;26/01/2020;190800607;28/01/2020;994; $ 421,89 ; $ 364,69 ; $ 419.359 ; $ 362.502 
+7652;Australia y Oceanía;3;Marshall Islands;Cereales;Online;Crítica;9/11/2020;765228068;21/11/2020;6845; $ 205,70 ; $ 117,11 ; $ 1.408.017 ; $ 801.618 
+2326;África;1;Iran;Frutas;Offline;Baja;21/08/2021;232631909;2/10/2021;9806; $ 9,33 ; $ 6,92 ; $ 91.490 ; $ 67.858 
+5305;Centroamérica y Caribe;4;Guatemala;Alimento infantil;Offline;Media;30/09/2022;530560958;12/11/2022;3633; $ 255,28 ; $ 159,42 ; $ 927.432 ; $ 579.173 
+5168;Centroamérica y Caribe;4;Grenada;Bebida;Offline;Baja;21/01/2022;516876542;21/02/2022;4110; $ 47,45 ; $ 31,79 ; $ 195.020 ; $ 130.657 
+9197;Australia y Oceanía;3;Fiji;Snacks;Offline;Media;17/02/2022;919752490;27/02/2022;4056; $ 152,58 ; $ 97,44 ; $ 618.864 ; $ 395.217 
+2876;África;1;Tunisia ;Cosméticos;Offline;Media;21/03/2020;287675130;7/05/2020;8319; $ 437,20 ; $ 263,33 ; $ 3.637.067 ; $ 2.190.642 
+8394;Centroamérica y Caribe;4;Grenada;Cuidado personal;Offline;Crítica;13/02/2021;839443290;1/04/2021;8779; $ 81,73 ; $ 56,67 ; $ 717.508 ; $ 497.506 
+8141;Australia y Oceanía;3;Australia;Material de oficina;Online;Media;15/06/2021;814168298;12/07/2021;9347; $ 651,21 ; $ 524,96 ; $ 6.086.860 ; $ 4.906.801 
+3212;Norteamérica;6;Greenland;Cosméticos;Online;Alta;15/07/2022;321273982;30/08/2022;966; $ 437,20 ; $ 263,33 ; $ 422.335 ; $ 254.377 
+8904;África;1;Angola;Snacks;Online;Crítica;13/05/2020;890496671;5/06/2020;6609; $ 152,58 ; $ 97,44 ; $ 1.008.401 ; $ 643.981 
+5218;África;1;Zambia;Bebida;Offline;Crítica;6/05/2021;521885192;22/05/2021;6281; $ 47,45 ; $ 31,79 ; $ 298.033 ; $ 199.673 
+4358;África;1;Kenya;Verduras;Offline;Alta;7/11/2020;435800874;25/12/2020;2018; $ 154,06 ; $ 90,93 ; $ 310.893 ; $ 183.497 
+1229;África;1;Azerbaijan;Frutas;Offline;Crítica;20/10/2021;122917544;17/11/2021;2888; $ 9,33 ; $ 6,92 ; $ 26.945 ; $ 19.985 
+4942;África;1;Mozambique;Cuidado personal;Offline;Crítica;21/10/2021;494221532;18/11/2021;9989; $ 81,73 ; $ 56,67 ; $ 816.401 ; $ 566.077 
+7310;Australia y Oceanía;3;Federated States of Micronesia;Cosméticos;Offline;Crítica;19/04/2020;731011664;30/04/2020;1451; $ 437,20 ; $ 263,33 ; $ 634.377 ; $ 382.092 
+5348;Centroamérica y Caribe;4;Dominican Republic;Snacks;Offline;Crítica;3/11/2022;534899270;4/11/2022;7436; $ 152,58 ; $ 97,44 ; $ 1.134.585 ; $ 724.564 
+5778;África;1;Libya;Material de oficina;Online;Alta;10/07/2022;577808177;22/07/2022;5135; $ 651,21 ; $ 524,96 ; $ 3.343.963 ; $ 2.695.670 
+2519;Asia;2;Uzbekistan;Material de oficina;Online;Baja;1/06/2021;251974713;21/06/2021;3772; $ 651,21 ; $ 524,96 ; $ 2.456.364 ; $ 1.980.149 
+8199;Asia;2;Sri Lanka;Cuidado personal;Offline;Media;28/07/2020;819947707;5/09/2020;9602; $ 81,73 ; $ 56,67 ; $ 784.771 ; $ 544.145 
+4645;África;1;The Gambia;Cosméticos;Online;Crítica;8/06/2021;464588487;25/07/2021;912; $ 437,20 ; $ 263,33 ; $ 398.726 ; $ 240.157 
+1390;Asia;2;Myanmar;Snacks;Offline;Media;26/07/2021;139070880;4/08/2021;3019; $ 152,58 ; $ 97,44 ; $ 460.639 ; $ 294.171 
+4168;Asia;2;Bhutan;Ropa;Online;Crítica;15/10/2021;416881215;21/10/2021;3270; $ 109,28 ; $ 35,84 ; $ 357.346 ; $ 117.197 
+1418;África;1;Mali;Verduras;Online;Crítica;23/11/2021;141818320;29/11/2021;6047; $ 154,06 ; $ 90,93 ; $ 931.601 ; $ 549.854 
+4779;África;1;Burundi;Cuidado personal;Online;Alta;31/01/2022;477993524;12/03/2022;7761; $ 81,73 ; $ 56,67 ; $ 634.307 ; $ 439.816 
+8598;África;1;Libya;Ropa;Offline;Alta;11/07/2021;859830653;5/08/2021;1852; $ 109,28 ; $ 35,84 ; $ 202.387 ; $ 66.376 
+3420;África;1;Nigeria;Ropa;Offline;Crítica;26/08/2022;342066037;11/10/2022;3797; $ 109,28 ; $ 35,84 ; $ 414.936 ; $ 136.084 
+7497;Europa;5;Norway;Doméstico;Online;Crítica;21/02/2021;749748504;16/03/2021;6098; $ 668,27 ; $ 502,54 ; $ 4.075.110 ; $ 3.064.489 
+8282;África;1;Kenya;Cosméticos;Offline;Media;30/08/2021;828239381;8/10/2021;3293; $ 437,20 ; $ 263,33 ; $ 1.439.700 ; $ 867.146 
+2932;Australia y Oceanía;3;Papua New Guinea;Verduras;Online;Alta;19/02/2022;293212497;9/03/2022;6948; $ 154,06 ; $ 90,93 ; $ 1.070.409 ; $ 631.782 
+2806;Asia;2;North Korea;Cuidado personal;Offline;Baja;17/11/2020;280654180;2/01/2021;663; $ 81,73 ; $ 56,67 ; $ 54.187 ; $ 37.572 
+1968;Europa;5;Montenegro;Ropa;Offline;Media;25/11/2020;196863257;9/01/2021;5067; $ 109,28 ; $ 35,84 ; $ 553.722 ; $ 181.601 
+8684;Europa;5;Norway;Frutas;Offline;Alta;6/10/2022;868451058;8/10/2022;2822; $ 9,33 ; $ 6,92 ; $ 26.329 ; $ 19.528 
+4923;África;1;Lesotho;Ropa;Offline;Baja;7/04/2020;492341411;24/05/2020;3619; $ 109,28 ; $ 35,84 ; $ 395.484 ; $ 129.705 
+4857;Asia;2;Indonesia;Cárnicos;Online;Alta;2/12/2021;485770642;15/12/2021;9183; $ 421,89 ; $ 364,69 ; $ 3.874.216 ; $ 3.348.948 
+5362;África;1;Iraq;Bebida;Online;Alta;28/11/2020;536287581;28/12/2020;8268; $ 47,45 ; $ 31,79 ; $ 392.317 ; $ 262.840 
+8517;Asia;2;Singapore;Cereales;Online;Crítica;3/04/2022;851753556;12/05/2022;1660; $ 205,70 ; $ 117,11 ; $ 341.462 ; $ 194.403 
+8103;Asia;2;South Korea;Verduras;Online;Media;15/05/2021;810342395;31/05/2021;7177; $ 154,06 ; $ 90,93 ; $ 1.105.689 ; $ 652.605 
+3105;África;1;Lebanon;Doméstico;Online;Baja;26/08/2022;310540425;1/09/2022;4668; $ 668,27 ; $ 502,54 ; $ 3.119.484 ; $ 2.345.857 
+2211;Asia;2;Myanmar;Frutas;Online;Alta;23/11/2020;221146476;31/12/2020;1011; $ 9,33 ; $ 6,92 ; $ 9.433 ; $ 6.996 
+1312;Asia;2;Vietnam;Ropa;Online;Alta;23/09/2022;131271874;27/09/2022;5120; $ 109,28 ; $ 35,84 ; $ 559.514 ; $ 183.501 
+6003;África;1;Jordan;Frutas;Online;Baja;25/04/2022;600340449;2/06/2022;2935; $ 9,33 ; $ 6,92 ; $ 27.384 ; $ 20.310 
+9080;Australia y Oceanía;3;Palau;Material de oficina;Offline;Baja;20/10/2022;908088529;22/11/2022;2430; $ 651,21 ; $ 524,96 ; $ 1.582.440 ; $ 1.275.653 
+4045;Centroamérica y Caribe;4;Antigua and Barbuda ;Cereales;Offline;Crítica;4/08/2020;404564940;28/08/2020;8611; $ 205,70 ; $ 117,11 ; $ 1.771.283 ; $ 1.008.434 
+7601;Australia y Oceanía;3;Papua New Guinea;Cuidado personal;Offline;Baja;21/01/2021;760131013;28/01/2021;8513; $ 81,73 ; $ 56,67 ; $ 695.767 ; $ 482.432 
+1154;Centroamérica y Caribe;4;El Salvador;Ropa;Offline;Media;2/11/2022;115460574;19/11/2022;6205; $ 109,28 ; $ 35,84 ; $ 678.082 ; $ 222.387 
+7315;África;1;Republic of the Congo;Bebida;Offline;Baja;8/02/2022;731539952;9/02/2022;7783; $ 47,45 ; $ 31,79 ; $ 369.303 ; $ 247.422 
+4396;Australia y Oceanía;3;Vanuatu;Cárnicos;Online;Crítica;3/08/2022;439667975;21/09/2022;6379; $ 421,89 ; $ 364,69 ; $ 2.691.236 ; $ 2.326.358 
+2914;Asia;2;Bangladesh;Ropa;Offline;Baja;11/09/2022;291455972;16/09/2022;7154; $ 109,28 ; $ 35,84 ; $ 781.789 ; $ 256.399 
+5088;África;1;Burundi;Cereales;Offline;Baja;1/09/2022;508827769;13/09/2022;2299; $ 205,70 ; $ 117,11 ; $ 472.904 ; $ 269.236 
+9340;África;1;South Sudan;Verduras;Online;Media;17/04/2020;934019696;7/05/2020;6039; $ 154,06 ; $ 90,93 ; $ 930.368 ; $ 549.126 
+5795;África;1;Mozambique;Bebida;Online;Baja;25/11/2020;579580581;12/12/2020;9628; $ 47,45 ; $ 31,79 ; $ 456.849 ; $ 306.074 
+7783;Centroamérica y Caribe;4;Saint Kitts and Nevis ;Cárnicos;Online;Crítica;27/08/2021;778371751;3/09/2021;6353; $ 421,89 ; $ 364,69 ; $ 2.680.267 ; $ 2.316.876 
+2335;África;1;Rwanda;Verduras;Offline;Media;16/07/2021;233567035;17/08/2021;6531; $ 154,06 ; $ 90,93 ; $ 1.006.166 ; $ 593.864 
+8686;África;1;Rwanda;Bebida;Online;Alta;24/10/2022;868652760;8/12/2022;2510; $ 47,45 ; $ 31,79 ; $ 119.100 ; $ 79.793 
+1774;Europa;5;Moldova ;Verduras;Offline;Baja;23/12/2020;177427756;31/01/2021;3671; $ 154,06 ; $ 90,93 ; $ 565.554 ; $ 333.804 
+6740;Europa;5;Austria;Cereales;Offline;Baja;10/07/2020;674003350;30/07/2020;1424; $ 205,70 ; $ 117,11 ; $ 292.917 ; $ 166.765 
+4428;Europa;5;Spain;Ropa;Offline;Baja;16/01/2022;442803370;18/02/2022;4212; $ 109,28 ; $ 35,84 ; $ 460.287 ; $ 150.958 
+7885;Asia;2;China;Alimento infantil;Online;Crítica;27/10/2020;788564145;1/12/2020;2509; $ 255,28 ; $ 159,42 ; $ 640.498 ; $ 399.985 
+3863;África;1;Qatar;Cosméticos;Online;Media;21/07/2022;386334502;11/08/2022;3819; $ 437,20 ; $ 263,33 ; $ 1.669.667 ; $ 1.005.657 
+2314;Europa;5;Georgia;Cuidado personal;Online;Crítica;22/11/2021;231475770;23/11/2021;7679; $ 81,73 ; $ 56,67 ; $ 627.605 ; $ 435.169 
+4896;Asia;2;Kazakhstan;Doméstico;Online;Media;18/01/2021;489661777;11/02/2021;656; $ 668,27 ; $ 502,54 ; $ 438.385 ; $ 329.666 
+9468;África;1;Namibia;Cuidado personal;Offline;Baja;18/08/2022;946878850;5/10/2022;1348; $ 81,73 ; $ 56,67 ; $ 110.172 ; $ 76.391 
+5594;Centroamérica y Caribe;4;Jamaica;Cárnicos;Offline;Baja;1/07/2022;559425818;23/07/2022;5386; $ 421,89 ; $ 364,69 ; $ 2.272.300 ; $ 1.964.220 
+6039;África;1;Syria;Verduras;Offline;Media;22/08/2022;603914010;1/09/2022;431; $ 154,06 ; $ 90,93 ; $ 66.400 ; $ 39.191 
+6272;África;1;Tanzania;Frutas;Offline;Crítica;24/02/2021;627267253;8/03/2021;1174; $ 9,33 ; $ 6,92 ; $ 10.953 ; $ 8.124 
+6967;África;1;Angola;Alimento infantil;Online;Alta;1/04/2022;696721875;12/05/2022;4340; $ 255,28 ; $ 159,42 ; $ 1.107.915 ; $ 691.883 
+9498;Asia;2;China;Cuidado personal;Offline;Baja;18/07/2020;949826705;6/09/2020;3684; $ 81,73 ; $ 56,67 ; $ 301.093 ; $ 208.772 
+2444;Europa;5;Hungary;Cuidado personal;Offline;Baja;30/06/2022;244443070;3/07/2022;4991; $ 81,73 ; $ 56,67 ; $ 407.914 ; $ 282.840 
+2087;Europa;5;Norway;Doméstico;Offline;Alta;29/01/2022;208744800;3/02/2022;1080; $ 668,27 ; $ 502,54 ; $ 721.732 ; $ 542.743 
+2912;Australia y Oceanía;3;Australia;Cárnicos;Offline;Crítica;9/04/2022;291218221;2/05/2022;6798; $ 421,89 ; $ 364,69 ; $ 2.868.008 ; $ 2.479.163 
+9106;África;1;Nigeria;Doméstico;Offline;Media;22/02/2022;910662162;5/03/2022;4025; $ 668,27 ; $ 502,54 ; $ 2.689.787 ; $ 2.022.724 
+3061;Asia;2;Thailand;Material de oficina;Online;Media;9/03/2021;306187951;17/04/2021;6674; $ 651,21 ; $ 524,96 ; $ 4.346.176 ; $ 3.503.583 
+3872;Asia;2;Taiwan;Frutas;Offline;Alta;16/09/2020;387219417;27/09/2020;5685; $ 9,33 ; $ 6,92 ; $ 53.041 ; $ 39.340 
+8834;Asia;2;India;Verduras;Online;Baja;5/06/2022;883492887;5/06/2022;4033; $ 154,06 ; $ 90,93 ; $ 621.324 ; $ 366.721 
+6950;Europa;5;Romania;Bebida;Offline;Baja;24/04/2021;695057189;8/05/2021;1723; $ 47,45 ; $ 31,79 ; $ 81.756 ; $ 54.774 
+1422;Australia y Oceanía;3;East Timor;Cosméticos;Online;Baja;23/04/2021;142273652;16/05/2021;790; $ 437,20 ; $ 263,33 ; $ 345.388 ; $ 208.031 
+5158;Europa;5;Bosnia and Herzegovina;Cereales;Online;Baja;28/06/2022;515816104;6/08/2022;303; $ 205,70 ; $ 117,11 ; $ 62.327 ; $ 35.484 
+9266;Europa;5;Ireland;Cuidado personal;Offline;Baja;14/06/2022;926670873;17/07/2022;1359; $ 81,73 ; $ 56,67 ; $ 111.071 ; $ 77.015 
+5561;Europa;5;Croatia;Doméstico;Online;Baja;19/08/2020;556136786;5/09/2020;2089; $ 668,27 ; $ 502,54 ; $ 1.396.016 ; $ 1.049.806 
+9058;África;1;Iraq;Alimento infantil;Online;Baja;6/08/2022;905825173;22/08/2022;2653; $ 255,28 ; $ 159,42 ; $ 677.258 ; $ 422.941 
+8476;Europa;5;Malta;Material de oficina;Online;Crítica;7/06/2021;847659862;22/07/2021;245; $ 651,21 ; $ 524,96 ; $ 159.546 ; $ 128.615 
+6738;Europa;5;Ireland;Cárnicos;Offline;Baja;26/01/2022;673877179;21/02/2022;4087; $ 421,89 ; $ 364,69 ; $ 1.724.264 ; $ 1.490.488 
+7470;África;1;Madagascar;Alimento infantil;Online;Baja;14/09/2022;747025954;12/10/2022;435; $ 255,28 ; $ 159,42 ; $ 111.047 ; $ 69.348 
+1499;Europa;5;Austria;Cosméticos;Online;Media;1/12/2021;149967515;27/12/2021;7575; $ 437,20 ; $ 263,33 ; $ 3.311.790 ; $ 1.994.725 
+7358;África;1;Sierra Leone;Cuidado personal;Offline;Crítica;17/02/2020;735875689;25/03/2020;824; $ 81,73 ; $ 56,67 ; $ 67.346 ; $ 46.696 
+3782;Europa;5;Netherlands;Material de oficina;Online;Crítica;9/01/2021;378236806;18/02/2021;7531; $ 651,21 ; $ 524,96 ; $ 4.904.263 ; $ 3.953.474 
+6208;Europa;5;Croatia;Cosméticos;Offline;Alta;15/07/2021;620849692;18/07/2021;2075; $ 437,20 ; $ 263,33 ; $ 907.190 ; $ 546.410 
+8278;Centroamérica y Caribe;4;Trinidad and Tobago;Snacks;Offline;Baja;11/11/2021;827825677;19/11/2021;869; $ 152,58 ; $ 97,44 ; $ 132.592 ; $ 84.675 
+4335;Asia;2;South Korea;Doméstico;Offline;Crítica;5/03/2021;433588588;28/03/2021;7353; $ 668,27 ; $ 502,54 ; $ 4.913.789 ; $ 3.695.177 
+2928;Australia y Oceanía;3;Samoa ;Cárnicos;Offline;Alta;24/11/2021;292874753;25/12/2021;7003; $ 421,89 ; $ 364,69 ; $ 2.954.496 ; $ 2.553.924 
+4307;Europa;5;Albania;Material de oficina;Offline;Baja;31/07/2022;430733001;2/08/2022;2322; $ 651,21 ; $ 524,96 ; $ 1.512.110 ; $ 1.218.957 
+4925;África;1;Cape Verde;Frutas;Online;Media;3/03/2022;492524659;25/03/2022;7846; $ 9,33 ; $ 6,92 ; $ 73.203 ; $ 54.294 
+1939;Europa;5;Italy;Bebida;Online;Baja;9/06/2021;193923556;20/06/2021;5145; $ 47,45 ; $ 31,79 ; $ 244.130 ; $ 163.560 
+6709;Europa;5;Hungary;Bebida;Offline;Baja;26/07/2021;670916020;2/08/2021;7815; $ 47,45 ; $ 31,79 ; $ 370.822 ; $ 248.439 
+4298;Asia;2;Maldives;Alimento infantil;Offline;Crítica;17/09/2022;429800879;19/10/2022;6486; $ 255,28 ; $ 159,42 ; $ 1.655.746 ; $ 1.033.998 
+2971;África;1;Mali;Doméstico;Offline;Alta;25/07/2022;297189462;19/08/2022;3821; $ 668,27 ; $ 502,54 ; $ 2.553.460 ; $ 1.920.205 
+2700;África;1;Yemen;Cuidado personal;Online;Media;26/08/2020;270005595;4/09/2020;9511; $ 81,73 ; $ 56,67 ; $ 777.334 ; $ 538.988 
+8654;Asia;2;North Korea;Snacks;Offline;Baja;15/08/2022;865485608;10/09/2022;5279; $ 152,58 ; $ 97,44 ; $ 805.470 ; $ 514.386 
+8711;Asia;2;Uzbekistan;Cereales;Offline;Alta;28/08/2021;871178328;28/08/2021;9882; $ 205,70 ; $ 117,11 ; $ 2.032.727 ; $ 1.157.281 
+4949;Europa;5;Latvia;Verduras;Online;Baja;12/10/2022;494945085;6/11/2022;4104; $ 154,06 ; $ 90,93 ; $ 632.262 ; $ 373.177 
+9149;Asia;2;Singapore;Snacks;Offline;Crítica;29/05/2021;914959704;24/06/2021;5764; $ 152,58 ; $ 97,44 ; $ 879.471 ; $ 561.644 
+2297;Europa;5;Lithuania;Doméstico;Online;Baja;7/12/2021;229708516;23/01/2022;4709; $ 668,27 ; $ 502,54 ; $ 3.146.883 ; $ 2.366.461 
+2079;África;1;Senegal;Bebida;Offline;Alta;4/01/2022;207990348;20/01/2022;7821; $ 47,45 ; $ 31,79 ; $ 371.106 ; $ 248.630 
+4389;África;1;South Sudan;Verduras;Offline;Crítica;20/07/2022;438916528;18/08/2022;4009; $ 154,06 ; $ 90,93 ; $ 617.627 ; $ 364.538 
+5819;Europa;5;Bulgaria;Alimento infantil;Online;Alta;30/07/2020;581910884;16/08/2020;9217; $ 255,28 ; $ 159,42 ; $ 2.352.916 ; $ 1.469.374 
+8167;África;1;Seychelles ;Cárnicos;Offline;Alta;4/02/2022;816709744;1/03/2022;1417; $ 421,89 ; $ 364,69 ; $ 597.818 ; $ 516.766 
+4933;Centroamérica y Caribe;4;Saint Kitts and Nevis ;Doméstico;Online;Alta;24/08/2020;493361937;29/09/2020;5616; $ 668,27 ; $ 502,54 ; $ 3.753.004 ; $ 2.822.265 
+3822;Centroamérica y Caribe;4;Saint Vincent and the Grenadines;Alimento infantil;Offline;Alta;10/08/2021;382228791;26/09/2021;8848; $ 255,28 ; $ 159,42 ; $ 2.258.717 ; $ 1.410.548 
+4239;Europa;5;Andorra;Cosméticos;Offline;Baja;2/10/2020;423984134;14/11/2020;5182; $ 437,20 ; $ 263,33 ; $ 2.265.570 ; $ 1.364.576 
+1796;África;1;Mali;Cárnicos;Offline;Crítica;3/11/2022;179614293;23/11/2022;716; $ 421,89 ; $ 364,69 ; $ 302.073 ; $ 261.118 
+1804;África;1;Togo;Cuidado personal;Offline;Media;26/02/2020;180418097;15/03/2020;8579; $ 81,73 ; $ 56,67 ; $ 701.162 ; $ 486.172 
+5780;Asia;2;Thailand;Cárnicos;Offline;Alta;17/07/2022;578006875;21/08/2022;3934; $ 421,89 ; $ 364,69 ; $ 1.659.715 ; $ 1.434.690 
+6943;Europa;5;Moldova ;Doméstico;Online;Alta;1/09/2021;694304454;9/09/2021;8972; $ 668,27 ; $ 502,54 ; $ 5.995.718 ; $ 4.508.789 
+3715;Centroamérica y Caribe;4;Trinidad and Tobago;Alimento infantil;Online;Alta;14/01/2021;371547162;23/02/2021;7917; $ 255,28 ; $ 159,42 ; $ 2.021.052 ; $ 1.262.128 
+4222;Asia;2;Japan;Bebida;Online;Media;6/04/2020;422283828;26/04/2020;2024; $ 47,45 ; $ 31,79 ; $ 96.039 ; $ 64.343 
+3793;África;1;Central African Republic;Cereales;Offline;Crítica;23/03/2022;379375779;23/03/2022;4578; $ 205,70 ; $ 117,11 ; $ 941.695 ; $ 536.130 
+7459;África;1;Azerbaijan;Cuidado personal;Online;Baja;11/03/2020;745996844;3/04/2020;5899; $ 81,73 ; $ 56,67 ; $ 482.125 ; $ 334.296 
+7456;África;1;Mauritania;Frutas;Offline;Baja;20/02/2022;745633351;3/04/2022;8333; $ 9,33 ; $ 6,92 ; $ 77.747 ; $ 57.664 
+5720;Europa;5;Portugal;Snacks;Offline;Media;16/09/2020;572084128;5/11/2020;1261; $ 152,58 ; $ 97,44 ; $ 192.403 ; $ 122.872 
+9394;África;1;Liberia;Bebida;Online;Baja;22/05/2020;939460504;24/05/2020;6095; $ 47,45 ; $ 31,79 ; $ 289.208 ; $ 193.760 
+8321;África;1;South Sudan;Frutas;Online;Alta;12/10/2021;832186305;26/11/2021;1276; $ 9,33 ; $ 6,92 ; $ 11.905 ; $ 8.830 
+6549;África;1;Cameroon;Frutas;Online;Baja;28/02/2020;654997861;2/04/2020;7277; $ 9,33 ; $ 6,92 ; $ 67.894 ; $ 50.357 
+8829;Centroamérica y Caribe;4;Cuba;Cárnicos;Online;Baja;23/03/2021;882943999;7/04/2021;1605; $ 421,89 ; $ 364,69 ; $ 677.133 ; $ 585.327 
+7113;África;1;Malawi;Frutas;Online;Baja;27/06/2022;711386048;15/08/2022;3795; $ 9,33 ; $ 6,92 ; $ 35.407 ; $ 26.261 
+3059;Australia y Oceanía;3;Tuvalu;Bebida;Offline;Baja;9/06/2020;305997836;10/07/2020;415; $ 47,45 ; $ 31,79 ; $ 19.692 ; $ 13.193 
+3527;África;1;Burundi;Cárnicos;Offline;Alta;19/07/2020;352765691;11/08/2020;62; $ 421,89 ; $ 364,69 ; $ 26.157 ; $ 22.611 
+7079;África;1;Liberia;Verduras;Online;Crítica;15/07/2021;707988440;8/08/2021;8367; $ 154,06 ; $ 90,93 ; $ 1.289.020 ; $ 760.811 
+8482;Asia;2;Turkmenistan;Verduras;Offline;Media;13/07/2022;848277413;29/08/2022;2992; $ 154,06 ; $ 90,93 ; $ 460.948 ; $ 272.063 
+3205;África;1;Uganda;Doméstico;Online;Media;16/08/2021;320556437;25/09/2021;8628; $ 668,27 ; $ 502,54 ; $ 5.765.834 ; $ 4.335.915 
+9920;África;1;Lebanon;Alimento infantil;Online;Alta;6/03/2020;992061841;24/03/2020;1999; $ 255,28 ; $ 159,42 ; $ 510.305 ; $ 318.681 
+3003;Europa;5;Switzerland;Material de oficina;Online;Media;20/05/2021;300342452;24/06/2021;6861; $ 651,21 ; $ 524,96 ; $ 4.467.952 ; $ 3.601.751 
+7032;África;1;Kuwait;Verduras;Online;Alta;2/04/2020;703259599;5/04/2020;8998; $ 154,06 ; $ 90,93 ; $ 1.386.232 ; $ 818.188 
+2289;Asia;2;India;Ropa;Offline;Alta;17/03/2022;228987109;14/04/2022;1229; $ 109,28 ; $ 35,84 ; $ 134.305 ; $ 44.047 
+1260;África;1;Angola;Cereales;Online;Crítica;22/08/2021;126011312;18/09/2021;8402; $ 205,70 ; $ 117,11 ; $ 1.728.291 ; $ 983.958 
+8131;Asia;2;Uzbekistan;Bebida;Offline;Crítica;28/06/2020;813131034;1/07/2020;2397; $ 47,45 ; $ 31,79 ; $ 113.738 ; $ 76.201 
+5294;Europa;5;Latvia;Cuidado personal;Offline;Crítica;5/02/2021;529457604;5/03/2021;7126; $ 81,73 ; $ 56,67 ; $ 582.408 ; $ 403.830 
+2844;África;1;Ghana;Cárnicos;Offline;Media;2/12/2021;284414851;7/12/2021;3530; $ 421,89 ; $ 364,69 ; $ 1.489.272 ; $ 1.287.356 
+7077;Europa;5;Poland;Bebida;Online;Crítica;22/10/2021;707739102;28/10/2021;4583; $ 47,45 ; $ 31,79 ; $ 217.463 ; $ 145.694 
+6994;Asia;2;Mongolia;Cosméticos;Online;Baja;15/06/2021;699479186;25/07/2021;290; $ 437,20 ; $ 263,33 ; $ 126.788 ; $ 76.366 
+5799;Asia;2;Vietnam;Cereales;Online;Crítica;13/12/2021;579996430;9/01/2022;2687; $ 205,70 ; $ 117,11 ; $ 552.716 ; $ 314.675 
+7399;Europa;5;United Kingdom;Cereales;Online;Baja;29/06/2020;739964663;27/07/2020;842; $ 205,70 ; $ 117,11 ; $ 173.199 ; $ 98.607 
+2903;Australia y Oceanía;3;Vanuatu;Ropa;Offline;Baja;31/05/2020;290370213;15/06/2020;5854; $ 109,28 ; $ 35,84 ; $ 639.725 ; $ 209.807 
+2125;África;1;Ethiopia;Frutas;Online;Baja;22/02/2021;212511909;22/02/2021;5851; $ 9,33 ; $ 6,92 ; $ 54.590 ; $ 40.489 
+2080;África;1;Niger;Frutas;Online;Crítica;13/07/2022;208001077;22/07/2022;996; $ 9,33 ; $ 6,92 ; $ 9.293 ; $ 6.892 
+9487;África;1;Central African Republic;Cuidado personal;Offline;Alta;9/07/2020;948761546;13/07/2020;8480; $ 81,73 ; $ 56,67 ; $ 693.070 ; $ 480.562 
+9270;África;1;Cape Verde;Snacks;Offline;Crítica;18/01/2020;927029645;29/01/2020;7527; $ 152,58 ; $ 97,44 ; $ 1.148.470 ; $ 733.431 
+5053;Norteamérica;6;United States of America;Cuidado personal;Offline;Crítica;26/02/2022;505354201;12/04/2022;4393; $ 81,73 ; $ 56,67 ; $ 359.040 ; $ 248.951 
+5665;África;1;Sudan;Frutas;Offline;Crítica;30/07/2022;566596543;1/09/2022;7363; $ 9,33 ; $ 6,92 ; $ 68.697 ; $ 50.952 
+2639;África;1;Republic of the Congo;Material de oficina;Offline;Crítica;24/09/2021;263930499;5/11/2021;1755; $ 651,21 ; $ 524,96 ; $ 1.142.874 ; $ 921.305 
+1708;Australia y Oceanía;3;Federated States of Micronesia;Frutas;Online;Crítica;10/06/2020;170842397;10/06/2020;4917; $ 9,33 ; $ 6,92 ; $ 45.876 ; $ 34.026 
+9311;África;1;South Sudan;Frutas;Offline;Baja;10/05/2021;931131064;7/06/2021;1229; $ 9,33 ; $ 6,92 ; $ 11.467 ; $ 8.505 
+1089;África;1;Cape Verde;Frutas;Online;Media;27/10/2021;108907830;31/10/2021;7102; $ 9,33 ; $ 6,92 ; $ 66.262 ; $ 49.146 
+7385;Australia y Oceanía;3;Palau;Doméstico;Offline;Alta;31/12/2020;738596522;18/02/2021;5979; $ 668,27 ; $ 502,54 ; $ 3.995.586 ; $ 3.004.687 
+9749;África;1;Bahrain;Material de oficina;Offline;Baja;29/04/2021;974933469;12/06/2021;3333; $ 651,21 ; $ 524,96 ; $ 2.170.483 ; $ 1.749.692 
+8429;África;1;Algeria;Material de oficina;Offline;Media;4/05/2021;842967498;14/05/2021;1670; $ 651,21 ; $ 524,96 ; $ 1.087.521 ; $ 876.683 
+8880;África;1;Botswana;Cuidado personal;Online;Crítica;7/11/2022;888059937;10/12/2022;5525; $ 81,73 ; $ 56,67 ; $ 451.558 ; $ 313.102 
+8258;África;1;Seychelles ;Doméstico;Offline;Media;1/12/2020;825884616;3/01/2021;6466; $ 668,27 ; $ 502,54 ; $ 4.321.034 ; $ 3.249.424 
+8924;África;1;The Gambia;Material de oficina;Online;Alta;8/06/2022;892427861;25/07/2022;8091; $ 651,21 ; $ 524,96 ; $ 5.268.940 ; $ 4.247.451 
+4939;África;1;Guinea-Bissau;Material de oficina;Online;Baja;2/11/2021;493988502;21/12/2021;1030; $ 651,21 ; $ 524,96 ; $ 670.746 ; $ 540.709 
+4571;África;1;Pakistan;Verduras;Offline;Baja;17/07/2022;457177865;11/08/2022;7945; $ 154,06 ; $ 90,93 ; $ 1.224.007 ; $ 722.439 
+7789;África;1;Mauritania;Cárnicos;Online;Media;19/03/2021;778919780;20/03/2021;8527; $ 421,89 ; $ 364,69 ; $ 3.597.456 ; $ 3.109.712 
+1764;Asia;2;Thailand;Material de oficina;Online;Alta;22/08/2020;176450574;8/09/2020;4501; $ 651,21 ; $ 524,96 ; $ 2.931.096 ; $ 2.362.845 
+1373;África;1;Afghanistan;Cárnicos;Offline;Media;1/08/2022;137319076;20/09/2022;4621; $ 421,89 ; $ 364,69 ; $ 1.949.554 ; $ 1.685.232 
+8693;África;1;The Gambia;Ropa;Online;Baja;17/08/2020;869386613;25/09/2020;9673; $ 109,28 ; $ 35,84 ; $ 1.057.065 ; $ 346.680 
+8508;África;1;Oman;Cárnicos;Offline;Baja;16/08/2021;850827014;29/08/2021;7476; $ 421,89 ; $ 364,69 ; $ 3.154.050 ; $ 2.726.422 
+8801;África;1;Burkina Faso;Snacks;Offline;Alta;24/05/2021;880126607;7/06/2021;7876; $ 152,58 ; $ 97,44 ; $ 1.201.720 ; $ 767.437 
+9260;África;1;Cameroon;Ropa;Offline;Media;12/06/2020;926084220;5/07/2020;7755; $ 109,28 ; $ 35,84 ; $ 847.466 ; $ 277.939 
+5778;África;1;Burkina Faso;Cereales;Online;Alta;21/07/2022;577811181;23/08/2022;6024; $ 205,70 ; $ 117,11 ; $ 1.239.137 ; $ 705.471 
+3947;Europa;5;Serbia;Snacks;Online;Alta;17/11/2021;394731318;12/12/2021;8624; $ 152,58 ; $ 97,44 ; $ 1.315.850 ; $ 840.323 
+5565;África;1;Mauritius ;Doméstico;Offline;Crítica;26/07/2021;556580960;9/09/2021;3529; $ 668,27 ; $ 502,54 ; $ 2.358.325 ; $ 1.773.464 
+4134;África;1;Liberia;Material de oficina;Offline;Crítica;17/11/2020;413408935;13/12/2020;5745; $ 651,21 ; $ 524,96 ; $ 3.741.201 ; $ 3.015.895 
+7355;Europa;5;Latvia;Cuidado personal;Offline;Crítica;3/05/2022;735576570;17/05/2022;2308; $ 81,73 ; $ 56,67 ; $ 188.633 ; $ 130.794 
+5637;Asia;2;China;Ropa;Offline;Media;16/09/2021;563757693;1/11/2021;7284; $ 109,28 ; $ 35,84 ; $ 795.996 ; $ 261.059 
+3589;Australia y Oceanía;3;New Zealand;Verduras;Online;Baja;22/11/2020;358938634;9/12/2020;6773; $ 154,06 ; $ 90,93 ; $ 1.043.448 ; $ 615.869 
+6524;África;1;Sierra Leone;Snacks;Online;Crítica;3/10/2020;652418220;19/10/2020;3904; $ 152,58 ; $ 97,44 ; $ 595.672 ; $ 380.406 
+6958;Europa;5;Bulgaria;Material de oficina;Online;Crítica;26/07/2022;695807778;6/09/2022;3839; $ 651,21 ; $ 524,96 ; $ 2.499.995 ; $ 2.015.321 
+7110;África;1;Somalia;Material de oficina;Offline;Crítica;5/11/2020;711031138;7/12/2020;8769; $ 651,21 ; $ 524,96 ; $ 5.710.460 ; $ 4.603.374 
+5403;Europa;5;Spain;Bebida;Offline;Alta;17/12/2021;540324628;25/01/2022;2919; $ 47,45 ; $ 31,79 ; $ 138.507 ; $ 92.795 
+9962;Europa;5;Cyprus;Cereales;Offline;Media;31/08/2022;996237075;31/08/2022;7544; $ 205,70 ; $ 117,11 ; $ 1.551.801 ; $ 883.478 
+7116;África;1;Namibia;Ropa;Online;Media;12/02/2020;711629807;5/03/2020;5929; $ 109,28 ; $ 35,84 ; $ 647.921 ; $ 212.495 
+1896;Norteamérica;6;Greenland;Cereales;Offline;Alta;19/11/2021;189676654;1/01/2022;8392; $ 205,70 ; $ 117,11 ; $ 1.726.234 ; $ 982.787 
+4538;África;1;Rwanda;Doméstico;Online;Baja;23/08/2021;453863942;9/09/2021;7281; $ 668,27 ; $ 502,54 ; $ 4.865.674 ; $ 3.658.994 
+7979;Centroamérica y Caribe;4;The Bahamas;Material de oficina;Offline;Baja;14/08/2020;797990500;22/09/2020;1977; $ 651,21 ; $ 524,96 ; $ 1.287.442 ; $ 1.037.846 
+1361;Europa;5;Germany;Bebida;Online;Alta;8/06/2020;136167657;21/06/2020;3890; $ 47,45 ; $ 31,79 ; $ 184.581 ; $ 123.663 
+1528;Europa;5;Cyprus;Bebida;Online;Crítica;11/09/2021;152819240;16/10/2021;1464; $ 47,45 ; $ 31,79 ; $ 69.467 ; $ 46.541 
+3526;Europa;5;Luxembourg;Snacks;Online;Crítica;15/07/2022;352681577;25/07/2022;5171; $ 152,58 ; $ 97,44 ; $ 788.991 ; $ 503.862 
+3108;Australia y Oceanía;3;Tuvalu;Cereales;Online;Alta;27/01/2020;310803496;4/03/2020;2516; $ 205,70 ; $ 117,11 ; $ 517.541 ; $ 294.649 
+1225;Europa;5;Bulgaria;Cosméticos;Offline;Baja;26/05/2020;122546327;18/06/2020;3036; $ 437,20 ; $ 263,33 ; $ 1.327.339 ; $ 799.470 
+8535;Asia;2;Bangladesh;Frutas;Offline;Alta;4/01/2020;853583896;20/01/2020;3298; $ 9,33 ; $ 6,92 ; $ 30.770 ; $ 22.822 
+4899;Centroamérica y Caribe;4;El Salvador;Cuidado personal;Offline;Alta;4/07/2021;489902532;31/07/2021;1901; $ 81,73 ; $ 56,67 ; $ 155.369 ; $ 107.730 
+6878;Asia;2;China;Verduras;Online;Media;2/10/2020;687801063;6/10/2020;4474; $ 154,06 ; $ 90,93 ; $ 689.264 ; $ 406.821 
+9238;Asia;2;Mongolia;Cárnicos;Online;Media;7/08/2022;923890817;17/08/2022;8678; $ 421,89 ; $ 364,69 ; $ 3.661.161 ; $ 3.164.780 
+7450;Australia y Oceanía;3;Solomon Islands;Frutas;Offline;Alta;11/04/2022;745095622;27/05/2022;9207; $ 9,33 ; $ 6,92 ; $ 85.901 ; $ 63.712 
+2186;África;1;Mauritania;Cosméticos;Offline;Baja;23/02/2021;218651807;19/03/2021;2783; $ 437,20 ; $ 263,33 ; $ 1.216.728 ; $ 732.847 
+3821;Asia;2;South Korea;Verduras;Online;Media;26/05/2022;382108199;13/07/2022;3162; $ 154,06 ; $ 90,93 ; $ 487.138 ; $ 287.521 
+9933;Asia;2;Myanmar;Material de oficina;Online;Baja;17/01/2021;993326127;18/02/2021;6130; $ 651,21 ; $ 524,96 ; $ 3.991.917 ; $ 3.218.005 
+9804;África;1;Botswana;Cereales;Offline;Baja;7/07/2022;980479419;6/08/2022;4503; $ 205,70 ; $ 117,11 ; $ 926.267 ; $ 527.346 
+6920;Europa;5;Portugal;Snacks;Offline;Crítica;11/03/2021;692054402;20/03/2021;3131; $ 152,58 ; $ 97,44 ; $ 477.728 ; $ 305.085 
+5468;Europa;5;Spain;Verduras;Offline;Crítica;16/11/2021;546849906;11/12/2021;3894; $ 154,06 ; $ 90,93 ; $ 599.910 ; $ 354.081 
+5839;África;1;Cote d'Ivoire;Bebida;Offline;Baja;11/03/2021;583977258;25/04/2021;703; $ 47,45 ; $ 31,79 ; $ 33.357 ; $ 22.348 
+9128;Europa;5;Russia;Alimento infantil;Online;Crítica;13/06/2020;912860286;10/07/2020;4499; $ 255,28 ; $ 159,42 ; $ 1.148.505 ; $ 717.231 
+3632;Australia y Oceanía;3;Federated States of Micronesia;Ropa;Offline;Media;15/05/2021;363235318;25/06/2021;8257; $ 109,28 ; $ 35,84 ; $ 902.325 ; $ 295.931 
+5351;África;1;The Gambia;Cárnicos;Offline;Alta;11/10/2021;535151183;24/11/2021;1982; $ 421,89 ; $ 364,69 ; $ 836.186 ; $ 722.816 
+8489;Europa;5;Luxembourg;Frutas;Offline;Alta;7/10/2022;848969209;15/10/2022;7710; $ 9,33 ; $ 6,92 ; $ 71.934 ; $ 53.353 
+7953;África;1;Liberia;Frutas;Offline;Crítica;15/07/2021;795363223;30/08/2021;4507; $ 9,33 ; $ 6,92 ; $ 42.050 ; $ 31.188 
+3853;África;1;Burundi;Cosméticos;Offline;Crítica;1/06/2021;385319554;27/06/2021;3474; $ 437,20 ; $ 263,33 ; $ 1.518.833 ; $ 914.808 
+6001;África;1;Syria;Cereales;Offline;Alta;2/11/2021;600137031;15/11/2021;2739; $ 205,70 ; $ 117,11 ; $ 563.412 ; $ 320.764 
+2414;Norteamérica;6;United States of America;Ropa;Offline;Alta;24/08/2022;241426980;24/09/2022;2463; $ 109,28 ; $ 35,84 ; $ 269.157 ; $ 88.274 
+8811;Asia;2;Japan;Alimento infantil;Offline;Baja;24/08/2022;881113231;5/10/2022;9840; $ 255,28 ; $ 159,42 ; $ 2.511.955 ; $ 1.568.693 
+1114;Asia;2;Laos;Frutas;Offline;Baja;22/01/2021;111432111;14/02/2021;4093; $ 9,33 ; $ 6,92 ; $ 38.188 ; $ 28.324 
+9949;Europa;5;Germany;Verduras;Online;Crítica;14/10/2021;994932448;23/11/2021;1476; $ 154,06 ; $ 90,93 ; $ 227.393 ; $ 134.213 
+8144;Norteamérica;6;Greenland;Cuidado personal;Online;Crítica;23/07/2020;814475572;10/08/2020;276; $ 81,73 ; $ 56,67 ; $ 22.557 ; $ 15.641 
+5232;Centroamérica y Caribe;4;Jamaica;Cárnicos;Offline;Alta;26/08/2020;523235309;20/09/2020;5810; $ 421,89 ; $ 364,69 ; $ 2.451.181 ; $ 2.118.849 
+6946;Europa;5;Switzerland;Verduras;Online;Media;13/01/2020;694697988;23/02/2020;5427; $ 154,06 ; $ 90,93 ; $ 836.084 ; $ 493.477 
+1726;Europa;5;Sweden;Material de oficina;Online;Media;10/05/2021;172662436;10/06/2021;3507; $ 651,21 ; $ 524,96 ; $ 2.283.793 ; $ 1.841.035 
+1212;África;1;Liberia;Bebida;Online;Media;15/12/2021;121239984;13/01/2022;6460; $ 47,45 ; $ 31,79 ; $ 306.527 ; $ 205.363 
+8748;Australia y Oceanía;3;Kiribati;Alimento infantil;Offline;Media;2/01/2021;874854457;4/01/2021;7730; $ 255,28 ; $ 159,42 ; $ 1.973.314 ; $ 1.232.317 
+5882;Europa;5;Malta;Cárnicos;Online;Media;6/12/2020;588242185;10/01/2021;2789; $ 421,89 ; $ 364,69 ; $ 1.176.651 ; $ 1.017.120 
+1864;Asia;2;Philippines;Cuidado personal;Online;Baja;12/04/2020;186451995;29/05/2020;4144; $ 81,73 ; $ 56,67 ; $ 338.689 ; $ 234.840 
+2148;África;1;Comoros;Alimento infantil;Offline;Baja;8/11/2020;214845216;29/11/2020;6329; $ 255,28 ; $ 159,42 ; $ 1.615.667 ; $ 1.008.969 
+3890;Europa;5;Liechtenstein;Doméstico;Offline;Baja;29/07/2020;389095675;30/08/2020;912; $ 668,27 ; $ 502,54 ; $ 609.462 ; $ 458.316 
+9451;África;1;Lebanon;Cereales;Online;Baja;15/08/2020;945189702;29/08/2020;1492; $ 205,70 ; $ 117,11 ; $ 306.904 ; $ 174.728 
+3894;Norteamérica;6;Greenland;Cereales;Offline;Crítica;22/02/2021;389426124;5/04/2021;8699; $ 205,70 ; $ 117,11 ; $ 1.789.384 ; $ 1.018.740 
+4484;África;1;Chad;Cereales;Online;Media;13/09/2022;448416268;15/09/2022;5193; $ 205,70 ; $ 117,11 ; $ 1.068.200 ; $ 608.152 
+2190;Europa;5;Macedonia;Doméstico;Offline;Baja;15/12/2021;219083964;5/01/2022;668; $ 668,27 ; $ 502,54 ; $ 446.404 ; $ 335.697 
+2186;África;1;United Arab Emirates;Cosméticos;Offline;Alta;12/09/2021;218665540;19/10/2021;6847; $ 437,20 ; $ 263,33 ; $ 2.993.508 ; $ 1.803.021 
+1347;África;1;Qatar;Cereales;Offline;Alta;29/10/2020;134709823;25/11/2020;2485; $ 205,70 ; $ 117,11 ; $ 511.165 ; $ 291.018 
+1750;África;1;Iraq;Verduras;Online;Alta;5/07/2021;175078141;5/08/2021;8367; $ 154,06 ; $ 90,93 ; $ 1.289.020 ; $ 760.811 
+6179;Europa;5;Kosovo;Material de oficina;Online;Baja;7/01/2022;617944324;4/02/2022;2312; $ 651,21 ; $ 524,96 ; $ 1.505.598 ; $ 1.213.708 
+4617;Asia;2;Bhutan;Cosméticos;Offline;Crítica;12/01/2021;461794698;22/01/2021;4168; $ 437,20 ; $ 263,33 ; $ 1.822.250 ; $ 1.097.559 
+5754;Centroamérica y Caribe;4;Cuba;Ropa;Offline;Alta;2/12/2021;575428092;10/12/2021;815; $ 109,28 ; $ 35,84 ; $ 89.063 ; $ 29.210 
+5479;Norteamérica;6;Mexico;Alimento infantil;Online;Media;25/09/2022;547955834;9/10/2022;1163; $ 255,28 ; $ 159,42 ; $ 296.891 ; $ 185.405 
+9388;África;1;Cote d'Ivoire;Bebida;Online;Media;1/07/2020;938801753;12/07/2020;1156; $ 47,45 ; $ 31,79 ; $ 54.852 ; $ 36.749 
+1277;África;1;Nigeria;Cereales;Offline;Alta;20/03/2021;127702176;2/05/2021;8767; $ 205,70 ; $ 117,11 ; $ 1.803.372 ; $ 1.026.703 
+1647;Australia y Oceanía;3;Vanuatu;Material de oficina;Offline;Alta;17/04/2021;164705932;31/05/2021;9000; $ 651,21 ; $ 524,96 ; $ 5.860.890 ; $ 4.724.640 
+9201;África;1;Kuwait;Verduras;Offline;Baja;20/05/2020;920174348;30/05/2020;8893; $ 154,06 ; $ 90,93 ; $ 1.370.056 ; $ 808.640 
+5347;África;1;Namibia;Cárnicos;Offline;Media;3/11/2022;534781253;30/11/2022;2512; $ 421,89 ; $ 364,69 ; $ 1.059.788 ; $ 916.101 
+3695;África;1;Egypt;Verduras;Online;Baja;25/12/2021;369512975;5/02/2022;5955; $ 154,06 ; $ 90,93 ; $ 917.427 ; $ 541.488 
+9556;África;1;Swaziland;Frutas;Offline;Crítica;15/07/2021;955668342;26/08/2021;2354; $ 9,33 ; $ 6,92 ; $ 21.963 ; $ 16.290 
+6448;Centroamérica y Caribe;4;Antigua and Barbuda ;Cárnicos;Offline;Crítica;8/10/2022;644858682;4/11/2022;6869; $ 421,89 ; $ 364,69 ; $ 2.897.962 ; $ 2.505.056 
+5590;Asia;2;Sri Lanka;Verduras;Offline;Alta;15/03/2020;559007823;18/04/2020;1692; $ 154,06 ; $ 90,93 ; $ 260.670 ; $ 153.854 
+5403;Europa;5;Liechtenstein;Bebida;Offline;Media;15/03/2020;540352094;30/03/2020;1047; $ 47,45 ; $ 31,79 ; $ 49.680 ; $ 33.284 
+5014;África;1;Angola;Material de oficina;Online;Crítica;20/05/2022;501440322;30/05/2022;6189; $ 651,21 ; $ 524,96 ; $ 4.030.339 ; $ 3.248.977 
+8751;Asia;2;Brunei;Doméstico;Offline;Crítica;16/01/2021;875133836;6/02/2021;404; $ 668,27 ; $ 502,54 ; $ 269.981 ; $ 203.026 
+3646;Australia y Oceanía;3;Samoa ;Ropa;Offline;Crítica;23/11/2020;364606463;2/01/2021;4010; $ 109,28 ; $ 35,84 ; $ 438.213 ; $ 143.718 
+8933;Australia y Oceanía;3;Marshall Islands;Frutas;Online;Baja;30/04/2021;893344533;20/05/2021;9354; $ 9,33 ; $ 6,92 ; $ 87.273 ; $ 64.730 
+8551;África;1;Democratic Republic of the Congo;Frutas;Online;Crítica;15/09/2020;855146872;20/09/2020;5818; $ 9,33 ; $ 6,92 ; $ 54.282 ; $ 40.261 
+9641;Australia y Oceanía;3;Tonga;Cosméticos;Online;Crítica;30/08/2020;964124810;31/08/2020;4811; $ 437,20 ; $ 263,33 ; $ 2.103.369 ; $ 1.266.881 
+2047;África;1;Mozambique;Snacks;Offline;Crítica;15/10/2021;204702174;17/10/2021;4777; $ 152,58 ; $ 97,44 ; $ 728.875 ; $ 465.471 
+7816;África;1;Kuwait;Cárnicos;Online;Media;25/03/2022;781615293;10/04/2022;6189; $ 421,89 ; $ 364,69 ; $ 2.611.077 ; $ 2.257.066 
+4699;Europa;5;Romania;Bebida;Offline;Alta;16/12/2021;469912993;22/01/2022;6552; $ 47,45 ; $ 31,79 ; $ 310.892 ; $ 208.288 
+2649;África;1;South Sudan;Cosméticos;Online;Crítica;9/05/2021;264956605;4/06/2021;5402; $ 437,20 ; $ 263,33 ; $ 2.361.754 ; $ 1.422.509 
+3324;Asia;2;Malaysia;Snacks;Offline;Crítica;13/08/2022;332419955;12/09/2022;9307; $ 152,58 ; $ 97,44 ; $ 1.420.062 ; $ 906.874 
+4582;Centroamérica y Caribe;4;Costa Rica;Snacks;Offline;Media;22/08/2022;458289372;30/08/2022;6864; $ 152,58 ; $ 97,44 ; $ 1.047.309 ; $ 668.828 
+4988;Europa;5;Croatia;Cuidado personal;Online;Alta;25/02/2020;498863685;8/03/2020;3705; $ 81,73 ; $ 56,67 ; $ 302.810 ; $ 209.962 
+8307;Asia;2;Nepal;Bebida;Offline;Baja;5/11/2022;830754220;7/11/2022;7490; $ 47,45 ; $ 31,79 ; $ 355.401 ; $ 238.107 
+1008;Asia;2;Tajikistan;Alimento infantil;Online;Alta;1/04/2020;100884807;30/04/2020;2911; $ 255,28 ; $ 159,42 ; $ 743.120 ; $ 464.072 
+1764;Europa;5;Serbia;Cárnicos;Offline;Alta;17/04/2022;176491773;24/04/2022;6692; $ 421,89 ; $ 364,69 ; $ 2.823.288 ; $ 2.440.505 
+2951;África;1;Angola;Cárnicos;Offline;Baja;25/09/2020;295123946;3/11/2020;2589; $ 421,89 ; $ 364,69 ; $ 1.092.273 ; $ 944.182 
+2146;Asia;2;Japan;Cuidado personal;Online;Baja;7/01/2022;214642655;14/02/2022;6386; $ 81,73 ; $ 56,67 ; $ 521.928 ; $ 361.895 
+6632;Europa;5;Iceland;Cárnicos;Online;Media;21/02/2020;663221728;1/03/2020;903; $ 421,89 ; $ 364,69 ; $ 380.967 ; $ 329.315 
+1893;Europa;5;Cyprus;Ropa;Offline;Media;2/12/2020;189347493;21/12/2020;986; $ 109,28 ; $ 35,84 ; $ 107.750 ; $ 35.338 
+1118;Australia y Oceanía;3;East Timor;Bebida;Offline;Alta;30/07/2020;111818778;23/08/2020;8516; $ 47,45 ; $ 31,79 ; $ 404.084 ; $ 270.724 
+4697;Asia;2;Tajikistan;Material de oficina;Online;Baja;17/06/2021;469746911;28/07/2021;7405; $ 651,21 ; $ 524,96 ; $ 4.822.210 ; $ 3.887.329 
+4725;África;1;Somalia;Doméstico;Online;Crítica;7/01/2022;472555720;3/02/2022;8594; $ 668,27 ; $ 502,54 ; $ 5.743.112 ; $ 4.318.829 
+7499;Europa;5;Spain;Ropa;Offline;Alta;9/02/2021;749981534;11/02/2021;5057; $ 109,28 ; $ 35,84 ; $ 552.629 ; $ 181.243 
+2020;Europa;5;Sweden;Cereales;Online;Crítica;12/04/2022;202073180;8/05/2022;6799; $ 205,70 ; $ 117,11 ; $ 1.398.554 ; $ 796.231 
+9491;África;1;Ethiopia;Doméstico;Offline;Baja;26/11/2020;949191987;15/12/2020;5857; $ 668,27 ; $ 502,54 ; $ 3.914.057 ; $ 2.943.377 
+6820;Asia;2;Turkmenistan;Cuidado personal;Offline;Baja;4/10/2022;682011783;14/11/2022;1297; $ 81,73 ; $ 56,67 ; $ 106.004 ; $ 73.501 
+3115;Europa;5;Malta;Ropa;Online;Baja;6/08/2022;311518895;21/08/2022;4219; $ 109,28 ; $ 35,84 ; $ 461.052 ; $ 151.209 
+8190;África;1;Malawi;Cosméticos;Offline;Baja;16/09/2022;819012153;18/09/2022;2751; $ 437,20 ; $ 263,33 ; $ 1.202.737 ; $ 724.421 
+1061;Europa;5;Czech Republic;Material de oficina;Offline;Crítica;29/01/2020;106102883;28/02/2020;7056; $ 651,21 ; $ 524,96 ; $ 4.594.938 ; $ 3.704.118 
+6447;Europa;5;Netherlands;Cárnicos;Offline;Media;3/02/2022;644714915;10/02/2022;4325; $ 421,89 ; $ 364,69 ; $ 1.824.674 ; $ 1.577.284 
+9270;Europa;5;Sweden;Bebida;Offline;Baja;2/04/2022;927084577;16/04/2022;3783; $ 47,45 ; $ 31,79 ; $ 179.503 ; $ 120.262 
+4157;África;1;Saudi Arabia;Verduras;Online;Crítica;6/08/2021;415760695;18/08/2021;1684; $ 154,06 ; $ 90,93 ; $ 259.437 ; $ 153.126 
+8936;África;1;Turkey;Cereales;Online;Media;29/07/2021;893604600;29/08/2021;6314; $ 205,70 ; $ 117,11 ; $ 1.298.790 ; $ 739.433 
+6137;Centroamérica y Caribe;4;Dominican Republic;Ropa;Offline;Baja;12/08/2022;613790118;18/09/2022;2991; $ 109,28 ; $ 35,84 ; $ 326.856 ; $ 107.197 
+1498;Asia;2;Uzbekistan;Cuidado personal;Offline;Alta;31/08/2022;149803578;7/09/2022;9063; $ 81,73 ; $ 56,67 ; $ 740.719 ; $ 513.600 
+1454;África;1;Kuwait;Snacks;Offline;Media;14/07/2021;145443809;26/07/2021;8910; $ 152,58 ; $ 97,44 ; $ 1.359.488 ; $ 868.190 
+8648;Australia y Oceanía;3;Federated States of Micronesia;Ropa;Offline;Crítica;9/04/2022;864822137;11/05/2022;8943; $ 109,28 ; $ 35,84 ; $ 977.291 ; $ 320.517 
+8423;Australia y Oceanía;3;Samoa ;Material de oficina;Online;Alta;10/03/2021;842362391;14/04/2021;2606; $ 651,21 ; $ 524,96 ; $ 1.697.053 ; $ 1.368.046 
+9328;África;1;Eritrea;Snacks;Online;Baja;18/09/2020;932800900;21/09/2020;5370; $ 152,58 ; $ 97,44 ; $ 819.355 ; $ 523.253 
+2611;Asia;2;Singapore;Alimento infantil;Online;Alta;3/04/2022;261186492;13/04/2022;9742; $ 255,28 ; $ 159,42 ; $ 2.486.938 ; $ 1.553.070 
+2728;África;1;Mauritania;Doméstico;Offline;Media;23/11/2021;272880494;31/12/2021;257; $ 668,27 ; $ 502,54 ; $ 171.745 ; $ 129.153 
+6835;Asia;2;Bhutan;Ropa;Online;Alta;30/05/2020;683556735;8/06/2020;8483; $ 109,28 ; $ 35,84 ; $ 927.022 ; $ 304.031 
+8292;África;1;Republic of the Congo;Bebida;Online;Baja;5/11/2021;829201543;15/11/2021;8018; $ 47,45 ; $ 31,79 ; $ 380.454 ; $ 254.892 
+1161;Europa;5;Germany;Bebida;Online;Media;18/08/2020;116113746;1/09/2020;9493; $ 47,45 ; $ 31,79 ; $ 450.443 ; $ 301.782 
+2709;África;1;Tunisia ;Cereales;Offline;Media;6/03/2020;270904672;14/03/2020;5567; $ 205,70 ; $ 117,11 ; $ 1.145.132 ; $ 651.951 
+3904;Asia;2;Myanmar;Cereales;Offline;Media;7/01/2020;390498149;26/01/2020;5935; $ 205,70 ; $ 117,11 ; $ 1.220.830 ; $ 695.048 
+9921;Europa;5;Romania;Cosméticos;Offline;Media;28/01/2020;992130506;3/03/2020;2319; $ 437,20 ; $ 263,33 ; $ 1.013.867 ; $ 610.662 
+8633;Europa;5;Greece;Snacks;Offline;Crítica;10/02/2022;863350570;14/03/2022;3474; $ 152,58 ; $ 97,44 ; $ 530.063 ; $ 338.507 
+2120;África;1;Benin;Cosméticos;Offline;Baja;28/07/2022;212019670;29/07/2022;187; $ 437,20 ; $ 263,33 ; $ 81.756 ; $ 49.243 
+2163;Centroamérica y Caribe;4;Jamaica;Material de oficina;Online;Crítica;5/08/2022;216311633;27/08/2022;274; $ 651,21 ; $ 524,96 ; $ 178.432 ; $ 143.839 
+7747;Europa;5;Liechtenstein;Doméstico;Online;Alta;6/11/2020;774712789;11/12/2020;3585; $ 668,27 ; $ 502,54 ; $ 2.395.748 ; $ 1.801.606 
+9560;Norteamérica;6;Greenland;Alimento infantil;Online;Crítica;17/09/2020;956021964;8/10/2020;6999; $ 255,28 ; $ 159,42 ; $ 1.786.705 ; $ 1.115.781 
+3493;Europa;5;Romania;Cosméticos;Online;Alta;26/03/2020;349350488;19/04/2020;9428; $ 437,20 ; $ 263,33 ; $ 4.121.922 ; $ 2.482.675 
+4141;Asia;2;China;Cosméticos;Online;Alta;26/02/2022;414122188;23/03/2022;6813; $ 437,20 ; $ 263,33 ; $ 2.978.644 ; $ 1.794.067 
+4300;Australia y Oceanía;3;East Timor;Doméstico;Offline;Baja;17/01/2021;430073392;5/02/2021;7129; $ 668,27 ; $ 502,54 ; $ 4.764.097 ; $ 3.582.608 
+6472;Europa;5;Albania;Cuidado personal;Online;Media;18/11/2021;647252929;28/12/2021;5380; $ 81,73 ; $ 56,67 ; $ 439.707 ; $ 304.885 
+9360;Asia;2;Laos;Frutas;Offline;Alta;20/06/2021;936022126;24/07/2021;8602; $ 9,33 ; $ 6,92 ; $ 80.257 ; $ 59.526 
+3370;África;1;Central African Republic;Material de oficina;Offline;Baja;17/04/2021;337054812;24/05/2021;864; $ 651,21 ; $ 524,96 ; $ 562.645 ; $ 453.565 
+2113;Europa;5;Netherlands;Cárnicos;Offline;Crítica;24/05/2020;211337316;8/07/2020;8263; $ 421,89 ; $ 364,69 ; $ 3.486.077 ; $ 3.013.433 
+1901;Australia y Oceanía;3;Solomon Islands;Snacks;Offline;Media;30/06/2022;190168464;15/08/2022;3929; $ 152,58 ; $ 97,44 ; $ 599.487 ; $ 382.842 
+4251;África;1;Seychelles ;Ropa;Offline;Media;16/04/2020;425159585;26/05/2020;3024; $ 109,28 ; $ 35,84 ; $ 330.463 ; $ 108.380 
+2382;Asia;2;Kazakhstan;Cárnicos;Online;Baja;7/08/2022;238234508;21/08/2022;7740; $ 421,89 ; $ 364,69 ; $ 3.265.429 ; $ 2.822.701 
+3716;Europa;5;Hungary;Cosméticos;Offline;Alta;26/06/2021;371629559;16/07/2021;2300; $ 437,20 ; $ 263,33 ; $ 1.005.560 ; $ 605.659 
+7378;Asia;2;Laos;Alimento infantil;Offline;Baja;13/04/2022;737893569;30/05/2022;7960; $ 255,28 ; $ 159,42 ; $ 2.032.029 ; $ 1.268.983 
+8698;África;1;Yemen;Ropa;Online;Crítica;25/02/2022;869887864;15/04/2022;8005; $ 109,28 ; $ 35,84 ; $ 874.786 ; $ 286.899 
+3707;Europa;5;Russia;Cuidado personal;Offline;Alta;1/02/2020;370786273;16/02/2020;2753; $ 81,73 ; $ 56,67 ; $ 225.003 ; $ 156.013 
+2640;Asia;2;Philippines;Cereales;Offline;Alta;10/03/2021;264075124;11/03/2021;4552; $ 205,70 ; $ 117,11 ; $ 936.346 ; $ 533.085 
+7435;Australia y Oceanía;3;Marshall Islands;Frutas;Online;Baja;22/12/2020;743553245;22/12/2020;2783; $ 9,33 ; $ 6,92 ; $ 25.965 ; $ 19.258 
+7233;África;1;Burkina Faso;Cuidado personal;Online;Crítica;24/01/2021;723331964;11/02/2021;8857; $ 81,73 ; $ 56,67 ; $ 723.883 ; $ 501.926 
+9878;Europa;5;Kosovo;Snacks;Offline;Media;23/01/2022;987835109;13/03/2022;1215; $ 152,58 ; $ 97,44 ; $ 185.385 ; $ 118.390 
+1417;Asia;2;North Korea;Material de oficina;Offline;Alta;7/02/2022;141799008;28/03/2022;333; $ 651,21 ; $ 524,96 ; $ 216.853 ; $ 174.812 
+4602;Asia;2;Bhutan;Snacks;Online;Alta;1/03/2021;460272490;16/03/2021;3713; $ 152,58 ; $ 97,44 ; $ 566.530 ; $ 361.795 
+2386;Europa;5;Switzerland;Material de oficina;Offline;Media;25/06/2022;238616883;2/07/2022;893; $ 651,21 ; $ 524,96 ; $ 581.531 ; $ 468.789 
+5425;África;1;Libya;Cuidado personal;Offline;Alta;17/07/2022;542506015;7/08/2022;8440; $ 81,73 ; $ 56,67 ; $ 689.801 ; $ 478.295 
+2579;Centroamérica y Caribe;4;Honduras;Verduras;Online;Alta;4/02/2021;257926213;23/02/2021;4953; $ 154,06 ; $ 90,93 ; $ 763.059 ; $ 450.376 
+1411;África;1;Benin;Alimento infantil;Online;Media;2/08/2022;141176307;20/09/2022;6061; $ 255,28 ; $ 159,42 ; $ 1.547.252 ; $ 966.245 
+5688;África;1;Egypt;Cárnicos;Online;Media;31/05/2020;568867623;22/06/2020;9426; $ 421,89 ; $ 364,69 ; $ 3.976.735 ; $ 3.437.568 
+1879;Europa;5;Cyprus;Bebida;Online;Media;5/04/2021;187923991;17/05/2021;9740; $ 47,45 ; $ 31,79 ; $ 462.163 ; $ 309.635 
+8655;África;1;Morocco;Cereales;Online;Alta;4/10/2020;865581738;23/10/2020;3726; $ 205,70 ; $ 117,11 ; $ 766.438 ; $ 436.352 
+9393;Europa;5;Estonia;Bebida;Offline;Alta;8/02/2022;939389693;15/02/2022;5140; $ 47,45 ; $ 31,79 ; $ 243.893 ; $ 163.401 
+1672;Asia;2;South Korea;Alimento infantil;Online;Crítica;24/04/2020;167209184;16/05/2020;9768; $ 255,28 ; $ 159,42 ; $ 2.493.575 ; $ 1.557.215 
+1772;Asia;2;Vietnam;Cosméticos;Online;Media;20/10/2020;177214038;6/11/2020;427; $ 437,20 ; $ 263,33 ; $ 186.684 ; $ 112.442 
+4178;África;1;Syria;Snacks;Offline;Alta;29/10/2020;417890584;6/11/2020;1965; $ 152,58 ; $ 97,44 ; $ 299.820 ; $ 191.470 
+4080;Europa;5;Luxembourg;Ropa;Online;Baja;27/04/2022;408037650;27/04/2022;6263; $ 109,28 ; $ 35,84 ; $ 684.421 ; $ 224.466 
+1867;Centroamérica y Caribe;4;Cuba;Cosméticos;Online;Alta;28/11/2021;186766564;12/12/2021;7232; $ 437,20 ; $ 263,33 ; $ 3.161.830 ; $ 1.904.403 
+7635;Asia;2;Maldives;Cárnicos;Offline;Alta;27/11/2020;763501155;2/12/2020;5813; $ 421,89 ; $ 364,69 ; $ 2.452.447 ; $ 2.119.943 
+9679;Asia;2;Taiwan;Bebida;Online;Media;10/01/2021;967977750;22/02/2021;4982; $ 47,45 ; $ 31,79 ; $ 236.396 ; $ 158.378 
+6002;Europa;5;Bosnia and Herzegovina;Snacks;Offline;Crítica;7/02/2020;600245177;14/03/2020;4742; $ 152,58 ; $ 97,44 ; $ 723.534 ; $ 462.060 
+8806;África;1;Afghanistan;Cosméticos;Offline;Baja;28/01/2022;880664765;3/02/2022;7129; $ 437,20 ; $ 263,33 ; $ 3.116.799 ; $ 1.877.280 
+3999;Norteamérica;6;Canada;Cereales;Online;Media;20/04/2021;399910342;4/05/2021;1212; $ 205,70 ; $ 117,11 ; $ 249.308 ; $ 141.937 
+9689;África;1;Qatar;Cárnicos;Offline;Media;4/02/2021;968968236;8/03/2021;8088; $ 421,89 ; $ 364,69 ; $ 3.412.246 ; $ 2.949.613 
+8691;Europa;5;Malta;Verduras;Offline;Baja;24/11/2020;869137275;15/12/2020;5889; $ 154,06 ; $ 90,93 ; $ 907.259 ; $ 535.487 
+7020;África;1;Bahrain;Verduras;Online;Crítica;19/07/2020;702028787;25/07/2020;4773; $ 154,06 ; $ 90,93 ; $ 735.328 ; $ 434.009 
+2395;África;1;Zambia;Frutas;Offline;Baja;19/09/2021;239566600;20/09/2021;1935; $ 9,33 ; $ 6,92 ; $ 18.054 ; $ 13.390 
+6739;Asia;2;Bangladesh;Ropa;Online;Crítica;5/10/2020;673987042;7/11/2020;6598; $ 109,28 ; $ 35,84 ; $ 721.029 ; $ 236.472 
+5678;África;1;Egypt;Cárnicos;Offline;Media;1/08/2021;567838943;14/08/2021;5017; $ 421,89 ; $ 364,69 ; $ 2.116.622 ; $ 1.829.650 
+8039;Asia;2;Japan;Ropa;Online;Crítica;9/10/2022;803983628;1/11/2022;5477; $ 109,28 ; $ 35,84 ; $ 598.527 ; $ 196.296 
+5355;Centroamérica y Caribe;4;Jamaica;Cosméticos;Offline;Media;21/11/2021;535594928;17/12/2021;3296; $ 437,20 ; $ 263,33 ; $ 1.441.011 ; $ 867.936 
+3361;África;1;Namibia;Alimento infantil;Online;Media;14/08/2022;336159169;17/08/2022;5823; $ 255,28 ; $ 159,42 ; $ 1.486.495 ; $ 928.303 
+8494;Australia y Oceanía;3;Federated States of Micronesia;Cárnicos;Offline;Crítica;21/11/2021;849475181;12/12/2021;7438; $ 421,89 ; $ 364,69 ; $ 3.138.018 ; $ 2.712.564 
+5396;África;1;Iran;Ropa;Offline;Media;6/10/2022;539654290;18/10/2022;4552; $ 109,28 ; $ 35,84 ; $ 497.443 ; $ 163.144 
+6411;Asia;2;Malaysia;Cereales;Online;Alta;20/07/2021;641120326;3/09/2021;606; $ 205,70 ; $ 117,11 ; $ 124.654 ; $ 70.969 
+2086;Asia;2;Tajikistan;Verduras;Offline;Crítica;4/09/2020;208609616;5/09/2020;1076; $ 154,06 ; $ 90,93 ; $ 165.769 ; $ 97.841 
+1671;África;1;Iran;Cárnicos;Offline;Alta;20/07/2021;167170989;22/07/2021;8465; $ 421,89 ; $ 364,69 ; $ 3.571.299 ; $ 3.087.101 
+1621;Australia y Oceanía;3;Samoa ;Cárnicos;Online;Crítica;3/04/2020;162165772;6/05/2020;7311; $ 421,89 ; $ 364,69 ; $ 3.084.438 ; $ 2.666.249 
+8092;África;1;Botswana;Cosméticos;Online;Crítica;5/06/2020;809267795;20/06/2020;9179; $ 437,20 ; $ 263,33 ; $ 4.013.059 ; $ 2.417.106 
+5444;Europa;5;Austria;Alimento infantil;Online;Crítica;22/05/2020;544463384;25/06/2020;7669; $ 255,28 ; $ 159,42 ; $ 1.957.742 ; $ 1.222.592 
+5740;África;1;Syria;Bebida;Online;Alta;17/04/2020;574051368;1/05/2020;3411; $ 47,45 ; $ 31,79 ; $ 161.852 ; $ 108.436 
+8246;África;1;Senegal;Frutas;Online;Crítica;10/09/2020;824643075;23/10/2020;9066; $ 9,33 ; $ 6,92 ; $ 84.586 ; $ 62.737 
+3931;África;1;Mauritius ;Cuidado personal;Offline;Media;11/02/2021;393162333;29/03/2021;4326; $ 81,73 ; $ 56,67 ; $ 353.564 ; $ 245.154 
+6968;África;1;Cote d'Ivoire;Frutas;Online;Alta;28/06/2021;696845471;8/07/2021;915; $ 9,33 ; $ 6,92 ; $ 8.537 ; $ 6.332 
+5232;Centroamérica y Caribe;4;Belize;Ropa;Offline;Alta;18/09/2020;523241317;3/10/2020;7588; $ 109,28 ; $ 35,84 ; $ 829.217 ; $ 271.954 
+9802;África;1;Morocco;Cereales;Offline;Baja;15/12/2020;980211198;15/12/2020;5131; $ 205,70 ; $ 117,11 ; $ 1.055.447 ; $ 600.891 
+5459;Australia y Oceanía;3;Australia;Doméstico;Online;Baja;27/06/2020;545928943;10/08/2020;1361; $ 668,27 ; $ 502,54 ; $ 909.515 ; $ 683.957 
+9188;África;1;Senegal;Verduras;Online;Baja;5/11/2020;918880879;13/12/2020;6127; $ 154,06 ; $ 90,93 ; $ 943.926 ; $ 557.128 
+2678;Centroamérica y Caribe;4;Antigua and Barbuda ;Verduras;Offline;Alta;18/07/2022;267865836;30/07/2022;6308; $ 154,06 ; $ 90,93 ; $ 971.810 ; $ 573.586 
+8819;Europa;5;Poland;Material de oficina;Online;Alta;8/10/2020;881995141;20/10/2020;817; $ 651,21 ; $ 524,96 ; $ 532.039 ; $ 428.892 
+6206;Europa;5;Kosovo;Cuidado personal;Online;Crítica;17/02/2021;620692622;6/03/2021;5595; $ 81,73 ; $ 56,67 ; $ 457.279 ; $ 317.069 
+5636;Asia;2;Malaysia;Cárnicos;Online;Media;19/01/2021;563694608;11/02/2021;8616; $ 421,89 ; $ 364,69 ; $ 3.635.004 ; $ 3.142.169 
+9610;Centroamérica y Caribe;4;Guatemala;Bebida;Online;Alta;26/08/2022;961049926;9/09/2022;4885; $ 47,45 ; $ 31,79 ; $ 231.793 ; $ 155.294 
+7831;Australia y Oceanía;3;Vanuatu;Material de oficina;Online;Baja;24/09/2022;783119904;30/10/2022;1437; $ 651,21 ; $ 524,96 ; $ 935.789 ; $ 754.368 
+8705;Centroamérica y Caribe;4;Nicaragua;Cuidado personal;Online;Alta;13/10/2022;870578372;6/11/2022;2341; $ 81,73 ; $ 56,67 ; $ 191.330 ; $ 132.664 
+7844;África;1;Lesotho;Snacks;Offline;Media;3/11/2021;784411656;29/11/2021;3695; $ 152,58 ; $ 97,44 ; $ 563.783 ; $ 360.041 
+1559;Asia;2;Turkmenistan;Doméstico;Offline;Crítica;10/10/2020;155918586;7/11/2020;8629; $ 668,27 ; $ 502,54 ; $ 5.766.502 ; $ 4.336.418 
+9367;África;1;Saudi Arabia;Cosméticos;Offline;Crítica;7/11/2020;936710488;8/12/2020;2304; $ 437,20 ; $ 263,33 ; $ 1.007.309 ; $ 606.712 
+6487;Asia;2;Japan;Snacks;Online;Media;24/04/2022;648711192;16/05/2022;6912; $ 152,58 ; $ 97,44 ; $ 1.054.633 ; $ 673.505 
+9341;Europa;5;Latvia;Doméstico;Online;Crítica;1/02/2020;934157025;3/02/2020;6678; $ 668,27 ; $ 502,54 ; $ 4.462.707 ; $ 3.355.962 
+8055;Norteamérica;6;Greenland;Ropa;Online;Crítica;11/05/2022;805596816;23/05/2022;2855; $ 109,28 ; $ 35,84 ; $ 311.994 ; $ 102.323 
+6958;Centroamérica y Caribe;4;Costa Rica;Cereales;Online;Alta;30/07/2020;695891892;3/08/2020;8730; $ 205,70 ; $ 117,11 ; $ 1.795.761 ; $ 1.022.370 
+2082;Asia;2;Japan;Cuidado personal;Offline;Baja;24/04/2022;208216083;13/05/2022;4621; $ 81,73 ; $ 56,67 ; $ 377.674 ; $ 261.872 
+3660;Europa;5;Cyprus;Cereales;Offline;Crítica;25/03/2021;366055715;5/04/2021;2875; $ 205,70 ; $ 117,11 ; $ 591.388 ; $ 336.691 
+4632;África;1;Pakistan;Cárnicos;Online;Baja;3/06/2021;463209617;27/06/2021;2874; $ 421,89 ; $ 364,69 ; $ 1.212.512 ; $ 1.048.119 
+3137;Europa;5;Monaco;Cosméticos;Online;Media;25/08/2021;313789117;7/09/2021;6028; $ 437,20 ; $ 263,33 ; $ 2.635.442 ; $ 1.587.353 
+7022;Asia;2;China;Cereales;Offline;Crítica;6/07/2022;702218043;29/07/2022;779; $ 205,70 ; $ 117,11 ; $ 160.240 ; $ 91.229 
+2332;Australia y Oceanía;3;New Zealand;Cárnicos;Online;Alta;26/02/2022;233232724;8/03/2022;7601; $ 421,89 ; $ 364,69 ; $ 3.206.786 ; $ 2.772.009 
+2818;Centroamérica y Caribe;4;Guatemala;Alimento infantil;Offline;Baja;20/07/2020;281881988;11/08/2020;3999; $ 255,28 ; $ 159,42 ; $ 1.020.865 ; $ 637.521 
+9435;África;1;Libya;Snacks;Online;Media;6/12/2020;943527162;22/12/2020;9509; $ 152,58 ; $ 97,44 ; $ 1.450.883 ; $ 926.557 
+5838;Europa;5;Liechtenstein;Cárnicos;Offline;Media;24/08/2022;583842074;4/10/2022;699; $ 421,89 ; $ 364,69 ; $ 294.901 ; $ 254.918 
+7888;África;1;Democratic Republic of the Congo;Alimento infantil;Online;Alta;3/08/2022;788813054;9/08/2022;6167; $ 255,28 ; $ 159,42 ; $ 1.574.312 ; $ 983.143 
+5147;Asia;2;Mongolia;Cuidado personal;Online;Crítica;4/05/2022;514738929;16/05/2022;1543; $ 81,73 ; $ 56,67 ; $ 126.109 ; $ 87.442 
+1382;Europa;5;Bosnia and Herzegovina;Frutas;Offline;Media;7/01/2021;138231027;28/01/2021;4487; $ 9,33 ; $ 6,92 ; $ 41.864 ; $ 31.050 
+1062;Centroamérica y Caribe;4;Cuba;Cereales;Online;Crítica;13/06/2022;106213176;15/07/2022;9694; $ 205,70 ; $ 117,11 ; $ 1.994.056 ; $ 1.135.264 
+4859;Asia;2;Bhutan;Snacks;Offline;Media;6/04/2022;485921704;15/04/2022;3885; $ 152,58 ; $ 97,44 ; $ 592.773 ; $ 378.554 
+5149;Asia;2;Laos;Material de oficina;Online;Alta;18/10/2020;514905440;22/10/2020;817; $ 651,21 ; $ 524,96 ; $ 532.039 ; $ 428.892 
+8510;Asia;2;Turkmenistan;Cuidado personal;Online;Baja;23/08/2021;851025712;27/09/2021;6275; $ 81,73 ; $ 56,67 ; $ 512.856 ; $ 355.604 
+4224;Australia y Oceanía;3;Papua New Guinea;Alimento infantil;Offline;Baja;24/08/2021;422456347;26/08/2021;3076; $ 255,28 ; $ 159,42 ; $ 785.241 ; $ 490.376 
+4776;África;1;Qatar;Cosméticos;Offline;Alta;29/11/2020;477683675;23/12/2020;6069; $ 437,20 ; $ 263,33 ; $ 2.653.367 ; $ 1.598.150 
+5355;Australia y Oceanía;3;Palau;Ropa;Online;Baja;19/05/2021;535506522;25/05/2021;7135; $ 109,28 ; $ 35,84 ; $ 779.713 ; $ 255.718 
+6350;Asia;2;Philippines;Cereales;Online;Baja;15/07/2022;635036218;31/07/2022;184; $ 205,70 ; $ 117,11 ; $ 37.849 ; $ 21.548 
+8856;Australia y Oceanía;3;Papua New Guinea;Cárnicos;Offline;Baja;31/10/2022;885696589;11/11/2022;6158; $ 421,89 ; $ 364,69 ; $ 2.597.999 ; $ 2.245.761 
+1172;África;1;Liberia;Verduras;Offline;Baja;14/02/2021;117223966;25/02/2021;8031; $ 154,06 ; $ 90,93 ; $ 1.237.256 ; $ 730.259 
+8296;África;1;Iran;Ropa;Offline;Alta;16/12/2020;829667174;9/01/2021;5809; $ 109,28 ; $ 35,84 ; $ 634.808 ; $ 208.195 
+6433;Centroamérica y Caribe;4;Guatemala;Bebida;Offline;Crítica;28/07/2020;643387544;20/08/2020;1527; $ 47,45 ; $ 31,79 ; $ 72.456 ; $ 48.543 
+8490;Australia y Oceanía;3;Tuvalu;Snacks;Offline;Baja;9/01/2020;849058902;25/01/2020;4252; $ 152,58 ; $ 97,44 ; $ 648.770 ; $ 414.315 
+5576;Asia;2;Philippines;Material de oficina;Offline;Baja;19/08/2022;557667577;15/09/2022;5083; $ 651,21 ; $ 524,96 ; $ 3.310.100 ; $ 2.668.372 
+7505;Asia;2;Singapore;Ropa;Offline;Crítica;15/02/2022;750512397;4/03/2022;2151; $ 109,28 ; $ 35,84 ; $ 235.061 ; $ 77.092 
+2292;Asia;2;Laos;Verduras;Online;Media;13/03/2021;229204690;25/03/2021;5616; $ 154,06 ; $ 90,93 ; $ 865.201 ; $ 510.663 
+5656;Europa;5;Montenegro;Frutas;Offline;Alta;10/07/2021;565668284;3/08/2021;2671; $ 9,33 ; $ 6,92 ; $ 24.920 ; $ 18.483 
+2521;Centroamérica y Caribe;4;Barbados;Snacks;Offline;Media;23/04/2022;252139508;23/05/2022;2538; $ 152,58 ; $ 97,44 ; $ 387.248 ; $ 247.303 
+5511;África;1;Egypt;Snacks;Offline;Alta;1/10/2021;551167190;13/11/2021;1474; $ 152,58 ; $ 97,44 ; $ 224.903 ; $ 143.627 
+5456;África;1;Sudan;Doméstico;Offline;Crítica;16/04/2021;545612657;29/05/2021;7765; $ 668,27 ; $ 502,54 ; $ 5.189.117 ; $ 3.902.223 
+2886;África;1;Democratic Republic of the Congo;Snacks;Offline;Baja;7/05/2021;288649737;20/06/2021;6727; $ 152,58 ; $ 97,44 ; $ 1.026.406 ; $ 655.479 
+3537;Centroamérica y Caribe;4;Cuba;Cuidado personal;Online;Baja;30/09/2022;353764760;27/10/2022;5709; $ 81,73 ; $ 56,67 ; $ 466.597 ; $ 323.529 
+4847;África;1;Ghana;Frutas;Offline;Media;5/06/2022;484756553;14/06/2022;9091; $ 9,33 ; $ 6,92 ; $ 84.819 ; $ 62.910 
+9457;Europa;5;Poland;Bebida;Online;Media;30/07/2020;945736443;20/08/2020;3285; $ 47,45 ; $ 31,79 ; $ 155.873 ; $ 104.430 
+2711;África;1;Saudi Arabia;Bebida;Offline;Baja;2/02/2022;271128261;7/03/2022;1732; $ 47,45 ; $ 31,79 ; $ 82.183 ; $ 55.060 
+2156;Centroamérica y Caribe;4;Barbados;Alimento infantil;Offline;Baja;26/10/2020;215668332;21/11/2020;9907; $ 255,28 ; $ 159,42 ; $ 2.529.059 ; $ 1.579.374 
+8044;Europa;5;Bosnia and Herzegovina;Frutas;Online;Alta;9/01/2021;804405486;1/02/2021;314; $ 9,33 ; $ 6,92 ; $ 2.930 ; $ 2.173 
+7827;África;1;Lebanon;Cárnicos;Online;Media;26/08/2021;782701051;1/09/2021;7489; $ 421,89 ; $ 364,69 ; $ 3.159.534 ; $ 2.731.163 
+7662;Europa;5;Latvia;Doméstico;Offline;Crítica;15/08/2020;766228854;3/10/2020;3000; $ 668,27 ; $ 502,54 ; $ 2.004.810 ; $ 1.507.620 
+9909;Australia y Oceanía;3;Australia;Frutas;Online;Media;21/12/2021;990975224;27/01/2022;445; $ 9,33 ; $ 6,92 ; $ 4.152 ; $ 3.079 
+8632;África;1;Jordan;Cereales;Online;Media;20/02/2020;863238990;3/04/2020;455; $ 205,70 ; $ 117,11 ; $ 93.594 ; $ 53.285 
+3096;Europa;5;United Kingdom;Cuidado personal;Offline;Media;22/05/2021;309631478;27/05/2021;5690; $ 81,73 ; $ 56,67 ; $ 465.044 ; $ 322.452 
+2270;Centroamérica y Caribe;4;Haiti;Verduras;Offline;Baja;24/05/2022;227076518;13/07/2022;5843; $ 154,06 ; $ 90,93 ; $ 900.173 ; $ 531.304 
+2328;Asia;2;South Korea;Cuidado personal;Online;Crítica;23/03/2020;232810437;6/04/2020;2637; $ 81,73 ; $ 56,67 ; $ 215.522 ; $ 149.439 
+9143;África;1;Niger;Bebida;Online;Crítica;10/05/2022;914382064;6/06/2022;4827; $ 47,45 ; $ 31,79 ; $ 229.041 ; $ 153.450 
+6796;África;1;Mozambique;Verduras;Online;Crítica;17/05/2022;679652726;13/06/2022;3200; $ 154,06 ; $ 90,93 ; $ 492.992 ; $ 290.976 
+7067;Europa;5;Armenia;Cereales;Online;Baja;2/06/2021;706796252;16/07/2021;5572; $ 205,70 ; $ 117,11 ; $ 1.146.160 ; $ 652.537 
+8942;Europa;5;Iceland;Frutas;Online;Media;8/01/2021;894298970;26/01/2021;1793; $ 9,33 ; $ 6,92 ; $ 16.729 ; $ 12.408 
+3109;Centroamérica y Caribe;4;Panama;Bebida;Online;Baja;10/09/2021;310959708;12/10/2021;8743; $ 47,45 ; $ 31,79 ; $ 414.855 ; $ 277.940 
+3458;Europa;5;Switzerland;Bebida;Offline;Baja;27/06/2021;345889794;25/07/2021;5331; $ 47,45 ; $ 31,79 ; $ 252.956 ; $ 169.472 
+6585;África;1;Mauritius ;Frutas;Online;Alta;15/04/2020;658513057;23/05/2020;7502; $ 9,33 ; $ 6,92 ; $ 69.994 ; $ 51.914 
+5285;Europa;5;Andorra;Material de oficina;Online;Media;28/03/2021;528565824;3/04/2021;3228; $ 651,21 ; $ 524,96 ; $ 2.102.106 ; $ 1.694.571 
+2060;Asia;2;Bangladesh;Material de oficina;Online;Alta;28/09/2020;206096923;15/10/2020;7514; $ 651,21 ; $ 524,96 ; $ 4.893.192 ; $ 3.944.549 
+4614;Australia y Oceanía;3;Tonga;Ropa;Online;Baja;25/04/2021;461467683;11/05/2021;7397; $ 109,28 ; $ 35,84 ; $ 808.344 ; $ 265.108 
+3353;Centroamérica y Caribe;4;Jamaica;Bebida;Online;Alta;4/08/2021;335351932;13/09/2021;6944; $ 47,45 ; $ 31,79 ; $ 329.493 ; $ 220.750 
+2887;África;1;Israel;Verduras;Online;Media;10/08/2020;288735997;14/09/2020;2253; $ 154,06 ; $ 90,93 ; $ 347.097 ; $ 204.865 
+8529;Europa;5;France;Cuidado personal;Offline;Crítica;3/02/2022;852918708;14/03/2022;6454; $ 81,73 ; $ 56,67 ; $ 527.485 ; $ 365.748 
+3795;África;1;Benin;Snacks;Offline;Crítica;3/08/2021;379511392;3/08/2021;4709; $ 152,58 ; $ 97,44 ; $ 718.499 ; $ 458.845 
+8904;Asia;2;Philippines;Verduras;Offline;Media;16/03/2022;890437877;24/03/2022;9210; $ 154,06 ; $ 90,93 ; $ 1.418.893 ; $ 837.465 
+4279;Europa;5;Slovakia;Frutas;Offline;Alta;21/09/2021;427934491;4/10/2021;4180; $ 9,33 ; $ 6,92 ; $ 38.999 ; $ 28.926 
+7045;Asia;2;Laos;Doméstico;Offline;Alta;13/08/2022;704550063;18/08/2022;875; $ 668,27 ; $ 502,54 ; $ 584.736 ; $ 439.723 
+3531;Australia y Oceanía;3;Nauru;Cárnicos;Online;Crítica;16/01/2022;353145921;23/02/2022;2580; $ 421,89 ; $ 364,69 ; $ 1.088.476 ; $ 940.900 
+7768;África;1;Benin;Snacks;Online;Media;9/11/2021;776895892;9/11/2021;9614; $ 152,58 ; $ 97,44 ; $ 1.466.904 ; $ 936.788 
+2992;Centroamérica y Caribe;4;Guatemala;Verduras;Online;Crítica;14/06/2021;299286305;3/08/2021;4323; $ 154,06 ; $ 90,93 ; $ 666.001 ; $ 393.090 
+9141;Centroamérica y Caribe;4;Belize;Snacks;Online;Alta;17/01/2022;914115989;12/02/2022;6090; $ 152,58 ; $ 97,44 ; $ 929.212 ; $ 593.410 
+6354;África;1;Tunisia ;Alimento infantil;Offline;Crítica;30/05/2022;635496270;5/07/2022;6323; $ 255,28 ; $ 159,42 ; $ 1.614.135 ; $ 1.008.013 
+2478;África;1;Republic of the Congo;Cárnicos;Offline;Alta;13/04/2020;247850978;8/05/2020;3467; $ 421,89 ; $ 364,69 ; $ 1.462.693 ; $ 1.264.380 
+1559;Australia y Oceanía;3;Kiribati;Ropa;Offline;Baja;21/05/2022;155916440;10/07/2022;7994; $ 109,28 ; $ 35,84 ; $ 873.584 ; $ 286.505 
+8347;Europa;5;Albania;Verduras;Offline;Baja;11/02/2020;834741485;17/02/2020;7410; $ 154,06 ; $ 90,93 ; $ 1.141.585 ; $ 673.791 
+5796;Australia y Oceanía;3;Palau;Cárnicos;Online;Baja;2/06/2022;579687440;5/06/2022;1250; $ 421,89 ; $ 364,69 ; $ 527.363 ; $ 455.863 
+4564;África;1;Angola;Cuidado personal;Online;Alta;27/01/2020;456428134;6/03/2020;6083; $ 81,73 ; $ 56,67 ; $ 497.164 ; $ 344.724 
+2509;África;1;Swaziland;Snacks;Offline;Media;27/05/2021;250949895;19/06/2021;505; $ 152,58 ; $ 97,44 ; $ 77.053 ; $ 49.207 
+7195;Centroamérica y Caribe;4;Barbados;Verduras;Online;Baja;9/04/2022;719551551;14/04/2022;149; $ 154,06 ; $ 90,93 ; $ 22.955 ; $ 13.549 
+4388;Europa;5;Sweden;Cosméticos;Online;Crítica;20/10/2021;438844430;7/12/2021;2674; $ 437,20 ; $ 263,33 ; $ 1.169.073 ; $ 704.144 
+7557;África;1;Zambia;Verduras;Online;Crítica;15/12/2020;755752360;3/02/2021;2773; $ 154,06 ; $ 90,93 ; $ 427.208 ; $ 252.149 
+8375;África;1;Sierra Leone;Ropa;Online;Crítica;1/02/2021;837511670;28/02/2021;7169; $ 109,28 ; $ 35,84 ; $ 783.428 ; $ 256.937 
+8216;África;1;Sierra Leone;Cosméticos;Offline;Media;12/07/2022;821671187;11/08/2022;9619; $ 437,20 ; $ 263,33 ; $ 4.205.427 ; $ 2.532.971 
+4660;Europa;5;Andorra;Verduras;Online;Media;17/04/2020;466092240;13/05/2020;5906; $ 154,06 ; $ 90,93 ; $ 909.878 ; $ 537.033 
+4989;África;1;Seychelles ;Alimento infantil;Offline;Media;31/08/2022;498948657;16/09/2022;8850; $ 255,28 ; $ 159,42 ; $ 2.259.228 ; $ 1.410.867 
+3687;Europa;5;Andorra;Doméstico;Online;Baja;5/03/2021;368726766;24/03/2021;3299; $ 668,27 ; $ 502,54 ; $ 2.204.623 ; $ 1.657.879 
+4942;Centroamérica y Caribe;4;Costa Rica;Bebida;Offline;Baja;15/08/2020;494225394;24/09/2020;1132; $ 47,45 ; $ 31,79 ; $ 53.713 ; $ 35.986 
+9145;África;1;Burundi;Cosméticos;Offline;Baja;25/06/2020;914555871;11/08/2020;6261; $ 437,20 ; $ 263,33 ; $ 2.737.309 ; $ 1.648.709 
+8391;Australia y Oceanía;3;Fiji;Ropa;Online;Media;28/01/2022;839142024;15/03/2022;9627; $ 109,28 ; $ 35,84 ; $ 1.052.039 ; $ 345.032 
+8977;Norteamérica;6;Canada;Bebida;Online;Media;26/05/2021;897720181;2/06/2021;4206; $ 47,45 ; $ 31,79 ; $ 199.575 ; $ 133.709 
+8903;Asia;2;Philippines;Bebida;Offline;Crítica;30/12/2021;890339171;9/02/2022;1; $ 47,45 ; $ 31,79 ; $ 47 ; $ 32 
+2373;Asia;2;Turkmenistan;Snacks;Offline;Baja;7/02/2022;237360322;24/02/2022;9049; $ 152,58 ; $ 97,44 ; $ 1.380.696 ; $ 881.735 
+2294;Europa;5;Ukraine;Ropa;Online;Alta;11/10/2021;229457461;26/11/2021;417; $ 109,28 ; $ 35,84 ; $ 45.570 ; $ 14.945 
+8776;Asia;2;Indonesia;Cuidado personal;Online;Media;28/06/2021;877616918;28/06/2021;5203; $ 81,73 ; $ 56,67 ; $ 425.241 ; $ 294.854 
+4631;África;1;Sao Tome and Principe;Verduras;Offline;Baja;2/09/2020;463137519;14/10/2020;1539; $ 154,06 ; $ 90,93 ; $ 237.098 ; $ 139.941 
+4876;Asia;2;Indonesia;Cuidado personal;Online;Crítica;10/01/2022;487630593;25/02/2022;9584; $ 81,73 ; $ 56,67 ; $ 783.300 ; $ 543.125 
+7230;Asia;2;India;Verduras;Online;Crítica;3/07/2021;723019969;27/07/2021;6531; $ 154,06 ; $ 90,93 ; $ 1.006.166 ; $ 593.864 
+5615;África;1;Israel;Alimento infantil;Online;Media;6/03/2021;561541974;10/03/2021;1604; $ 255,28 ; $ 159,42 ; $ 409.469 ; $ 255.710 
+3657;África;1;Qatar;Verduras;Online;Alta;4/02/2022;365745437;4/02/2022;1057; $ 154,06 ; $ 90,93 ; $ 162.841 ; $ 96.113 
+1184;África;1;Liberia;Doméstico;Offline;Alta;4/11/2022;118491685;14/12/2022;3178; $ 668,27 ; $ 502,54 ; $ 2.123.762 ; $ 1.597.072 
+7729;África;1;South Sudan;Doméstico;Online;Alta;25/12/2020;772954547;3/02/2021;3282; $ 668,27 ; $ 502,54 ; $ 2.193.262 ; $ 1.649.336 
+2026;Europa;5;Latvia;Verduras;Online;Media;13/03/2020;202620351;11/04/2020;8719; $ 154,06 ; $ 90,93 ; $ 1.343.249 ; $ 792.819 
+8512;Centroamérica y Caribe;4;Saint Lucia;Frutas;Offline;Baja;12/04/2020;851287925;6/05/2020;3869; $ 9,33 ; $ 6,92 ; $ 36.098 ; $ 26.773 
+2830;África;1;Mali;Verduras;Offline;Crítica;5/06/2021;283068597;13/06/2021;5143; $ 154,06 ; $ 90,93 ; $ 792.331 ; $ 467.653 
+6323;Europa;5;Portugal;Bebida;Offline;Media;23/10/2022;632386195;12/12/2022;5983; $ 47,45 ; $ 31,79 ; $ 283.893 ; $ 190.200 
+9539;Asia;2;Malaysia;Snacks;Online;Crítica;20/02/2021;953977048;22/03/2021;1863; $ 152,58 ; $ 97,44 ; $ 284.257 ; $ 181.531 
+3728;Europa;5;Spain;Cosméticos;Online;Baja;4/09/2020;372889983;25/09/2020;5287; $ 437,20 ; $ 263,33 ; $ 2.311.476 ; $ 1.392.226 
+3344;Europa;5;Slovenia;Ropa;Offline;Media;15/05/2020;334486329;22/05/2020;793; $ 109,28 ; $ 35,84 ; $ 86.659 ; $ 28.421 
+5544;África;1;Jordan;Verduras;Offline;Media;29/12/2020;554439914;8/01/2021;9946; $ 154,06 ; $ 90,93 ; $ 1.532.281 ; $ 904.390 
+3687;Centroamérica y Caribe;4;Honduras;Doméstico;Online;Media;15/11/2020;368737065;1/12/2020;6347; $ 668,27 ; $ 502,54 ; $ 4.241.510 ; $ 3.189.621 
+9836;África;1;Lebanon;Material de oficina;Online;Baja;28/02/2020;983676612;18/04/2020;624; $ 651,21 ; $ 524,96 ; $ 406.355 ; $ 327.575 
+5258;África;1;Tunisia ;Cereales;Online;Media;6/04/2022;525869882;22/05/2022;5439; $ 205,70 ; $ 117,11 ; $ 1.118.802 ; $ 636.961 
+7922;Europa;5;Romania;Frutas;Offline;Alta;28/12/2020;792240703;29/01/2021;484; $ 9,33 ; $ 6,92 ; $ 4.516 ; $ 3.349 
+5000;Europa;5;Netherlands;Cereales;Offline;Alta;30/12/2021;500025403;15/02/2022;7483; $ 205,70 ; $ 117,11 ; $ 1.539.253 ; $ 876.334 
+2367;África;1;Azerbaijan;Frutas;Online;Baja;25/04/2021;236772811;11/05/2021;5191; $ 9,33 ; $ 6,92 ; $ 48.432 ; $ 35.922 
+2103;Europa;5;Slovenia;Doméstico;Online;Media;11/02/2021;210344254;15/03/2021;4394; $ 668,27 ; $ 502,54 ; $ 2.936.378 ; $ 2.208.161 
+6989;África;1;Chad;Ropa;Online;Crítica;12/07/2022;698913562;2/08/2022;2909; $ 109,28 ; $ 35,84 ; $ 317.896 ; $ 104.259 
+7009;Australia y Oceanía;3;Nauru;Verduras;Online;Media;17/05/2021;700967061;13/06/2021;585; $ 154,06 ; $ 90,93 ; $ 90.125 ; $ 53.194 
+1853;África;1;Kenya;Ropa;Offline;Baja;8/01/2021;185303580;7/02/2021;4302; $ 109,28 ; $ 35,84 ; $ 470.123 ; $ 154.184 
+5410;Centroamérica y Caribe;4;Jamaica;Cuidado personal;Online;Alta;20/05/2022;541034448;11/06/2022;2971; $ 81,73 ; $ 56,67 ; $ 242.820 ; $ 168.367 
+5275;Europa;5;Bosnia and Herzegovina;Alimento infantil;Offline;Baja;25/06/2022;527583491;31/07/2022;2534; $ 255,28 ; $ 159,42 ; $ 646.880 ; $ 403.970 
+3246;Centroamérica y Caribe;4;Antigua and Barbuda ;Cuidado personal;Offline;Crítica;9/08/2021;324687039;25/08/2021;965; $ 81,73 ; $ 56,67 ; $ 78.869 ; $ 54.687 
+1823;Europa;5;Romania;Cosméticos;Online;Media;13/11/2021;182393920;31/12/2021;3269; $ 437,20 ; $ 263,33 ; $ 1.429.207 ; $ 860.826 
+8710;Asia;2;Kazakhstan;Frutas;Offline;Crítica;29/01/2020;871065461;23/02/2020;6482; $ 9,33 ; $ 6,92 ; $ 60.477 ; $ 44.855 
+5313;África;1;Burkina Faso;Material de oficina;Offline;Alta;31/07/2020;531375491;3/09/2020;4671; $ 651,21 ; $ 524,96 ; $ 3.041.802 ; $ 2.452.088 
+5243;Centroamérica y Caribe;4;Saint Lucia;Cereales;Offline;Baja;1/06/2022;524310338;23/06/2022;3935; $ 205,70 ; $ 117,11 ; $ 809.430 ; $ 460.828 
+4811;Centroamérica y Caribe;4;Jamaica;Snacks;Offline;Alta;23/09/2020;481168830;20/10/2020;7404; $ 152,58 ; $ 97,44 ; $ 1.129.702 ; $ 721.446 
+5535;África;1;Bahrain;Doméstico;Online;Media;5/07/2022;553562295;22/08/2022;239; $ 668,27 ; $ 502,54 ; $ 159.717 ; $ 120.107 
+9634;África;1;Pakistan;Cereales;Offline;Crítica;11/04/2022;963414561;4/05/2022;4633; $ 205,70 ; $ 117,11 ; $ 953.008 ; $ 542.571 
+6529;Centroamérica y Caribe;4;Saint Lucia;Cereales;Online;Baja;5/09/2020;652961957;7/09/2020;4808; $ 205,70 ; $ 117,11 ; $ 989.006 ; $ 563.065 
+4347;África;1;Angola;Snacks;Online;Crítica;11/03/2020;434753310;7/04/2020;2021; $ 152,58 ; $ 97,44 ; $ 308.364 ; $ 196.926 
+7416;Europa;5;Kosovo;Cosméticos;Online;Baja;29/10/2020;741649949;18/12/2020;9556; $ 437,20 ; $ 263,33 ; $ 4.177.883 ; $ 2.516.381 
+2768;Europa;5;Georgia;Frutas;Offline;Baja;1/08/2021;276825702;11/08/2021;7732; $ 9,33 ; $ 6,92 ; $ 72.140 ; $ 53.505 
+9637;Australia y Oceanía;3;Nauru;Doméstico;Online;Media;6/11/2021;963766896;21/11/2021;8896; $ 668,27 ; $ 502,54 ; $ 5.944.930 ; $ 4.470.596 
+2962;Australia y Oceanía;3;Solomon Islands;Material de oficina;Online;Baja;6/11/2022;296272361;11/11/2022;2430; $ 651,21 ; $ 524,96 ; $ 1.582.440 ; $ 1.275.653 
+7884;Asia;2;Thailand;Alimento infantil;Offline;Crítica;28/06/2020;788453423;4/08/2020;9744; $ 255,28 ; $ 159,42 ; $ 2.487.448 ; $ 1.553.388 
+5247;Europa;5;Russia;Cereales;Offline;Media;3/02/2021;524733912;8/02/2021;9280; $ 205,70 ; $ 117,11 ; $ 1.908.896 ; $ 1.086.781 
+8098;Australia y Oceanía;3;Samoa ;Frutas;Online;Media;18/10/2022;809850156;4/11/2022;1513; $ 9,33 ; $ 6,92 ; $ 14.116 ; $ 10.470 
+3188;Australia y Oceanía;3;Vanuatu;Snacks;Offline;Baja;18/09/2022;318850982;6/10/2022;3946; $ 152,58 ; $ 97,44 ; $ 602.081 ; $ 384.498 
+9470;África;1;Lesotho;Frutas;Offline;Alta;23/03/2021;947097718;10/04/2021;6116; $ 9,33 ; $ 6,92 ; $ 57.062 ; $ 42.323 
+1602;Australia y Oceanía;3;Solomon Islands;Bebida;Online;Alta;14/07/2020;160264194;28/07/2020;4591; $ 47,45 ; $ 31,79 ; $ 217.843 ; $ 145.948 
+4443;Asia;2;Taiwan;Snacks;Offline;Crítica;23/05/2020;444336736;9/06/2020;7969; $ 152,58 ; $ 97,44 ; $ 1.215.910 ; $ 776.499 
+7556;Asia;2;Singapore;Verduras;Online;Baja;19/05/2022;755614173;14/06/2022;1880; $ 154,06 ; $ 90,93 ; $ 289.633 ; $ 170.948 
+5707;África;1;Ghana;Verduras;Offline;Media;6/10/2022;570707833;7/10/2022;3985; $ 154,06 ; $ 90,93 ; $ 613.929 ; $ 362.356 
+3365;Europa;5;Belarus;Bebida;Offline;Alta;2/07/2022;336541545;18/08/2022;8977; $ 47,45 ; $ 31,79 ; $ 425.959 ; $ 285.379 
+1203;África;1;Lesotho;Snacks;Offline;Crítica;3/02/2020;120351636;26/02/2020;3578; $ 152,58 ; $ 97,44 ; $ 545.931 ; $ 348.640 
+9596;África;1;Democratic Republic of the Congo;Cereales;Online;Crítica;30/07/2021;959686934;2/09/2021;1545; $ 205,70 ; $ 117,11 ; $ 317.807 ; $ 180.935 
+8124;Europa;5;San Marino;Frutas;Online;Baja;25/12/2021;812408769;8/02/2022;8663; $ 9,33 ; $ 6,92 ; $ 80.826 ; $ 59.948 
+4066;África;1;Mauritius ;Frutas;Online;Media;3/01/2021;406690967;11/01/2021;7749; $ 9,33 ; $ 6,92 ; $ 72.298 ; $ 53.623 
+9910;Europa;5;Kosovo;Verduras;Online;Media;14/08/2021;991019856;25/09/2021;3653; $ 154,06 ; $ 90,93 ; $ 562.781 ; $ 332.167 
+2841;África;1;Tunisia ;Verduras;Offline;Alta;15/01/2020;284194266;16/01/2020;8254; $ 154,06 ; $ 90,93 ; $ 1.271.611 ; $ 750.536 
+1253;Europa;5;Czech Republic;Material de oficina;Online;Alta;20/06/2021;125325524;24/06/2021;5463; $ 651,21 ; $ 524,96 ; $ 3.557.560 ; $ 2.867.856 
+6238;Australia y Oceanía;3;Federated States of Micronesia;Cosméticos;Offline;Baja;2/07/2021;623837459;10/07/2021;6222; $ 437,20 ; $ 263,33 ; $ 2.720.258 ; $ 1.638.439 
+6094;Europa;5;Estonia;Doméstico;Offline;Media;8/11/2021;609466397;10/12/2021;3506; $ 668,27 ; $ 502,54 ; $ 2.342.955 ; $ 1.761.905 
+7822;Asia;2;Nepal;Frutas;Offline;Baja;10/05/2020;782261168;15/06/2020;7318; $ 9,33 ; $ 6,92 ; $ 68.277 ; $ 50.641 
+5625;África;1;Democratic Republic of the Congo;Bebida;Offline;Media;15/12/2020;562583100;24/01/2021;9696; $ 47,45 ; $ 31,79 ; $ 460.075 ; $ 308.236 
+3411;Asia;2;Singapore;Snacks;Offline;Alta;9/11/2020;341106021;12/11/2020;9707; $ 152,58 ; $ 97,44 ; $ 1.481.094 ; $ 945.850 
+1288;Asia;2;India;Bebida;Online;Alta;11/07/2020;128816258;12/07/2020;8448; $ 47,45 ; $ 31,79 ; $ 400.858 ; $ 268.562 
+9070;África;1;Angola;Cereales;Offline;Media;4/04/2022;907012641;19/05/2022;4051; $ 205,70 ; $ 117,11 ; $ 833.291 ; $ 474.413 
+5773;Asia;2;Kyrgyzstan;Alimento infantil;Online;Crítica;5/03/2020;577306497;12/03/2020;6676; $ 255,28 ; $ 159,42 ; $ 1.704.249 ; $ 1.064.288 
+7116;África;1;Burundi;Doméstico;Offline;Crítica;31/08/2021;711621654;2/09/2021;3516; $ 668,27 ; $ 502,54 ; $ 2.349.637 ; $ 1.766.931 
+7021;África;1;South Africa;Material de oficina;Online;Media;23/03/2020;702194440;30/03/2020;3794; $ 651,21 ; $ 524,96 ; $ 2.470.691 ; $ 1.991.698 
+9115;Europa;5;Georgia;Cereales;Offline;Baja;14/08/2022;911573684;19/09/2022;3765; $ 205,70 ; $ 117,11 ; $ 774.461 ; $ 440.919 
+4226;África;1;The Gambia;Bebida;Offline;Baja;19/09/2021;422620713;5/10/2021;1715; $ 47,45 ; $ 31,79 ; $ 81.377 ; $ 54.520 
+1885;Asia;2;Nepal;Doméstico;Online;Crítica;18/10/2020;188509356;31/10/2020;2963; $ 668,27 ; $ 502,54 ; $ 1.980.084 ; $ 1.489.026 
+7827;Europa;5;Albania;Verduras;Online;Media;7/09/2020;782725942;15/09/2020;4855; $ 154,06 ; $ 90,93 ; $ 747.961 ; $ 441.465 
+1490;Centroamérica y Caribe;4;Dominica;Material de oficina;Online;Crítica;4/03/2021;149069297;22/03/2021;1772; $ 651,21 ; $ 524,96 ; $ 1.153.944 ; $ 930.229 
+3516;África;1;Oman;Bebida;Online;Media;16/06/2022;351650750;9/07/2022;126; $ 47,45 ; $ 31,79 ; $ 5.979 ; $ 4.006 
+8248;África;1;Ethiopia;Cereales;Online;Media;6/11/2020;824894130;20/12/2020;3359; $ 205,70 ; $ 117,11 ; $ 690.946 ; $ 393.372 
+6235;Centroamérica y Caribe;4;Saint Kitts and Nevis ;Bebida;Online;Alta;21/08/2021;623535764;1/09/2021;6944; $ 47,45 ; $ 31,79 ; $ 329.493 ; $ 220.750 
+6726;África;1;The Gambia;Verduras;Online;Media;5/07/2020;672624480;22/08/2020;3386; $ 154,06 ; $ 90,93 ; $ 521.647 ; $ 307.889 
+6175;África;1;Rwanda;Cosméticos;Online;Media;15/02/2022;617521607;24/03/2022;7221; $ 437,20 ; $ 263,33 ; $ 3.157.021 ; $ 1.901.506 
+1739;Asia;2;Japan;Frutas;Offline;Crítica;19/07/2021;173900973;19/07/2021;17; $ 9,33 ; $ 6,92 ; $ 159 ; $ 118 
+4777;Europa;5;Ireland;Verduras;Online;Baja;24/10/2022;477748906;18/11/2022;5373; $ 154,06 ; $ 90,93 ; $ 827.764 ; $ 488.567 
+9353;Europa;5;Andorra;Alimento infantil;Offline;Media;11/05/2020;935364234;14/06/2020;3918; $ 255,28 ; $ 159,42 ; $ 1.000.187 ; $ 624.608 
+5733;Asia;2;Kazakhstan;Snacks;Online;Crítica;15/06/2020;573358285;29/06/2020;8313; $ 152,58 ; $ 97,44 ; $ 1.268.398 ; $ 810.019 
+2886;Europa;5;Italy;Verduras;Offline;Alta;17/08/2022;288654887;29/09/2022;8251; $ 154,06 ; $ 90,93 ; $ 1.271.149 ; $ 750.263 
+5984;África;1;Tanzania;Snacks;Offline;Baja;1/02/2021;598490369;7/02/2021;5455; $ 152,58 ; $ 97,44 ; $ 832.324 ; $ 531.535 
+2904;Centroamérica y Caribe;4;Antigua and Barbuda ;Ropa;Offline;Crítica;15/06/2020;290413558;19/07/2020;8680; $ 109,28 ; $ 35,84 ; $ 948.550 ; $ 311.091 
+4722;África;1;Qatar;Cosméticos;Online;Media;13/01/2020;472285783;27/01/2020;8713; $ 437,20 ; $ 263,33 ; $ 3.809.324 ; $ 2.294.394 
+5222;África;1;Jordan;Cárnicos;Offline;Media;16/12/2020;522280871;12/01/2021;3371; $ 421,89 ; $ 364,69 ; $ 1.422.191 ; $ 1.229.370 
+3388;Centroamérica y Caribe;4;El Salvador;Doméstico;Online;Baja;27/11/2021;338885152;11/12/2021;2502; $ 668,27 ; $ 502,54 ; $ 1.672.012 ; $ 1.257.355 
+7908;Australia y Oceanía;3;Tonga;Doméstico;Offline;Baja;12/07/2020;790897452;17/07/2020;2986; $ 668,27 ; $ 502,54 ; $ 1.995.454 ; $ 1.500.584 
+5674;África;1;Madagascar;Cárnicos;Offline;Alta;6/08/2020;567429101;19/09/2020;3735; $ 421,89 ; $ 364,69 ; $ 1.575.759 ; $ 1.362.117 
+2279;África;1;Seychelles ;Alimento infantil;Offline;Media;29/12/2021;227903926;10/01/2022;691; $ 255,28 ; $ 159,42 ; $ 176.398 ; $ 110.159 
+8520;África;1;Swaziland;Bebida;Offline;Media;23/02/2022;852058255;28/02/2022;1827; $ 47,45 ; $ 31,79 ; $ 86.691 ; $ 58.080 
+8899;Australia y Oceanía;3;Tonga;Cereales;Online;Crítica;25/04/2020;889940917;30/04/2020;2149; $ 205,70 ; $ 117,11 ; $ 442.049 ; $ 251.669 
+2119;África;1;Azerbaijan;Bebida;Offline;Media;16/11/2021;211913239;27/11/2021;8692; $ 47,45 ; $ 31,79 ; $ 412.435 ; $ 276.319 
+5586;África;1;Madagascar;Cereales;Offline;Crítica;10/08/2022;558649051;15/08/2022;5523; $ 205,70 ; $ 117,11 ; $ 1.136.081 ; $ 646.799 
+5911;África;1;Iran;Alimento infantil;Online;Alta;16/07/2021;591134679;23/08/2021;8743; $ 255,28 ; $ 159,42 ; $ 2.231.913 ; $ 1.393.809 
+8406;Australia y Oceanía;3;New Zealand;Cosméticos;Offline;Baja;27/05/2022;840668952;10/07/2022;1479; $ 437,20 ; $ 263,33 ; $ 646.619 ; $ 389.465 
+5588;África;1;Democratic Republic of the Congo;Doméstico;Online;Crítica;29/09/2020;558863198;23/10/2020;8894; $ 668,27 ; $ 502,54 ; $ 5.943.593 ; $ 4.469.591 
+8676;Europa;5;Lithuania;Alimento infantil;Offline;Baja;12/07/2022;867641246;27/07/2022;3180; $ 255,28 ; $ 159,42 ; $ 811.790 ; $ 506.956 
+7092;África;1;Seychelles ;Cereales;Online;Baja;4/09/2022;709239423;24/09/2022;8561; $ 205,70 ; $ 117,11 ; $ 1.760.998 ; $ 1.002.579 
+8962;Europa;5;Croatia;Cereales;Online;Crítica;20/10/2020;896206557;16/11/2020;6291; $ 205,70 ; $ 117,11 ; $ 1.294.059 ; $ 736.739 
+9614;África;1;Swaziland;Alimento infantil;Online;Crítica;26/08/2022;961403977;5/10/2022;9656; $ 255,28 ; $ 159,42 ; $ 2.464.984 ; $ 1.539.360 
+5080;Asia;2;Singapore;Snacks;Online;Alta;27/06/2021;508005511;15/08/2021;8975; $ 152,58 ; $ 97,44 ; $ 1.369.406 ; $ 874.524 
+5594;Europa;5;Germany;Frutas;Online;Crítica;5/06/2022;559497487;14/06/2022;6595; $ 9,33 ; $ 6,92 ; $ 61.531 ; $ 45.637 
+4096;Europa;5;Norway;Cosméticos;Online;Baja;20/12/2020;409678733;2/01/2021;1896; $ 437,20 ; $ 263,33 ; $ 828.931 ; $ 499.274 
+7726;Asia;2;Malaysia;Cosméticos;Online;Media;10/08/2021;772660577;26/08/2021;6290; $ 437,20 ; $ 263,33 ; $ 2.749.988 ; $ 1.656.346 
+6328;Europa;5;Austria;Bebida;Online;Crítica;29/01/2022;632866847;12/02/2022;8219; $ 47,45 ; $ 31,79 ; $ 389.992 ; $ 261.282 
+3950;Asia;2;Malaysia;Snacks;Online;Media;10/07/2020;395033872;23/07/2020;8156; $ 152,58 ; $ 97,44 ; $ 1.244.442 ; $ 794.721 
+5342;África;1;Lesotho;Cuidado personal;Offline;Alta;20/08/2022;534210479;29/08/2022;3607; $ 81,73 ; $ 56,67 ; $ 294.800 ; $ 204.409 
+2457;África;1;Benin;Frutas;Offline;Alta;18/03/2020;245757997;30/03/2020;4107; $ 9,33 ; $ 6,92 ; $ 38.318 ; $ 28.420 
+5953;Europa;5;Greece;Material de oficina;Offline;Baja;5/03/2021;595350253;24/03/2021;6225; $ 651,21 ; $ 524,96 ; $ 4.053.782 ; $ 3.267.876 
+4689;Europa;5;Lithuania;Cereales;Offline;Baja;3/06/2022;468973577;13/07/2022;8558; $ 205,70 ; $ 117,11 ; $ 1.760.381 ; $ 1.002.227 
+6229;África;1;Comoros;Cárnicos;Offline;Alta;2/09/2022;622926795;26/09/2022;6736; $ 421,89 ; $ 364,69 ; $ 2.841.851 ; $ 2.456.552 
+5338;Asia;2;Myanmar;Doméstico;Offline;Media;17/01/2021;533821237;21/02/2021;8421; $ 668,27 ; $ 502,54 ; $ 5.627.502 ; $ 4.231.889 
+6485;África;1;Ethiopia;Cuidado personal;Online;Baja;14/05/2021;648580729;4/06/2021;8306; $ 81,73 ; $ 56,67 ; $ 678.849 ; $ 470.701 
+1344;África;1;Guinea;Cereales;Offline;Crítica;16/02/2022;134441602;5/04/2022;3112; $ 205,70 ; $ 117,11 ; $ 640.138 ; $ 364.446 
+9289;Centroamérica y Caribe;4;Saint Lucia;Cosméticos;Offline;Baja;21/10/2020;928952682;5/11/2020;6597; $ 437,20 ; $ 263,33 ; $ 2.884.208 ; $ 1.737.188 
+9899;África;1;Eritrea;Material de oficina;Offline;Media;27/12/2020;989975297;7/02/2021;4545; $ 651,21 ; $ 524,96 ; $ 2.959.749 ; $ 2.385.943 
+1456;África;1;Niger;Cuidado personal;Offline;Baja;21/05/2022;145683276;18/06/2022;9774; $ 81,73 ; $ 56,67 ; $ 798.829 ; $ 553.893 
+5445;Centroamérica y Caribe;4;Barbados;Cosméticos;Online;Media;29/03/2022;544562947;11/05/2022;7132; $ 437,20 ; $ 263,33 ; $ 3.118.110 ; $ 1.878.070 
+8054;Australia y Oceanía;3;Tonga;Snacks;Offline;Crítica;30/06/2022;805413138;10/08/2022;8501; $ 152,58 ; $ 97,44 ; $ 1.297.083 ; $ 828.337 
+9673;Asia;2;Indonesia;Bebida;Offline;Baja;19/08/2022;967345178;29/09/2022;7789; $ 47,45 ; $ 31,79 ; $ 369.588 ; $ 247.612 
+2397;Asia;2;Indonesia;Ropa;Online;Alta;7/02/2021;239782893;28/03/2021;5941; $ 109,28 ; $ 35,84 ; $ 649.232 ; $ 212.925 
+1524;África;1;Lebanon;Cuidado personal;Offline;Crítica;27/06/2022;152462613;1/08/2022;5930; $ 81,73 ; $ 56,67 ; $ 484.659 ; $ 336.053 
+5054;África;1;Afghanistan;Ropa;Online;Crítica;1/10/2021;505433166;9/10/2021;7760; $ 109,28 ; $ 35,84 ; $ 848.013 ; $ 278.118 
+7190;Europa;5;Hungary;Frutas;Offline;Baja;4/11/2022;719055879;14/12/2022;3468; $ 9,33 ; $ 6,92 ; $ 32.356 ; $ 23.999 
+2840;África;1;Gabon;Cosméticos;Offline;Media;11/02/2020;284004580;22/03/2020;2121; $ 437,20 ; $ 263,33 ; $ 927.301 ; $ 558.523 
+1112;Asia;2;Mongolia;Material de oficina;Offline;Media;7/08/2022;111265599;7/09/2022;4818; $ 651,21 ; $ 524,96 ; $ 3.137.530 ; $ 2.529.257 
+2821;Norteamérica;6;Canada;Alimento infantil;Offline;Baja;28/02/2021;282137763;25/03/2021;9689; $ 255,28 ; $ 159,42 ; $ 2.473.408 ; $ 1.544.620 
+4982;África;1;Afghanistan;Doméstico;Online;Alta;11/05/2021;498232400;27/06/2021;6894; $ 668,27 ; $ 502,54 ; $ 4.607.053 ; $ 3.464.511 
+5314;Europa;5;Liechtenstein;Cereales;Offline;Media;2/01/2022;531473338;11/01/2022;3626; $ 205,70 ; $ 117,11 ; $ 745.868 ; $ 424.641 
+6740;Centroamérica y Caribe;4;Honduras;Alimento infantil;Online;Crítica;23/04/2022;674096906;1/06/2022;9109; $ 255,28 ; $ 159,42 ; $ 2.325.346 ; $ 1.452.157 
+3886;Norteamérica;6;Mexico;Alimento infantil;Online;Alta;18/06/2020;388651931;7/08/2020;9598; $ 255,28 ; $ 159,42 ; $ 2.450.177 ; $ 1.530.113 
+5579;África;1;Liberia;Material de oficina;Online;Media;8/10/2020;557999742;28/10/2020;3378; $ 651,21 ; $ 524,96 ; $ 2.199.787 ; $ 1.773.315 
+3353;Europa;5;Ireland;Snacks;Offline;Alta;16/10/2020;335314166;1/11/2020;5768; $ 152,58 ; $ 97,44 ; $ 880.081 ; $ 562.034 
+2940;África;1;Morocco;Cárnicos;Offline;Crítica;8/05/2021;294081532;24/05/2021;4115; $ 421,89 ; $ 364,69 ; $ 1.736.077 ; $ 1.500.699 
+1781;Centroamérica y Caribe;4;Dominica;Ropa;Offline;Media;30/03/2022;178100669;9/05/2022;2801; $ 109,28 ; $ 35,84 ; $ 306.093 ; $ 100.388 
+2514;África;1;Cameroon;Doméstico;Offline;Media;21/10/2020;251482903;6/11/2020;8234; $ 668,27 ; $ 502,54 ; $ 5.502.535 ; $ 4.137.914 
+8486;Asia;2;Nepal;Cárnicos;Offline;Baja;4/12/2021;848652064;20/12/2021;3860; $ 421,89 ; $ 364,69 ; $ 1.628.495 ; $ 1.407.703 
+1243;Europa;5;Albania;Cereales;Online;Crítica;25/04/2022;124344480;16/05/2022;5150; $ 205,70 ; $ 117,11 ; $ 1.059.355 ; $ 603.117 
+8036;Asia;2;Maldives;Cuidado personal;Online;Baja;8/07/2020;803608977;10/07/2020;4609; $ 81,73 ; $ 56,67 ; $ 376.694 ; $ 261.192 
+7318;África;1;Turkey;Ropa;Offline;Alta;14/03/2021;731806886;28/04/2021;6775; $ 109,28 ; $ 35,84 ; $ 740.372 ; $ 242.816 
+5246;Australia y Oceanía;3;New Zealand;Verduras;Offline;Crítica;12/04/2022;524612033;1/05/2022;3213; $ 154,06 ; $ 90,93 ; $ 494.995 ; $ 292.158 
+4180;África;1;Lebanon;Cereales;Offline;Alta;27/01/2022;418010747;7/02/2022;7524; $ 205,70 ; $ 117,11 ; $ 1.547.687 ; $ 881.136 
+7183;Europa;5;Luxembourg;Ropa;Online;Baja;26/09/2020;718301856;12/11/2020;336; $ 109,28 ; $ 35,84 ; $ 36.718 ; $ 12.042 
+4520;África;1;Togo;Ropa;Online;Media;7/09/2021;452096688;18/09/2021;4311; $ 109,28 ; $ 35,84 ; $ 471.106 ; $ 154.506 
+5163;Europa;5;Hungary;Cuidado personal;Offline;Alta;31/07/2021;516319072;31/08/2021;9142; $ 81,73 ; $ 56,67 ; $ 747.176 ; $ 518.077 
+5282;Europa;5;Lithuania;Doméstico;Online;Baja;10/05/2020;528205335;24/06/2020;6551; $ 668,27 ; $ 502,54 ; $ 4.377.837 ; $ 3.292.140 
+1753;Asia;2;Bangladesh;Material de oficina;Offline;Media;19/08/2022;175304305;18/09/2022;5294; $ 651,21 ; $ 524,96 ; $ 3.447.506 ; $ 2.779.138 
+5654;Asia;2;China;Bebida;Online;Baja;28/12/2021;565477311;22/01/2022;6157; $ 47,45 ; $ 31,79 ; $ 292.150 ; $ 195.731 
+1768;África;1;Equatorial Guinea;Cárnicos;Offline;Media;5/06/2022;176898181;16/06/2022;6958; $ 421,89 ; $ 364,69 ; $ 2.935.511 ; $ 2.537.513 
+7080;Europa;5;Belgium;Cereales;Offline;Media;14/08/2022;708053243;12/09/2022;7544; $ 205,70 ; $ 117,11 ; $ 1.551.801 ; $ 883.478 
+3277;África;1;Turkey;Snacks;Online;Alta;20/03/2020;327741324;29/03/2020;4796; $ 152,58 ; $ 97,44 ; $ 731.774 ; $ 467.322 
+4250;Asia;2;Indonesia;Cuidado personal;Offline;Media;7/11/2021;425073754;22/12/2021;7625; $ 81,73 ; $ 56,67 ; $ 623.191 ; $ 432.109 
+6594;Europa;5;Russia;Frutas;Online;Baja;8/09/2021;659474360;25/09/2021;1973; $ 9,33 ; $ 6,92 ; $ 18.408 ; $ 13.653 
+3106;Europa;5;Armenia;Cárnicos;Online;Media;5/01/2020;310679471;27/01/2020;5814; $ 421,89 ; $ 364,69 ; $ 2.452.868 ; $ 2.120.308 
+5287;Centroamérica y Caribe;4;Belize;Cosméticos;Online;Crítica;19/10/2021;528737914;1/12/2021;4153; $ 437,20 ; $ 263,33 ; $ 1.815.692 ; $ 1.093.609 
+2840;Europa;5;Finland;Snacks;Offline;Alta;30/12/2020;284011018;25/01/2021;4026; $ 152,58 ; $ 97,44 ; $ 614.287 ; $ 392.293 
+4171;Australia y Oceanía;3;Samoa ;Alimento infantil;Offline;Baja;14/12/2021;417172610;19/12/2021;9501; $ 255,28 ; $ 159,42 ; $ 2.425.415 ; $ 1.514.649 
+4892;África;1;The Gambia;Cosméticos;Offline;Crítica;4/11/2020;489209020;5/12/2020;6675; $ 437,20 ; $ 263,33 ; $ 2.918.310 ; $ 1.757.728 
+1314;Europa;5;Greece;Doméstico;Online;Baja;25/05/2021;131419074;3/07/2021;8679; $ 668,27 ; $ 502,54 ; $ 5.799.915 ; $ 4.361.545 
+3954;Europa;5;Finland;Bebida;Online;Crítica;7/01/2022;395414102;4/02/2022;674; $ 47,45 ; $ 31,79 ; $ 31.981 ; $ 21.426 
+6031;Centroamérica y Caribe;4;Trinidad and Tobago;Cereales;Offline;Baja;5/02/2020;603117930;12/03/2020;4853; $ 205,70 ; $ 117,11 ; $ 998.262 ; $ 568.335 
+5967;Asia;2;Vietnam;Frutas;Online;Baja;27/12/2021;596766889;11/01/2022;5439; $ 9,33 ; $ 6,92 ; $ 50.746 ; $ 37.638 
+2889;Asia;2;Indonesia;Cuidado personal;Offline;Media;6/08/2021;288909804;10/08/2021;3686; $ 81,73 ; $ 56,67 ; $ 301.257 ; $ 208.886 
+1124;Europa;5;Norway;Cereales;Online;Media;16/10/2021;112408006;23/10/2021;2882; $ 205,70 ; $ 117,11 ; $ 592.827 ; $ 337.511 
+5704;África;1;Zimbabwe;Cuidado personal;Offline;Crítica;27/07/2021;570435321;11/08/2021;3343; $ 81,73 ; $ 56,67 ; $ 273.223 ; $ 189.448 
+8864;África;1;Namibia;Alimento infantil;Online;Crítica;28/04/2020;886478078;29/05/2020;7418; $ 255,28 ; $ 159,42 ; $ 1.893.667 ; $ 1.182.578 
+3543;Australia y Oceanía;3;Tonga;Cereales;Online;Alta;17/02/2022;354335105;7/04/2022;4487; $ 205,70 ; $ 117,11 ; $ 922.976 ; $ 525.473 
+5881;Asia;2;Malaysia;Cárnicos;Online;Crítica;18/01/2020;588117730;11/02/2020;5960; $ 421,89 ; $ 364,69 ; $ 2.514.464 ; $ 2.173.552 
+5722;África;1;Egypt;Bebida;Online;Crítica;21/05/2020;572249782;21/05/2020;282; $ 47,45 ; $ 31,79 ; $ 13.381 ; $ 8.965 
+7114;África;1;Saudi Arabia;Doméstico;Offline;Baja;16/04/2021;711467587;23/05/2021;7924; $ 668,27 ; $ 502,54 ; $ 5.295.371 ; $ 3.982.127 
+5808;Centroamérica y Caribe;4;Panama;Material de oficina;Online;Crítica;26/09/2022;580819976;24/10/2022;6393; $ 651,21 ; $ 524,96 ; $ 4.163.186 ; $ 3.356.069 
+2756;Centroamérica y Caribe;4;Haiti;Material de oficina;Online;Media;27/03/2022;275668275;30/04/2022;5223; $ 651,21 ; $ 524,96 ; $ 3.401.270 ; $ 2.741.866 
+8616;África;1;Mauritania;Cereales;Offline;Alta;30/12/2021;861686313;30/12/2021;983; $ 205,70 ; $ 117,11 ; $ 202.203 ; $ 115.119 
+3248;África;1;The Gambia;Cárnicos;Offline;Crítica;8/10/2021;324860417;18/11/2021;2271; $ 421,89 ; $ 364,69 ; $ 958.112 ; $ 828.211 
+3214;Europa;5;Ireland;Snacks;Offline;Crítica;12/04/2020;321489417;13/04/2020;4718; $ 152,58 ; $ 97,44 ; $ 719.872 ; $ 459.722 
+3281;Europa;5;San Marino;Cosméticos;Online;Baja;14/05/2022;328184640;29/06/2022;5983; $ 437,20 ; $ 263,33 ; $ 2.615.768 ; $ 1.575.503 
+7918;África;1;United Arab Emirates;Material de oficina;Offline;Baja;30/05/2020;791869914;22/06/2020;760; $ 651,21 ; $ 524,96 ; $ 494.920 ; $ 398.970 
+8797;África;1;Mauritania;Cuidado personal;Online;Media;28/06/2021;879781568;17/08/2021;5771; $ 81,73 ; $ 56,67 ; $ 471.664 ; $ 327.043 
+7294;Centroamérica y Caribe;4;Nicaragua;Cárnicos;Offline;Crítica;19/03/2020;729468429;13/04/2020;4773; $ 421,89 ; $ 364,69 ; $ 2.013.681 ; $ 1.740.665 
+9987;Asia;2;Malaysia;Ropa;Offline;Alta;5/03/2020;998791825;21/03/2020;3551; $ 109,28 ; $ 35,84 ; $ 388.053 ; $ 127.268 
+6159;África;1;Zambia;Cosméticos;Online;Alta;30/01/2021;615925586;25/02/2021;4923; $ 437,20 ; $ 263,33 ; $ 2.152.336 ; $ 1.296.374 
+8293;África;1;Malawi;Frutas;Online;Baja;7/03/2020;829356038;29/03/2020;3737; $ 9,33 ; $ 6,92 ; $ 34.866 ; $ 25.860 
+2578;África;1;Lesotho;Cuidado personal;Offline;Alta;9/04/2022;257882010;17/04/2022;1872; $ 81,73 ; $ 56,67 ; $ 152.999 ; $ 106.086 
+7406;África;1;Malawi;Cárnicos;Offline;Baja;11/02/2021;740614831;15/02/2021;3241; $ 421,89 ; $ 364,69 ; $ 1.367.345 ; $ 1.181.960 
+5869;África;1;Iraq;Cárnicos;Offline;Crítica;19/11/2020;586978328;6/12/2020;8786; $ 421,89 ; $ 364,69 ; $ 3.706.726 ; $ 3.204.166 
+4267;Asia;2;Turkmenistan;Doméstico;Offline;Media;9/06/2020;426708829;25/06/2020;1480; $ 668,27 ; $ 502,54 ; $ 989.040 ; $ 743.759 
+9598;África;1;United Arab Emirates;Material de oficina;Offline;Baja;19/06/2020;959855163;28/06/2020;1328; $ 651,21 ; $ 524,96 ; $ 864.807 ; $ 697.147 
+7067;Asia;2;Maldives;Doméstico;Online;Alta;20/01/2022;706778657;7/02/2022;366; $ 668,27 ; $ 502,54 ; $ 244.587 ; $ 183.930 
+9581;Europa;5;Romania;Doméstico;Online;Crítica;29/05/2022;958153140;1/06/2022;7661; $ 668,27 ; $ 502,54 ; $ 5.119.616 ; $ 3.849.959 
+8249;África;1;Lebanon;Cosméticos;Offline;Crítica;28/12/2021;824964940;5/02/2022;4313; $ 437,20 ; $ 263,33 ; $ 1.885.644 ; $ 1.135.742 
+3885;Europa;5;Portugal;Cosméticos;Online;Alta;30/03/2020;388512885;3/05/2020;8451; $ 437,20 ; $ 263,33 ; $ 3.694.777 ; $ 2.225.402 
+2504;Europa;5;Bosnia and Herzegovina;Material de oficina;Offline;Crítica;22/09/2022;250408303;7/10/2022;236; $ 651,21 ; $ 524,96 ; $ 153.686 ; $ 123.891 
+1825;África;1;Iraq;Snacks;Offline;Crítica;10/07/2022;182575023;24/08/2022;6861; $ 152,58 ; $ 97,44 ; $ 1.046.851 ; $ 668.536 
+4772;Europa;5;Moldova ;Ropa;Offline;Crítica;18/09/2021;477249372;6/11/2021;7549; $ 109,28 ; $ 35,84 ; $ 824.955 ; $ 270.556 
+5969;África;1;Liberia;Cereales;Offline;Alta;6/05/2021;596980178;17/06/2021;8556; $ 205,70 ; $ 117,11 ; $ 1.759.969 ; $ 1.001.993 
+5246;África;1;Sudan;Alimento infantil;Online;Baja;1/01/2020;524628770;3/01/2020;8166; $ 255,28 ; $ 159,42 ; $ 2.084.616 ; $ 1.301.824 
+3133;África;1;Democratic Republic of the Congo;Cosméticos;Online;Media;18/12/2020;313368976;2/02/2021;1698; $ 437,20 ; $ 263,33 ; $ 742.366 ; $ 447.134 
+5366;África;1;Morocco;Snacks;Offline;Media;13/03/2022;536687123;15/03/2022;6501; $ 152,58 ; $ 97,44 ; $ 991.923 ; $ 633.457 
+9383;Centroamérica y Caribe;4;Saint Vincent and the Grenadines;Frutas;Online;Media;20/08/2020;938382041;29/09/2020;6954; $ 9,33 ; $ 6,92 ; $ 64.881 ; $ 48.122 
+8825;África;1;Pakistan;Doméstico;Offline;Baja;12/03/2022;882565057;19/04/2022;9468; $ 668,27 ; $ 502,54 ; $ 6.327.180 ; $ 4.758.049 
+7036;Europa;5;Sweden;Cereales;Online;Alta;27/04/2020;703659999;14/05/2020;7485; $ 205,70 ; $ 117,11 ; $ 1.539.665 ; $ 876.568 
+3564;Australia y Oceanía;3;Palau;Cuidado personal;Online;Crítica;24/04/2020;356403195;3/05/2020;6480; $ 81,73 ; $ 56,67 ; $ 529.610 ; $ 367.222 
+7658;Europa;5;Poland;Cereales;Offline;Crítica;15/09/2020;765843474;21/10/2020;8958; $ 205,70 ; $ 117,11 ; $ 1.842.661 ; $ 1.049.071 
+6773;África;1;Equatorial Guinea;Cárnicos;Online;Crítica;15/06/2020;677342164;15/07/2020;9453; $ 421,89 ; $ 364,69 ; $ 3.988.126 ; $ 3.447.415 
+7065;Australia y Oceanía;3;Kiribati;Doméstico;Offline;Media;30/04/2020;706573092;15/05/2020;9535; $ 668,27 ; $ 502,54 ; $ 6.371.954 ; $ 4.791.719 
+1895;Asia;2;Myanmar;Cereales;Offline;Crítica;6/07/2021;189522588;1/08/2021;2800; $ 205,70 ; $ 117,11 ; $ 575.960 ; $ 327.908 
+3324;Centroamérica y Caribe;4;Haiti;Doméstico;Online;Crítica;18/04/2021;332489478;26/05/2021;9880; $ 668,27 ; $ 502,54 ; $ 6.602.508 ; $ 4.965.095 
+1620;África;1;Mauritius ;Snacks;Online;Media;26/03/2020;162085092;2/05/2020;3435; $ 152,58 ; $ 97,44 ; $ 524.112 ; $ 334.706 
+5752;Europa;5;Luxembourg;Cereales;Online;Crítica;18/09/2020;575233256;5/11/2020;3158; $ 205,70 ; $ 117,11 ; $ 649.601 ; $ 369.833 
+2891;Australia y Oceanía;3;Tonga;Ropa;Offline;Baja;31/08/2022;289170300;11/09/2022;773; $ 109,28 ; $ 35,84 ; $ 84.473 ; $ 27.704 
+7914;Europa;5;Ukraine;Verduras;Offline;Alta;16/02/2022;791445052;19/02/2022;5033; $ 154,06 ; $ 90,93 ; $ 775.384 ; $ 457.651 
+4899;África;1;Sudan;Snacks;Online;Alta;7/04/2021;489918839;21/04/2021;6727; $ 152,58 ; $ 97,44 ; $ 1.026.406 ; $ 655.479 
+5627;Europa;5;France;Doméstico;Online;Baja;19/03/2021;562765491;11/04/2021;3669; $ 668,27 ; $ 502,54 ; $ 2.451.883 ; $ 1.843.819 
+9084;Asia;2;Laos;Ropa;Offline;Media;25/08/2020;908471333;16/09/2020;5711; $ 109,28 ; $ 35,84 ; $ 624.098 ; $ 204.682 
+5958;Centroamérica y Caribe;4;Dominica;Cosméticos;Online;Crítica;31/01/2020;595835196;12/03/2020;9730; $ 437,20 ; $ 263,33 ; $ 4.253.956 ; $ 2.562.201 
+1139;Europa;5;Estonia;Snacks;Offline;Alta;3/06/2020;113968408;26/06/2020;4639; $ 152,58 ; $ 97,44 ; $ 707.819 ; $ 452.024 
+9222;África;1;Afghanistan;Cuidado personal;Offline;Crítica;23/07/2021;922294795;11/09/2021;6380; $ 81,73 ; $ 56,67 ; $ 521.437 ; $ 361.555 
+5005;África;1;Eritrea;Frutas;Online;Crítica;29/11/2020;500550687;16/12/2020;2926; $ 9,33 ; $ 6,92 ; $ 27.300 ; $ 20.248 
+8987;África;1;Oman;Cárnicos;Online;Alta;8/08/2020;898784911;15/08/2020;9283; $ 421,89 ; $ 364,69 ; $ 3.916.405 ; $ 3.385.417 
+1873;Centroamérica y Caribe;4;Cuba;Snacks;Offline;Media;18/04/2020;187358796;6/05/2020;2486; $ 152,58 ; $ 97,44 ; $ 379.314 ; $ 242.236 
+1069;África;1;Oman;Cereales;Offline;Crítica;23/06/2021;106946170;27/07/2021;6603; $ 205,70 ; $ 117,11 ; $ 1.358.237 ; $ 773.277 
+2185;Europa;5;Luxembourg;Material de oficina;Offline;Alta;29/04/2020;218533360;2/05/2020;7733; $ 651,21 ; $ 524,96 ; $ 5.035.807 ; $ 4.059.516 
+1534;África;1;Namibia;Material de oficina;Offline;Baja;27/07/2020;153419196;7/08/2020;9004; $ 651,21 ; $ 524,96 ; $ 5.863.495 ; $ 4.726.740 
+9632;Asia;2;India;Frutas;Online;Alta;12/08/2020;963215005;21/08/2020;5580; $ 9,33 ; $ 6,92 ; $ 52.061 ; $ 38.614 
+1698;Australia y Oceanía;3;Palau;Verduras;Offline;Alta;14/09/2020;169844615;19/10/2020;9651; $ 154,06 ; $ 90,93 ; $ 1.486.833 ; $ 877.565 
+3155;Europa;5;Serbia;Cuidado personal;Online;Alta;26/06/2021;315544354;4/08/2021;5441; $ 81,73 ; $ 56,67 ; $ 444.693 ; $ 308.341 
+4128;África;1;Mauritania;Verduras;Offline;Crítica;26/07/2022;412863051;5/08/2022;4206; $ 154,06 ; $ 90,93 ; $ 647.976 ; $ 382.452 
+8946;Asia;2;Maldives;Frutas;Offline;Alta;10/02/2021;894662034;13/02/2021;9232; $ 9,33 ; $ 6,92 ; $ 86.135 ; $ 63.885 
+4641;África;1;Liberia;Cuidado personal;Offline;Crítica;31/10/2021;464115130;9/11/2021;836; $ 81,73 ; $ 56,67 ; $ 68.326 ; $ 47.376 
+1447;Europa;5;Greece;Bebida;Online;Media;4/04/2021;144708669;5/05/2021;1366; $ 47,45 ; $ 31,79 ; $ 64.817 ; $ 43.425 
+1302;Centroamérica y Caribe;4;Dominica;Frutas;Offline;Baja;11/08/2020;130241477;23/08/2020;202; $ 9,33 ; $ 6,92 ; $ 1.885 ; $ 1.398 
+2348;Asia;2;Vietnam;Cereales;Offline;Crítica;10/07/2021;234824883;19/07/2021;8756; $ 205,70 ; $ 117,11 ; $ 1.801.109 ; $ 1.025.415 
+3428;Asia;2;Sri Lanka;Cereales;Offline;Alta;24/09/2021;342882716;9/10/2021;5470; $ 205,70 ; $ 117,11 ; $ 1.125.179 ; $ 640.592 
+8591;Europa;5;Portugal;Doméstico;Offline;Media;28/03/2022;859151303;6/05/2022;818; $ 668,27 ; $ 502,54 ; $ 546.645 ; $ 411.078 
+4586;Norteamérica;6;United States of America;Cárnicos;Offline;Crítica;26/02/2020;458679473;22/03/2020;2304; $ 421,89 ; $ 364,69 ; $ 972.035 ; $ 840.246 
+1368;Centroamérica y Caribe;4;Jamaica;Snacks;Online;Crítica;30/07/2021;136828553;2/09/2021;9464; $ 152,58 ; $ 97,44 ; $ 1.444.017 ; $ 922.172 
+9592;Europa;5;Cyprus;Alimento infantil;Online;Alta;19/02/2020;959272372;1/03/2020;8867; $ 255,28 ; $ 159,42 ; $ 2.263.568 ; $ 1.413.577 
+9119;África;1;Iran;Cereales;Offline;Media;18/04/2021;911997258;7/05/2021;9110; $ 205,70 ; $ 117,11 ; $ 1.873.927 ; $ 1.066.872 
+7513;Asia;2;Sri Lanka;Verduras;Offline;Crítica;4/12/2020;751302039;10/12/2020;5824; $ 154,06 ; $ 90,93 ; $ 897.245 ; $ 529.576 
+8537;Australia y Oceanía;3;East Timor;Snacks;Online;Media;2/01/2021;853798043;5/02/2021;6669; $ 152,58 ; $ 97,44 ; $ 1.017.556 ; $ 649.827 
+7664;África;1;Niger;Cárnicos;Online;Crítica;29/06/2022;766409099;3/07/2022;6338; $ 421,89 ; $ 364,69 ; $ 2.673.939 ; $ 2.311.405 
+5563;Australia y Oceanía;3;Australia;Frutas;Online;Media;10/01/2021;556371533;9/02/2021;1555; $ 9,33 ; $ 6,92 ; $ 14.508 ; $ 10.761 
+3612;África;1;Botswana;Alimento infantil;Online;Media;29/08/2022;361234176;11/09/2022;6075; $ 255,28 ; $ 159,42 ; $ 1.550.826 ; $ 968.477 
+8388;Europa;5;Portugal;Frutas;Online;Media;27/05/2022;838858354;16/06/2022;5683; $ 9,33 ; $ 6,92 ; $ 53.022 ; $ 39.326 
+9174;Asia;2;South Korea;Bebida;Offline;Alta;26/10/2022;917417895;28/10/2022;3197; $ 47,45 ; $ 31,79 ; $ 151.698 ; $ 101.633 
+9453;Asia;2;Philippines;Cárnicos;Offline;Media;28/02/2021;945399129;29/03/2021;3466; $ 421,89 ; $ 364,69 ; $ 1.462.271 ; $ 1.264.016 
+4416;Centroamérica y Caribe;4;Saint Vincent and the Grenadines;Cárnicos;Offline;Baja;23/03/2022;441600883;27/03/2022;8369; $ 421,89 ; $ 364,69 ; $ 3.530.797 ; $ 3.052.091 
+3451;Centroamérica y Caribe;4;Panama;Verduras;Online;Crítica;20/08/2022;345134484;7/10/2022;1818; $ 154,06 ; $ 90,93 ; $ 280.081 ; $ 165.311 
+7654;Europa;5;Italy;Cárnicos;Offline;Crítica;4/11/2020;765423762;18/11/2020;4756; $ 421,89 ; $ 364,69 ; $ 2.006.509 ; $ 1.734.466 
+5322;Asia;2;Tajikistan;Alimento infantil;Offline;Media;6/06/2021;532205045;1/07/2021;154; $ 255,28 ; $ 159,42 ; $ 39.313 ; $ 24.551 
+3455;Europa;5;Montenegro;Verduras;Online;Media;21/03/2022;345527160;28/04/2022;8020; $ 154,06 ; $ 90,93 ; $ 1.235.561 ; $ 729.259 
+5257;África;1;Sao Tome and Principe;Verduras;Online;Crítica;10/06/2021;525751435;5/07/2021;388; $ 154,06 ; $ 90,93 ; $ 59.775 ; $ 35.281 
+5635;África;1;Somalia;Verduras;Online;Baja;8/01/2022;563551700;24/02/2022;6326; $ 154,06 ; $ 90,93 ; $ 974.584 ; $ 575.223 
+4699;Europa;5;Italy;Alimento infantil;Offline;Baja;25/07/2021;469914281;18/08/2021;6933; $ 255,28 ; $ 159,42 ; $ 1.769.856 ; $ 1.105.259 
+3261;Europa;5;Poland;Cárnicos;Online;Alta;14/05/2022;326138007;4/06/2022;339; $ 421,89 ; $ 364,69 ; $ 143.021 ; $ 123.630 
+7338;Europa;5;Ukraine;Material de oficina;Offline;Crítica;29/05/2021;733834207;9/06/2021;6704; $ 651,21 ; $ 524,96 ; $ 4.365.712 ; $ 3.519.332 
+5649;Asia;2;Cambodia;Doméstico;Online;Crítica;12/05/2020;564926707;19/05/2020;3221; $ 668,27 ; $ 502,54 ; $ 2.152.498 ; $ 1.618.681 
+1116;Europa;5;Bosnia and Herzegovina;Ropa;Offline;Crítica;19/04/2021;111651837;25/05/2021;9115; $ 109,28 ; $ 35,84 ; $ 996.087 ; $ 326.682 
+6365;Asia;2;Philippines;Verduras;Online;Media;28/05/2022;636558425;8/06/2022;639; $ 154,06 ; $ 90,93 ; $ 98.444 ; $ 58.104 
+3225;Asia;2;Japan;Snacks;Offline;Alta;9/04/2022;322507798;21/04/2022;6079; $ 152,58 ; $ 97,44 ; $ 927.534 ; $ 592.338 
+1226;Asia;2;Turkmenistan;Ropa;Offline;Alta;25/04/2021;122673785;29/04/2021;754; $ 109,28 ; $ 35,84 ; $ 82.397 ; $ 27.023 
+6105;Europa;5;Andorra;Verduras;Offline;Media;12/05/2020;610542714;29/05/2020;2012; $ 154,06 ; $ 90,93 ; $ 309.969 ; $ 182.951 
+6299;África;1;Kenya;Alimento infantil;Online;Baja;23/01/2022;629913413;9/02/2022;4232; $ 255,28 ; $ 159,42 ; $ 1.080.345 ; $ 674.665 
+4448;África;1;Mozambique;Ropa;Online;Alta;24/11/2020;444897210;1/01/2021;3826; $ 109,28 ; $ 35,84 ; $ 418.105 ; $ 137.124 
+3899;Australia y Oceanía;3;Solomon Islands;Snacks;Offline;Alta;3/10/2021;389917933;18/11/2021;4236; $ 152,58 ; $ 97,44 ; $ 646.329 ; $ 412.756 
+4197;África;1;Democratic Republic of the Congo;Cosméticos;Online;Alta;7/05/2021;419711911;1/06/2021;936; $ 437,20 ; $ 263,33 ; $ 409.219 ; $ 246.477 
+5593;África;1;Uganda;Ropa;Offline;Baja;27/01/2021;559327971;15/03/2021;6431; $ 109,28 ; $ 35,84 ; $ 702.780 ; $ 230.487 
+4541;Europa;5;Albania;Material de oficina;Online;Alta;29/09/2022;454127442;12/11/2022;5257; $ 651,21 ; $ 524,96 ; $ 3.423.411 ; $ 2.759.715 
+7197;Australia y Oceanía;3;Samoa ;Cereales;Online;Crítica;1/06/2021;719784152;11/07/2021;8981; $ 205,70 ; $ 117,11 ; $ 1.847.392 ; $ 1.051.765 
+6922;Asia;2;Indonesia;Verduras;Online;Alta;16/02/2021;692284429;7/03/2021;1201; $ 154,06 ; $ 90,93 ; $ 185.026 ; $ 109.207 
+6779;África;1;South Africa;Snacks;Offline;Baja;12/01/2022;677927100;18/01/2022;2549; $ 152,58 ; $ 97,44 ; $ 388.926 ; $ 248.375 
+6033;África;1;Malawi;Cereales;Online;Baja;27/10/2021;603323495;6/12/2021;5684; $ 205,70 ; $ 117,11 ; $ 1.169.199 ; $ 665.653 
+4653;Europa;5;United Kingdom;Ropa;Online;Baja;11/01/2020;465397441;23/02/2020;300; $ 109,28 ; $ 35,84 ; $ 32.784 ; $ 10.752 
+7813;Centroamérica y Caribe;4;Jamaica;Alimento infantil;Online;Alta;17/04/2022;781385266;22/04/2022;8119; $ 255,28 ; $ 159,42 ; $ 2.072.618 ; $ 1.294.331 
+3388;Asia;2;Nepal;Material de oficina;Offline;Media;21/10/2021;338835799;26/10/2021;7898; $ 651,21 ; $ 524,96 ; $ 5.143.257 ; $ 4.146.134 
+2456;África;1;Mali;Alimento infantil;Online;Crítica;20/09/2020;245610368;22/10/2020;421; $ 255,28 ; $ 159,42 ; $ 107.473 ; $ 67.116 
+7798;Asia;2;China;Alimento infantil;Online;Alta;7/03/2020;779882800;21/03/2020;3506; $ 255,28 ; $ 159,42 ; $ 895.012 ; $ 558.927 
+9401;África;1;Togo;Cuidado personal;Online;Baja;19/09/2021;940139424;2/11/2021;7002; $ 81,73 ; $ 56,67 ; $ 572.273 ; $ 396.803 
+6951;Australia y Oceanía;3;Solomon Islands;Doméstico;Offline;Alta;16/02/2020;695179069;16/02/2020;7790; $ 668,27 ; $ 502,54 ; $ 5.205.823 ; $ 3.914.787 
+5341;África;1;Central African Republic;Frutas;Offline;Crítica;12/01/2022;534113061;10/02/2022;4779; $ 9,33 ; $ 6,92 ; $ 44.588 ; $ 33.071 
+1163;África;1;Swaziland;Cosméticos;Online;Baja;10/08/2021;116365230;20/08/2021;3912; $ 437,20 ; $ 263,33 ; $ 1.710.326 ; $ 1.030.147 
+5216;África;1;United Arab Emirates;Cereales;Online;Media;28/12/2021;521671903;6/02/2022;3164; $ 205,70 ; $ 117,11 ; $ 650.835 ; $ 370.536 
+2000;Australia y Oceanía;3;Fiji;Bebida;Offline;Baja;12/06/2022;200081908;12/06/2022;7538; $ 47,45 ; $ 31,79 ; $ 357.678 ; $ 239.633 
+8219;África;1;Swaziland;Cosméticos;Offline;Crítica;19/08/2022;821956574;27/09/2022;4071; $ 437,20 ; $ 263,33 ; $ 1.779.841 ; $ 1.072.016 
+5279;Europa;5;Vatican City;Verduras;Offline;Alta;7/03/2021;527969729;17/04/2021;6830; $ 154,06 ; $ 90,93 ; $ 1.052.230 ; $ 621.052 
+6791;Asia;2;Thailand;Bebida;Online;Baja;5/11/2022;679107701;7/11/2022;1915; $ 47,45 ; $ 31,79 ; $ 90.867 ; $ 60.878 
+9066;Europa;5;Georgia;Verduras;Online;Alta;12/10/2022;906669318;24/10/2022;2454; $ 154,06 ; $ 90,93 ; $ 378.063 ; $ 223.142 
+4622;África;1;Guinea-Bissau;Snacks;Online;Baja;31/03/2022;462265908;19/04/2022;3610; $ 152,58 ; $ 97,44 ; $ 550.814 ; $ 351.758 
+4678;Europa;5;Estonia;Snacks;Online;Baja;28/06/2021;467821300;9/07/2021;7573; $ 152,58 ; $ 97,44 ; $ 1.155.488 ; $ 737.913 
+7655;África;1;Swaziland;Cosméticos;Offline;Alta;26/02/2021;765571820;7/04/2021;8569; $ 437,20 ; $ 263,33 ; $ 3.746.367 ; $ 2.256.475 
+3680;Centroamérica y Caribe;4;Trinidad and Tobago;Cosméticos;Online;Crítica;9/11/2020;368066298;24/12/2020;7852; $ 437,20 ; $ 263,33 ; $ 3.432.894 ; $ 2.067.667 
+6081;África;1;Ghana;Doméstico;Online;Media;12/08/2020;608166062;9/09/2020;8707; $ 668,27 ; $ 502,54 ; $ 5.818.627 ; $ 4.375.616 
+1890;África;1;Djibouti;Ropa;Online;Alta;10/04/2022;189044940;12/05/2022;1454; $ 109,28 ; $ 35,84 ; $ 158.893 ; $ 52.111 
+1341;Australia y Oceanía;3;New Zealand;Cereales;Offline;Crítica;15/05/2022;134189260;24/05/2022;8439; $ 205,70 ; $ 117,11 ; $ 1.735.902 ; $ 988.291 
+6373;África;1;Syria;Cuidado personal;Offline;Baja;17/02/2022;637397849;21/02/2022;9043; $ 81,73 ; $ 56,67 ; $ 739.084 ; $ 512.467 
+6127;Europa;5;Albania;Ropa;Online;Alta;26/04/2020;612782037;19/05/2020;4677; $ 109,28 ; $ 35,84 ; $ 511.103 ; $ 167.624 
+8447;Asia;2;Taiwan;Material de oficina;Offline;Crítica;24/05/2020;844765651;1/06/2020;3783; $ 651,21 ; $ 524,96 ; $ 2.463.527 ; $ 1.985.924 
+8380;África;1;Ethiopia;Bebida;Offline;Media;2/07/2020;838085019;21/07/2020;6836; $ 47,45 ; $ 31,79 ; $ 324.368 ; $ 217.316 
+1677;Europa;5;United Kingdom;Snacks;Offline;Media;11/08/2020;167788970;11/08/2020;1340; $ 152,58 ; $ 97,44 ; $ 204.457 ; $ 130.570 
+7292;África;1;Cape Verde;Material de oficina;Offline;Baja;5/02/2021;729238831;16/02/2021;6830; $ 651,21 ; $ 524,96 ; $ 4.447.764 ; $ 3.585.477 
+8881;África;1;Tanzania;Alimento infantil;Online;Media;24/04/2021;888108432;13/06/2021;9876; $ 255,28 ; $ 159,42 ; $ 2.521.145 ; $ 1.574.432 
+4303;Centroamérica y Caribe;4;Trinidad and Tobago;Snacks;Online;Alta;1/01/2021;430384099;27/01/2021;9074; $ 152,58 ; $ 97,44 ; $ 1.384.511 ; $ 884.171 
+1123;África;1;Togo;Cereales;Offline;Alta;1/10/2021;112364661;9/11/2021;55; $ 205,70 ; $ 117,11 ; $ 11.314 ; $ 6.441 
+3106;Europa;5;Montenegro;Doméstico;Online;Alta;7/09/2022;310661447;8/09/2022;480; $ 668,27 ; $ 502,54 ; $ 320.770 ; $ 241.219 
+5721;Europa;5;Russia;Ropa;Offline;Media;23/11/2021;572198283;6/12/2021;5042; $ 109,28 ; $ 35,84 ; $ 550.990 ; $ 180.705 
+9642;Asia;2;Nepal;Cereales;Offline;Media;29/09/2020;964211499;7/11/2020;464; $ 205,70 ; $ 117,11 ; $ 95.445 ; $ 54.339 
+7242;África;1;Kenya;Doméstico;Online;Alta;4/06/2022;724249923;3/07/2022;501; $ 668,27 ; $ 502,54 ; $ 334.803 ; $ 251.773 
+5101;África;1;Zimbabwe;Alimento infantil;Online;Crítica;11/12/2021;510174882;12/12/2021;940; $ 255,28 ; $ 159,42 ; $ 239.963 ; $ 149.855 
+1501;África;1;Turkey;Bebida;Offline;Alta;15/11/2021;150160205;22/11/2021;4596; $ 47,45 ; $ 31,79 ; $ 218.080 ; $ 146.107 
+8926;Europa;5;Portugal;Bebida;Online;Media;27/04/2022;892692220;11/05/2022;6320; $ 47,45 ; $ 31,79 ; $ 299.884 ; $ 200.913 
+4565;Centroamérica y Caribe;4;Costa Rica;Doméstico;Online;Media;11/05/2022;456569755;9/06/2022;7991; $ 668,27 ; $ 502,54 ; $ 5.340.146 ; $ 4.015.797 
+6809;Norteamérica;6;Canada;Material de oficina;Online;Media;23/06/2021;680904138;11/07/2021;3520; $ 651,21 ; $ 524,96 ; $ 2.292.259 ; $ 1.847.859 
+7751;Centroamérica y Caribe;4;Trinidad and Tobago;Doméstico;Online;Media;25/12/2020;775119197;2/02/2021;3850; $ 668,27 ; $ 502,54 ; $ 2.572.840 ; $ 1.934.779 
+4689;África;1;Iran;Cárnicos;Online;Baja;7/08/2022;468951261;19/08/2022;1954; $ 421,89 ; $ 364,69 ; $ 824.373 ; $ 712.604 
+4624;África;1;Burundi;Material de oficina;Online;Baja;16/04/2021;462449157;31/05/2021;7837; $ 651,21 ; $ 524,96 ; $ 5.103.533 ; $ 4.114.112 
+1759;África;1;Cameroon;Cosméticos;Offline;Alta;3/01/2021;175974214;13/01/2021;3535; $ 437,20 ; $ 263,33 ; $ 1.545.502 ; $ 930.872 
+9002;Asia;2;Maldives;Cosméticos;Offline;Baja;24/10/2021;900200259;10/11/2021;8116; $ 437,20 ; $ 263,33 ; $ 3.548.315 ; $ 2.137.186 
+8461;Centroamérica y Caribe;4;Nicaragua;Cereales;Offline;Crítica;25/04/2021;846113622;3/06/2021;2678; $ 205,70 ; $ 117,11 ; $ 550.865 ; $ 313.621 
+9950;Europa;5;Ukraine;Alimento infantil;Offline;Alta;22/10/2021;995013129;27/11/2021;5351; $ 255,28 ; $ 159,42 ; $ 1.366.003 ; $ 853.056 
+1485;África;1;Madagascar;Cuidado personal;Online;Crítica;9/04/2020;148510110;14/05/2020;6297; $ 81,73 ; $ 56,67 ; $ 514.654 ; $ 356.851 
+7785;Australia y Oceanía;3;Australia;Ropa;Online;Media;27/03/2021;778528392;14/05/2021;2707; $ 109,28 ; $ 35,84 ; $ 295.821 ; $ 97.019 
+4773;África;1;Somalia;Bebida;Online;Media;22/01/2021;477304303;23/01/2021;3805; $ 47,45 ; $ 31,79 ; $ 180.547 ; $ 120.961 
+5073;Europa;5;San Marino;Snacks;Offline;Alta;13/10/2020;507386672;22/10/2020;5846; $ 152,58 ; $ 97,44 ; $ 891.983 ; $ 569.634 
+8516;África;1;Turkey;Snacks;Offline;Crítica;10/11/2021;851636826;10/11/2021;7117; $ 152,58 ; $ 97,44 ; $ 1.085.912 ; $ 693.480 
+6632;Centroamérica y Caribe;4;Grenada;Cárnicos;Online;Alta;4/11/2021;663228595;15/12/2021;2934; $ 421,89 ; $ 364,69 ; $ 1.237.825 ; $ 1.070.000 
+5156;Europa;5;Lithuania;Cereales;Offline;Baja;25/07/2021;515648305;3/08/2021;647; $ 205,70 ; $ 117,11 ; $ 133.088 ; $ 75.770 
+1526;Australia y Oceanía;3;Papua New Guinea;Bebida;Online;Alta;23/10/2020;152694785;16/11/2020;4635; $ 47,45 ; $ 31,79 ; $ 219.931 ; $ 147.347 
+7384;Europa;5;Serbia;Cereales;Online;Alta;23/08/2022;738479363;7/09/2022;1309; $ 205,70 ; $ 117,11 ; $ 269.261 ; $ 153.297 
+8074;Europa;5;Ukraine;Snacks;Offline;Media;5/07/2020;807425868;7/07/2020;4112; $ 152,58 ; $ 97,44 ; $ 627.409 ; $ 400.673 
+3142;Norteamérica;6;Greenland;Bebida;Offline;Crítica;24/07/2022;314270627;12/08/2022;8517; $ 47,45 ; $ 31,79 ; $ 404.132 ; $ 270.755 
+1840;Europa;5;Lithuania;Doméstico;Offline;Baja;15/08/2021;184062469;20/09/2021;7030; $ 668,27 ; $ 502,54 ; $ 4.697.938 ; $ 3.532.856 
+9621;África;1;South Sudan;Cuidado personal;Offline;Baja;10/05/2022;962162721;15/06/2022;4185; $ 81,73 ; $ 56,67 ; $ 342.040 ; $ 237.164 
+5642;Asia;2;Maldives;Ropa;Online;Crítica;7/09/2022;564245212;19/10/2022;1552; $ 109,28 ; $ 35,84 ; $ 169.603 ; $ 55.624 
+1262;Asia;2;Kazakhstan;Doméstico;Offline;Media;3/12/2020;126296269;12/01/2021;2728; $ 668,27 ; $ 502,54 ; $ 1.823.041 ; $ 1.370.929 
+8546;África;1;Kuwait;Cosméticos;Online;Baja;2/02/2020;854614722;5/02/2020;8343; $ 437,20 ; $ 263,33 ; $ 3.647.560 ; $ 2.196.962 
+8758;África;1;Rwanda;Cuidado personal;Offline;Alta;23/09/2020;875811898;13/10/2020;1058; $ 81,73 ; $ 56,67 ; $ 86.470 ; $ 59.957 
+1868;África;1;Cameroon;Cuidado personal;Offline;Crítica;18/05/2022;186811625;3/06/2022;566; $ 81,73 ; $ 56,67 ; $ 46.259 ; $ 32.075 
+2048;Europa;5;Czech Republic;Cárnicos;Offline;Crítica;6/02/2022;204850232;6/03/2022;8591; $ 421,89 ; $ 364,69 ; $ 3.624.457 ; $ 3.133.052 
+6174;África;1;Equatorial Guinea;Doméstico;Offline;Crítica;28/08/2021;617476546;3/10/2021;3887; $ 668,27 ; $ 502,54 ; $ 2.597.565 ; $ 1.953.373 
+7325;África;1;Liberia;Frutas;Online;Crítica;9/05/2020;732551896;5/06/2020;7240; $ 9,33 ; $ 6,92 ; $ 67.549 ; $ 50.101 
+8282;África;1;The Gambia;Cuidado personal;Online;Alta;8/03/2022;828250110;10/04/2022;6468; $ 81,73 ; $ 56,67 ; $ 528.630 ; $ 366.542 
+8030;África;1;Liberia;Cuidado personal;Online;Media;8/02/2020;803057515;22/03/2020;1419; $ 81,73 ; $ 56,67 ; $ 115.975 ; $ 80.415 
+6257;Europa;5;Monaco;Material de oficina;Offline;Media;7/05/2020;625772941;15/06/2020;8974; $ 651,21 ; $ 524,96 ; $ 5.843.959 ; $ 4.710.991 
+7855;Asia;2;Thailand;Snacks;Offline;Alta;17/12/2020;785507714;31/12/2020;8043; $ 152,58 ; $ 97,44 ; $ 1.227.201 ; $ 783.710 
+9416;África;1;Cape Verde;Bebida;Offline;Crítica;1/11/2021;941685664;21/12/2021;4569; $ 47,45 ; $ 31,79 ; $ 216.799 ; $ 145.249 
+3740;África;1;Rwanda;Frutas;Offline;Media;22/05/2020;374043118;2/07/2020;6526; $ 9,33 ; $ 6,92 ; $ 60.888 ; $ 45.160 
+2326;África;1;Chad;Cuidado personal;Offline;Media;10/08/2021;232628905;1/09/2021;8917; $ 81,73 ; $ 56,67 ; $ 728.786 ; $ 505.326 
+3878;África;1;Turkey;Cuidado personal;Online;Baja;15/04/2022;387804353;23/05/2022;8781; $ 81,73 ; $ 56,67 ; $ 717.671 ; $ 497.619 
+7802;África;1;Tanzania;Ropa;Online;Crítica;23/01/2021;780243289;17/02/2021;183; $ 109,28 ; $ 35,84 ; $ 19.998 ; $ 6.559 
+9709;África;1;Togo;Cuidado personal;Online;Media;8/09/2022;970932042;9/10/2022;9222; $ 81,73 ; $ 56,67 ; $ 753.714 ; $ 522.611 
+5911;Australia y Oceanía;3;Marshall Islands;Cárnicos;Offline;Alta;23/04/2022;591169440;4/06/2022;9029; $ 421,89 ; $ 364,69 ; $ 3.809.245 ; $ 3.292.786 
+6925;Centroamérica y Caribe;4;Cuba;Doméstico;Online;Baja;14/03/2021;692566812;21/03/2021;4765; $ 668,27 ; $ 502,54 ; $ 3.184.307 ; $ 2.394.603 
+5970;África;1;Guinea-Bissau;Material de oficina;Online;Baja;16/06/2022;597047984;2/07/2022;8621; $ 651,21 ; $ 524,96 ; $ 5.614.081 ; $ 4.525.680 
+1468;Europa;5;Georgia;Bebida;Online;Alta;3/01/2021;146849286;23/01/2021;4822; $ 47,45 ; $ 31,79 ; $ 228.804 ; $ 153.291 
+1545;Centroamérica y Caribe;4;The Bahamas;Frutas;Offline;Alta;9/03/2022;154519546;15/03/2022;4622; $ 9,33 ; $ 6,92 ; $ 43.123 ; $ 31.984 
+1529;Europa;5;Ukraine;Frutas;Offline;Crítica;16/04/2020;152920091;17/05/2020;1308; $ 9,33 ; $ 6,92 ; $ 12.204 ; $ 9.051 
+6452;África;1;Djibouti;Cereales;Online;Crítica;13/01/2020;645224750;14/02/2020;5197; $ 205,70 ; $ 117,11 ; $ 1.069.023 ; $ 608.621 
+8549;Centroamérica y Caribe;4;Honduras;Material de oficina;Offline;Crítica;20/10/2020;854919850;5/11/2020;8637; $ 651,21 ; $ 524,96 ; $ 5.624.501 ; $ 4.534.080 
+9758;Australia y Oceanía;3;Palau;Cereales;Online;Crítica;19/12/2020;975804221;13/01/2021;1008; $ 205,70 ; $ 117,11 ; $ 207.346 ; $ 118.047 
+8219;Europa;5;Portugal;Doméstico;Offline;Baja;25/02/2022;821989190;11/03/2022;3723; $ 668,27 ; $ 502,54 ; $ 2.487.969 ; $ 1.870.956 
+2778;África;1;Iraq;Alimento infantil;Offline;Baja;5/02/2022;277898585;6/03/2022;5222; $ 255,28 ; $ 159,42 ; $ 1.333.072 ; $ 832.491 
+6482;Asia;2;Philippines;Verduras;Offline;Baja;21/10/2021;648268735;17/11/2021;5979; $ 154,06 ; $ 90,93 ; $ 921.125 ; $ 543.670 
+6081;Centroamérica y Caribe;4;Barbados;Frutas;Offline;Crítica;31/03/2021;608148467;3/04/2021;3501; $ 9,33 ; $ 6,92 ; $ 32.664 ; $ 24.227 
+2528;África;1;Mozambique;Cereales;Online;Baja;19/10/2020;252899110;5/11/2020;7321; $ 205,70 ; $ 117,11 ; $ 1.505.930 ; $ 857.362 
+6481;Europa;5;Vatican City;Frutas;Online;Alta;1/09/2022;648194491;17/09/2022;4009; $ 9,33 ; $ 6,92 ; $ 37.404 ; $ 27.742 
+6800;África;1;Kuwait;Snacks;Offline;Alta;20/11/2020;680020940;1/12/2020;2163; $ 152,58 ; $ 97,44 ; $ 330.031 ; $ 210.763 
+2046;África;1;Gabon;Alimento infantil;Offline;Crítica;3/10/2022;204677283;3/10/2022;7411; $ 255,28 ; $ 159,42 ; $ 1.891.880 ; $ 1.181.462 
+4987;Asia;2;Brunei;Ropa;Online;Media;5/09/2021;498774850;22/10/2021;7417; $ 109,28 ; $ 35,84 ; $ 810.530 ; $ 265.825 
+2092;África;1;Iran;Frutas;Online;Alta;22/06/2021;209237468;22/06/2021;6871; $ 9,33 ; $ 6,92 ; $ 64.106 ; $ 47.547 
+3033;Europa;5;Czech Republic;Cosméticos;Offline;Crítica;22/08/2020;303301465;16/09/2020;2498; $ 437,20 ; $ 263,33 ; $ 1.092.126 ; $ 657.798 
+9185;Australia y Oceanía;3;Nauru;Cárnicos;Offline;Alta;14/05/2022;918515670;7/06/2022;8053; $ 421,89 ; $ 364,69 ; $ 3.397.480 ; $ 2.936.849 
+9127;Europa;5;Monaco;Snacks;Online;Baja;1/09/2021;912741410;11/09/2021;9321; $ 152,58 ; $ 97,44 ; $ 1.422.198 ; $ 908.238 
+1141;Europa;5;Vatican City;Cereales;Offline;Baja;9/02/2021;114152514;21/03/2021;9121; $ 205,70 ; $ 117,11 ; $ 1.876.190 ; $ 1.068.160 
+6712;África;1;Swaziland;Cuidado personal;Online;Baja;18/10/2020;671235311;15/11/2020;2300; $ 81,73 ; $ 56,67 ; $ 187.979 ; $ 130.341 
+3027;Centroamérica y Caribe;4;Barbados;Alimento infantil;Online;Media;2/09/2022;302788627;3/10/2022;738; $ 255,28 ; $ 159,42 ; $ 188.397 ; $ 117.652 
+8479;Europa;5;Slovakia;Cuidado personal;Online;Media;29/06/2020;847923791;16/07/2020;8347; $ 81,73 ; $ 56,67 ; $ 682.200 ; $ 473.024 
+6160;Australia y Oceanía;3;Tuvalu;Alimento infantil;Online;Alta;20/04/2021;616064631;1/06/2021;6070; $ 255,28 ; $ 159,42 ; $ 1.549.550 ; $ 967.679 
+2369;Europa;5;Austria;Frutas;Offline;Media;1/02/2021;236947476;28/02/2021;6879; $ 9,33 ; $ 6,92 ; $ 64.181 ; $ 47.603 
+4106;Australia y Oceanía;3;Tonga;Doméstico;Online;Alta;16/07/2020;410621154;15/08/2020;779; $ 668,27 ; $ 502,54 ; $ 520.582 ; $ 391.479 
+5574;Centroamérica y Caribe;4;Dominica;Frutas;Online;Baja;1/10/2020;557446992;24/10/2020;9807; $ 9,33 ; $ 6,92 ; $ 91.499 ; $ 67.864 
+1680;Australia y Oceanía;3;Samoa ;Cosméticos;Offline;Alta;13/10/2021;168098819;28/10/2021;3031; $ 437,20 ; $ 263,33 ; $ 1.325.153 ; $ 798.153 
+1535;Australia y Oceanía;3;Kiribati;Verduras;Offline;Alta;30/03/2021;153562963;29/04/2021;1548; $ 154,06 ; $ 90,93 ; $ 238.485 ; $ 140.760 
+5951;Centroamérica y Caribe;4;Panama;Ropa;Offline;Baja;5/06/2021;595138251;4/07/2021;3489; $ 109,28 ; $ 35,84 ; $ 381.278 ; $ 125.046 
+2944;Asia;2;Uzbekistan;Alimento infantil;Online;Baja;4/03/2022;294436013;11/04/2022;9014; $ 255,28 ; $ 159,42 ; $ 2.301.094 ; $ 1.437.012 
+8233;África;1;Swaziland;Alimento infantil;Online;Crítica;16/04/2022;823380076;3/05/2022;5317; $ 255,28 ; $ 159,42 ; $ 1.357.324 ; $ 847.636 
+6742;África;1;Saudi Arabia;Frutas;Online;Alta;31/12/2020;674206769;15/02/2021;1620; $ 9,33 ; $ 6,92 ; $ 15.115 ; $ 11.210 
+2094;África;1;Zambia;Material de oficina;Offline;Alta;15/03/2022;209464919;20/04/2022;4179; $ 651,21 ; $ 524,96 ; $ 2.721.407 ; $ 2.193.808 
+3120;Norteamérica;6;Greenland;Alimento infantil;Online;Alta;17/08/2021;312015855;3/09/2021;1280; $ 255,28 ; $ 159,42 ; $ 326.758 ; $ 204.058 
+1350;Asia;2;Turkmenistan;Cárnicos;Offline;Baja;21/07/2022;135033404;26/07/2022;8240; $ 421,89 ; $ 364,69 ; $ 3.476.374 ; $ 3.005.046 
+2520;Centroamérica y Caribe;4;El Salvador;Alimento infantil;Offline;Media;1/02/2020;252003896;2/03/2020;2408; $ 255,28 ; $ 159,42 ; $ 614.714 ; $ 383.883 
+4067;África;1;Pakistan;Alimento infantil;Offline;Alta;6/08/2022;406726157;13/08/2022;8163; $ 255,28 ; $ 159,42 ; $ 2.083.851 ; $ 1.301.345 
+8633;África;1;Libya;Cuidado personal;Offline;Media;15/09/2021;863311517;6/10/2021;1917; $ 81,73 ; $ 56,67 ; $ 156.676 ; $ 108.636 
+1561;Asia;2;Taiwan;Bebida;Offline;Crítica;20/04/2022;156183803;28/05/2022;7113; $ 47,45 ; $ 31,79 ; $ 337.512 ; $ 226.122 
+9400;Europa;5;Macedonia;Bebida;Offline;Baja;3/02/2021;940079343;17/03/2021;9223; $ 47,45 ; $ 31,79 ; $ 437.631 ; $ 293.199 
+5400;Australia y Oceanía;3;Solomon Islands;Doméstico;Offline;Alta;7/05/2022;540046966;9/05/2022;753; $ 668,27 ; $ 502,54 ; $ 503.207 ; $ 378.413 
+4014;Norteamérica;6;Mexico;Bebida;Offline;Media;22/02/2022;401447999;27/02/2022;6239; $ 47,45 ; $ 31,79 ; $ 296.041 ; $ 198.338 
+2399;África;1;Somalia;Cuidado personal;Offline;Alta;8/04/2021;239956271;30/04/2021;7248; $ 81,73 ; $ 56,67 ; $ 592.379 ; $ 410.744 
+2915;Asia;2;Taiwan;Frutas;Online;Media;23/11/2020;291558110;1/01/2021;7379; $ 9,33 ; $ 6,92 ; $ 68.846 ; $ 51.063 
+8625;Centroamérica y Caribe;4;Cuba;Doméstico;Online;Crítica;7/03/2021;862552344;5/04/2021;7261; $ 668,27 ; $ 502,54 ; $ 4.852.308 ; $ 3.648.943 
+9795;Australia y Oceanía;3;Federated States of Micronesia;Frutas;Offline;Crítica;3/09/2022;979550302;3/10/2022;9557; $ 9,33 ; $ 6,92 ; $ 89.167 ; $ 66.134 
+6394;Australia y Oceanía;3;Australia;Doméstico;Offline;Alta;17/01/2022;639475810;3/02/2022;3958; $ 668,27 ; $ 502,54 ; $ 2.645.013 ; $ 1.989.053 
+3595;Asia;2;Myanmar;Cereales;Offline;Alta;31/01/2022;359565198;1/03/2022;2187; $ 205,70 ; $ 117,11 ; $ 449.866 ; $ 256.120 
+7273;Europa;5;Montenegro;Cereales;Online;Baja;9/09/2021;727367293;23/10/2021;3001; $ 205,70 ; $ 117,11 ; $ 617.306 ; $ 351.447 
+1507;África;1;Nigeria;Ropa;Offline;Media;2/03/2020;150743424;2/03/2020;7184; $ 109,28 ; $ 35,84 ; $ 785.068 ; $ 257.475 
+7078;Centroamérica y Caribe;4;The Bahamas;Verduras;Online;Alta;4/07/2021;707867419;2/08/2021;2555; $ 154,06 ; $ 90,93 ; $ 393.623 ; $ 232.326 
+4972;África;1;Ethiopia;Snacks;Offline;Alta;13/07/2021;497225606;2/08/2021;8961; $ 152,58 ; $ 97,44 ; $ 1.367.269 ; $ 873.160 
+3876;Australia y Oceanía;3;Nauru;Verduras;Offline;Alta;30/09/2020;387616813;5/10/2020;3283; $ 154,06 ; $ 90,93 ; $ 505.779 ; $ 298.523 
+8681;Centroamérica y Caribe;4;Haiti;Doméstico;Online;Baja;27/01/2020;868152368;23/02/2020;4433; $ 668,27 ; $ 502,54 ; $ 2.962.441 ; $ 2.227.760 
+6982;Centroamérica y Caribe;4;Antigua and Barbuda ;Snacks;Online;Alta;29/03/2022;698256099;14/04/2022;8351; $ 152,58 ; $ 97,44 ; $ 1.274.196 ; $ 813.721 
+9576;Europa;5;Slovenia;Cárnicos;Online;Baja;29/10/2021;957664334;18/11/2021;3013; $ 421,89 ; $ 364,69 ; $ 1.271.155 ; $ 1.098.811 
+9964;Norteamérica;6;Greenland;Material de oficina;Online;Baja;12/12/2020;996425902;2/01/2021;3422; $ 651,21 ; $ 524,96 ; $ 2.228.441 ; $ 1.796.413 
+6849;África;1;Burundi;Cosméticos;Offline;Crítica;13/02/2022;684902131;28/02/2022;6615; $ 437,20 ; $ 263,33 ; $ 2.892.078 ; $ 1.741.928 
+8637;Europa;5;Czech Republic;Material de oficina;Offline;Alta;14/02/2021;863766849;24/03/2021;6660; $ 651,21 ; $ 524,96 ; $ 4.337.059 ; $ 3.496.234 
+1940;África;1;Equatorial Guinea;Material de oficina;Offline;Media;15/09/2022;194006383;22/10/2022;9655; $ 651,21 ; $ 524,96 ; $ 6.287.433 ; $ 5.068.489 
+1069;Centroamérica y Caribe;4;Dominican Republic;Ropa;Offline;Alta;7/01/2022;106919562;25/02/2022;8729; $ 109,28 ; $ 35,84 ; $ 953.905 ; $ 312.847 
+7541;Europa;5;Poland;Cuidado personal;Online;Crítica;30/04/2020;754117715;24/05/2020;9045; $ 81,73 ; $ 56,67 ; $ 739.248 ; $ 512.580 
+5575;Europa;5;Albania;Frutas;Offline;Crítica;27/09/2020;557524669;16/11/2020;2794; $ 9,33 ; $ 6,92 ; $ 26.068 ; $ 19.334 
+2593;África;1;Sudan;Snacks;Offline;Baja;13/01/2021;259376752;10/02/2021;4200; $ 152,58 ; $ 97,44 ; $ 640.836 ; $ 409.248 
+6722;Norteamérica;6;Canada;Cárnicos;Online;Baja;31/10/2020;672222793;17/12/2020;4517; $ 421,89 ; $ 364,69 ; $ 1.905.677 ; $ 1.647.305 
+4289;Europa;5;Czech Republic;Cereales;Online;Baja;24/02/2020;428924119;6/03/2020;7033; $ 205,70 ; $ 117,11 ; $ 1.446.688 ; $ 823.635 
+9326;África;1;Madagascar;Doméstico;Offline;Crítica;30/10/2020;932654559;9/11/2020;2065; $ 668,27 ; $ 502,54 ; $ 1.379.978 ; $ 1.037.745 
+5069;Europa;5;Estonia;Bebida;Online;Alta;10/04/2022;506900441;10/04/2022;1960; $ 47,45 ; $ 31,79 ; $ 93.002 ; $ 62.308 
+2454;África;1;Ethiopia;Ropa;Online;Media;4/11/2022;245460593;27/11/2022;6099; $ 109,28 ; $ 35,84 ; $ 666.499 ; $ 218.588 
+8624;África;1;Republic of the Congo;Snacks;Online;Media;22/04/2021;862446343;26/05/2021;5893; $ 152,58 ; $ 97,44 ; $ 899.154 ; $ 574.214 
+4422;Europa;5;Croatia;Doméstico;Offline;Crítica;13/02/2021;442281520;14/03/2021;9785; $ 668,27 ; $ 502,54 ; $ 6.539.022 ; $ 4.917.354 
+2897;Europa;5;Switzerland;Bebida;Offline;Alta;5/06/2020;289702451;18/06/2020;8248; $ 47,45 ; $ 31,79 ; $ 391.368 ; $ 262.204 
+8797;África;1;Angola;Bebida;Offline;Crítica;23/01/2022;879757964;27/02/2022;8787; $ 47,45 ; $ 31,79 ; $ 416.943 ; $ 279.339 
+5078;Asia;2;Cambodia;Cereales;Offline;Alta;4/09/2020;507809388;5/09/2020;937; $ 205,70 ; $ 117,11 ; $ 192.741 ; $ 109.732 
+2395;África;1;Pakistan;Doméstico;Offline;Crítica;6/05/2021;239530551;17/05/2021;1268; $ 668,27 ; $ 502,54 ; $ 847.366 ; $ 637.221 
+7609;África;1;Malawi;Alimento infantil;Online;Baja;13/12/2020;760907781;6/01/2021;8376; $ 255,28 ; $ 159,42 ; $ 2.138.225 ; $ 1.335.302 
+1282;África;1;Botswana;Cereales;Offline;Baja;29/01/2021;128239905;10/03/2021;7893; $ 205,70 ; $ 117,11 ; $ 1.623.590 ; $ 924.349 
+5181;Centroamérica y Caribe;4;Saint Vincent and the Grenadines;Alimento infantil;Online;Crítica;8/11/2020;518138253;28/11/2020;7478; $ 255,28 ; $ 159,42 ; $ 1.908.984 ; $ 1.192.143 
+5775;Australia y Oceanía;3;Kiribati;Snacks;Online;Alta;26/03/2021;577526652;10/04/2021;1825; $ 152,58 ; $ 97,44 ; $ 278.459 ; $ 177.828 
+3736;Centroamérica y Caribe;4;Honduras;Material de oficina;Offline;Baja;18/09/2020;373641431;28/10/2020;7657; $ 651,21 ; $ 524,96 ; $ 4.986.315 ; $ 4.019.619 
+9440;África;1;Israel;Cárnicos;Offline;Baja;27/06/2022;944031417;12/08/2022;8730; $ 421,89 ; $ 364,69 ; $ 3.683.100 ; $ 3.183.744 
+2465;Asia;2;Brunei;Bebida;Online;Baja;27/07/2021;246557939;14/09/2021;828; $ 47,45 ; $ 31,79 ; $ 39.289 ; $ 26.322 
+8093;África;1;Senegal;Material de oficina;Online;Baja;9/07/2020;809394824;9/07/2020;6770; $ 651,21 ; $ 524,96 ; $ 4.408.692 ; $ 3.553.979 
+2810;Europa;5;Iceland;Verduras;Offline;Alta;24/04/2022;281028401;14/05/2022;1404; $ 154,06 ; $ 90,93 ; $ 216.300 ; $ 127.666 
+8802;Centroamérica y Caribe;4;Haiti;Material de oficina;Offline;Baja;20/04/2020;880257499;1/05/2020;6610; $ 651,21 ; $ 524,96 ; $ 4.304.498 ; $ 3.469.986 
+8461;Europa;5;Switzerland;Alimento infantil;Online;Media;20/07/2022;846193444;2/09/2022;6299; $ 255,28 ; $ 159,42 ; $ 1.608.009 ; $ 1.004.187 
+2882;Europa;5;Italy;Cárnicos;Offline;Alta;18/10/2021;288260066;10/11/2021;1414; $ 421,89 ; $ 364,69 ; $ 596.552 ; $ 515.672 
+7361;Europa;5;Romania;Cereales;Online;Media;12/08/2022;736193692;1/09/2022;4928; $ 205,70 ; $ 117,11 ; $ 1.013.690 ; $ 577.118 
+1900;Europa;5;Georgia;Cereales;Offline;Crítica;30/10/2022;190043151;13/12/2022;6846; $ 205,70 ; $ 117,11 ; $ 1.408.222 ; $ 801.735 
+7701;Norteamérica;6;United States of America;Cárnicos;Offline;Media;4/09/2020;770169770;18/09/2020;9205; $ 421,89 ; $ 364,69 ; $ 3.883.497 ; $ 3.356.971 
+1672;Australia y Oceanía;3;Kiribati;Material de oficina;Offline;Crítica;7/12/2021;167247378;18/01/2022;1071; $ 651,21 ; $ 524,96 ; $ 697.446 ; $ 562.232 
+1922;Europa;5;Bosnia and Herzegovina;Snacks;Online;Crítica;8/05/2021;192262303;8/05/2021;3543; $ 152,58 ; $ 97,44 ; $ 540.591 ; $ 345.230 
+9265;África;1;Mauritius ;Cuidado personal;Offline;Media;23/03/2021;926513373;23/03/2021;4751; $ 81,73 ; $ 56,67 ; $ 388.299 ; $ 269.239 
+2716;Norteamérica;6;Greenland;Cárnicos;Online;Media;23/05/2021;271611917;9/06/2021;4857; $ 421,89 ; $ 364,69 ; $ 2.049.120 ; $ 1.771.299 
+6994;África;1;Zimbabwe;Material de oficina;Online;Crítica;31/08/2020;699481761;14/09/2020;1052; $ 651,21 ; $ 524,96 ; $ 685.073 ; $ 552.258 
+7023;Europa;5;Belgium;Ropa;Offline;Media;12/02/2021;702359235;1/03/2021;2560; $ 109,28 ; $ 35,84 ; $ 279.757 ; $ 91.750 
+6427;Europa;5;Luxembourg;Verduras;Online;Media;9/12/2020;642793166;19/01/2021;5637; $ 154,06 ; $ 90,93 ; $ 868.436 ; $ 512.572 
+5036;África;1;Sudan;Material de oficina;Online;Baja;28/07/2021;503644883;9/08/2021;8568; $ 651,21 ; $ 524,96 ; $ 5.579.567 ; $ 4.497.857 
+3380;África;1;Cote d'Ivoire;Cuidado personal;Online;Alta;31/07/2020;338088214;18/09/2020;6670; $ 81,73 ; $ 56,67 ; $ 545.139 ; $ 377.989 
+7196;África;1;Rwanda;Cereales;Offline;Media;24/08/2021;719609487;21/09/2021;7293; $ 205,70 ; $ 117,11 ; $ 1.500.170 ; $ 854.083 
+4920;Norteamérica;6;Mexico;Verduras;Online;Media;14/09/2021;492007529;4/10/2021;4816; $ 154,06 ; $ 90,93 ; $ 741.953 ; $ 437.919 
+8193;Australia y Oceanía;3;Tuvalu;Verduras;Offline;Crítica;12/12/2020;819393670;16/12/2020;5651; $ 154,06 ; $ 90,93 ; $ 870.593 ; $ 513.845 
+2361;África;1;Guinea-Bissau;Frutas;Offline;Crítica;31/05/2021;236191737;1/06/2021;3239; $ 9,33 ; $ 6,92 ; $ 30.220 ; $ 22.414 
+4971;Europa;5;Greece;Cereales;Online;Crítica;31/08/2022;497138059;12/10/2022;3054; $ 205,70 ; $ 117,11 ; $ 628.208 ; $ 357.654 
+7272;Centroamérica y Caribe;4;Haiti;Bebida;Online;Baja;23/05/2020;727281463;11/07/2020;7601; $ 47,45 ; $ 31,79 ; $ 360.667 ; $ 241.636 
+5719;África;1;Yemen;Cárnicos;Online;Media;11/02/2022;571983277;14/02/2022;1417; $ 421,89 ; $ 364,69 ; $ 597.818 ; $ 516.766 
+6469;Europa;5;Russia;Cuidado personal;Offline;Baja;13/01/2020;646917331;13/02/2020;6069; $ 81,73 ; $ 56,67 ; $ 496.019 ; $ 343.930 
+2880;África;1;Tunisia ;Alimento infantil;Offline;Media;18/01/2021;288069951;3/02/2021;5155; $ 255,28 ; $ 159,42 ; $ 1.315.968 ; $ 821.810 
+7017;Asia;2;India;Verduras;Online;Media;14/06/2022;701739966;16/07/2022;9305; $ 154,06 ; $ 90,93 ; $ 1.433.528 ; $ 846.104 
+9145;Asia;2;Taiwan;Cereales;Online;Alta;9/12/2021;914538705;26/12/2021;1181; $ 205,70 ; $ 117,11 ; $ 242.932 ; $ 138.307 
+9233;África;1;Morocco;Snacks;Offline;Alta;23/11/2021;923389995;9/01/2022;474; $ 152,58 ; $ 97,44 ; $ 72.323 ; $ 46.187 
+3455;África;1;Zimbabwe;Bebida;Online;Media;1/04/2022;345530164;9/04/2022;8909; $ 47,45 ; $ 31,79 ; $ 422.732 ; $ 283.217 
+6685;África;1;Lebanon;Ropa;Online;Baja;25/11/2021;668508040;25/12/2021;5240; $ 109,28 ; $ 35,84 ; $ 572.627 ; $ 187.802 
+3001;Australia y Oceanía;3;Federated States of Micronesia;Material de oficina;Offline;Alta;27/02/2020;300184953;29/02/2020;253; $ 651,21 ; $ 524,96 ; $ 164.756 ; $ 132.815 
+4187;Europa;5;Macedonia;Frutas;Online;Baja;3/01/2021;418734729;6/01/2021;1766; $ 9,33 ; $ 6,92 ; $ 16.477 ; $ 12.221 
+9226;África;1;Ghana;Cosméticos;Online;Media;11/04/2020;922643697;7/05/2020;9628; $ 437,20 ; $ 263,33 ; $ 4.209.362 ; $ 2.535.341 
+8807;Norteamérica;6;Greenland;Material de oficina;Offline;Alta;30/04/2021;880710685;19/06/2021;718; $ 651,21 ; $ 524,96 ; $ 467.569 ; $ 376.921 
+7820;África;1;Bahrain;Doméstico;Online;Baja;20/03/2022;782047021;6/04/2022;3947; $ 668,27 ; $ 502,54 ; $ 2.637.662 ; $ 1.983.525 
+2860;Europa;5;Serbia;Alimento infantil;Offline;Crítica;29/10/2022;286076533;10/11/2022;5258; $ 255,28 ; $ 159,42 ; $ 1.342.262 ; $ 838.230 
+4725;África;1;Lebanon;Alimento infantil;Offline;Alta;1/08/2020;472535550;29/08/2020;2625; $ 255,28 ; $ 159,42 ; $ 670.110 ; $ 418.478 
+6914;Europa;5;Monaco;Cárnicos;Online;Alta;19/06/2020;691472899;7/08/2020;1052; $ 421,89 ; $ 364,69 ; $ 443.828 ; $ 383.654 
+8132;África;1;Iran;Alimento infantil;Online;Alta;18/02/2022;813249909;10/03/2022;7575; $ 255,28 ; $ 159,42 ; $ 1.933.746 ; $ 1.207.607 
+7785;África;1;Mauritius ;Frutas;Online;Media;12/05/2021;778540408;9/06/2021;6263; $ 9,33 ; $ 6,92 ; $ 58.434 ; $ 43.340 
+1483;Centroamérica y Caribe;4;Saint Kitts and Nevis ;Cárnicos;Online;Crítica;17/01/2020;148330724;7/02/2020;3212; $ 421,89 ; $ 364,69 ; $ 1.355.111 ; $ 1.171.384 
+3539;Europa;5;Bulgaria;Frutas;Online;Baja;27/11/2021;353919684;1/01/2022;1554; $ 9,33 ; $ 6,92 ; $ 14.499 ; $ 10.754 
+6469;Europa;5;Italy;Ropa;Offline;Media;1/07/2022;646918618;19/07/2022;6450; $ 109,28 ; $ 35,84 ; $ 704.856 ; $ 231.168 
+3492;África;1;Namibia;Verduras;Offline;Baja;23/01/2022;349251353;3/02/2022;91; $ 154,06 ; $ 90,93 ; $ 14.019 ; $ 8.275 
+2031;Europa;5;San Marino;Bebida;Online;Media;31/03/2021;203154218;13/04/2021;6702; $ 47,45 ; $ 31,79 ; $ 318.010 ; $ 213.057 
+1211;Centroamérica y Caribe;4;The Bahamas;Bebida;Offline;Baja;8/07/2022;121176040;23/07/2022;7538; $ 47,45 ; $ 31,79 ; $ 357.678 ; $ 239.633 
+5361;África;1;Lebanon;Alimento infantil;Online;Baja;7/03/2020;536178147;27/03/2020;5884; $ 255,28 ; $ 159,42 ; $ 1.502.068 ; $ 938.027 
+1513;Australia y Oceanía;3;Australia;Verduras;Online;Alta;21/10/2021;151334369;7/11/2021;2058; $ 154,06 ; $ 90,93 ; $ 317.055 ; $ 187.134 
+8901;Asia;2;Tajikistan;Cuidado personal;Online;Baja;23/01/2021;890131032;5/02/2021;8408; $ 81,73 ; $ 56,67 ; $ 687.186 ; $ 476.481 
+2463;Centroamérica y Caribe;4;El Salvador;Doméstico;Online;Alta;14/01/2022;246366965;5/03/2022;4315; $ 668,27 ; $ 502,54 ; $ 2.883.585 ; $ 2.168.460 
+7341;Asia;2;Indonesia;Cereales;Online;Baja;21/08/2020;734153497;22/09/2020;1189; $ 205,70 ; $ 117,11 ; $ 244.577 ; $ 139.244 
+4379;Europa;5;Sweden;Cuidado personal;Offline;Media;27/04/2020;437914454;2/05/2020;7473; $ 81,73 ; $ 56,67 ; $ 610.768 ; $ 423.495 
+6623;Australia y Oceanía;3;Tonga;Doméstico;Offline;Alta;1/02/2022;662386167;1/03/2022;3641; $ 668,27 ; $ 502,54 ; $ 2.433.171 ; $ 1.829.748 
+9826;África;1;Mozambique;Ropa;Online;Media;12/03/2020;982617461;25/04/2020;7198; $ 109,28 ; $ 35,84 ; $ 786.597 ; $ 257.976 
+5939;Europa;5;Andorra;Cosméticos;Online;Crítica;25/09/2020;593969666;8/10/2020;7678; $ 437,20 ; $ 263,33 ; $ 3.356.822 ; $ 2.021.848 
+5621;Australia y Oceanía;3;Solomon Islands;Verduras;Online;Alta;13/03/2020;562116611;16/04/2020;1651; $ 154,06 ; $ 90,93 ; $ 254.353 ; $ 150.125 
+6730;Europa;5;Romania;Verduras;Offline;Media;11/03/2021;673044621;26/03/2021;7715; $ 154,06 ; $ 90,93 ; $ 1.188.573 ; $ 701.525 
+7830;Centroamérica y Caribe;4;Saint Vincent and the Grenadines;Material de oficina;Offline;Alta;10/06/2022;783052527;17/06/2022;1499; $ 651,21 ; $ 524,96 ; $ 976.164 ; $ 786.915 
+3687;Europa;5;France;Cárnicos;Offline;Baja;17/03/2020;368751657;7/04/2020;664; $ 421,89 ; $ 364,69 ; $ 280.135 ; $ 242.154 
+7770;África;1;The Gambia;Doméstico;Offline;Baja;4/03/2021;777065837;12/03/2021;9904; $ 668,27 ; $ 502,54 ; $ 6.618.546 ; $ 4.977.156 
+2752;Australia y Oceanía;3;Samoa ;Snacks;Offline;Baja;19/12/2020;275231397;21/01/2021;5941; $ 152,58 ; $ 97,44 ; $ 906.478 ; $ 578.891 
+8007;Europa;5;Serbia;Ropa;Offline;Media;15/10/2022;800797164;1/12/2022;2531; $ 109,28 ; $ 35,84 ; $ 276.588 ; $ 90.711 
+3116;Centroamérica y Caribe;4;Saint Vincent and the Grenadines;Cosméticos;Online;Alta;25/08/2021;311624467;8/09/2021;5460; $ 437,20 ; $ 263,33 ; $ 2.387.112 ; $ 1.437.782 
+4358;África;1;Syria;Bebida;Offline;Baja;11/02/2020;435887134;21/03/2020;7544; $ 47,45 ; $ 31,79 ; $ 357.963 ; $ 239.824 
+6220;Australia y Oceanía;3;Australia;Verduras;Offline;Alta;22/02/2021;622071492;3/04/2021;3633; $ 154,06 ; $ 90,93 ; $ 559.700 ; $ 330.349 
+3889;África;1;Cote d'Ivoire;Cosméticos;Offline;Media;20/12/2020;388976371;9/01/2021;5607; $ 437,20 ; $ 263,33 ; $ 2.451.380 ; $ 1.476.491 
+6757;Centroamérica y Caribe;4;Dominican Republic;Cuidado personal;Online;Crítica;5/12/2021;675713098;23/01/2022;7376; $ 81,73 ; $ 56,67 ; $ 602.840 ; $ 417.998 
+6917;África;1;Rwanda;Frutas;Online;Media;21/06/2022;691705501;24/07/2022;9884; $ 9,33 ; $ 6,92 ; $ 92.218 ; $ 68.397 
+1666;África;1;Chad;Cosméticos;Online;Media;17/06/2021;166689908;29/07/2021;6103; $ 437,20 ; $ 263,33 ; $ 2.668.232 ; $ 1.607.103 
+7007;África;1;Kenya;Doméstico;Offline;Alta;9/06/2022;700715148;14/07/2022;6039; $ 668,27 ; $ 502,54 ; $ 4.035.683 ; $ 3.034.839 
+8141;Centroamérica y Caribe;4;Belize;Bebida;Online;Media;11/10/2020;814142549;14/11/2020;1727; $ 47,45 ; $ 31,79 ; $ 81.946 ; $ 54.901 
+8976;Australia y Oceanía;3;Palau;Snacks;Offline;Crítica;6/04/2022;897645938;23/05/2022;2236; $ 152,58 ; $ 97,44 ; $ 341.169 ; $ 217.876 
+9622;África;1;Equatorial Guinea;Material de oficina;Offline;Alta;21/08/2021;962211644;9/10/2021;8663; $ 651,21 ; $ 524,96 ; $ 5.641.432 ; $ 4.547.728 
+1891;Asia;2;Kyrgyzstan;Doméstico;Offline;Baja;14/03/2021;189138495;14/03/2021;9139; $ 668,27 ; $ 502,54 ; $ 6.107.320 ; $ 4.592.713 
+9800;Asia;2;Bangladesh;Frutas;Online;Baja;15/10/2020;980037820;10/11/2020;3824; $ 9,33 ; $ 6,92 ; $ 35.678 ; $ 26.462 
+4068;Asia;2;Bhutan;Alimento infantil;Online;Alta;28/01/2022;406833446;9/03/2022;9912; $ 255,28 ; $ 159,42 ; $ 2.530.335 ; $ 1.580.171 
+5617;Europa;5;Macedonia;Cárnicos;Offline;Baja;1/06/2021;561761701;18/06/2021;6626; $ 421,89 ; $ 364,69 ; $ 2.795.443 ; $ 2.416.436 
+9073;Australia y Oceanía;3;Samoa ;Verduras;Offline;Crítica;18/09/2022;907371413;11/10/2022;220; $ 154,06 ; $ 90,93 ; $ 33.893 ; $ 20.005 
+5265;Europa;5;Austria;Bebida;Online;Media;11/09/2021;526523911;16/10/2021;8981; $ 47,45 ; $ 31,79 ; $ 426.148 ; $ 285.506 
+3723;Europa;5;Italy;Bebida;Online;Alta;24/08/2021;372393023;12/09/2021;8226; $ 47,45 ; $ 31,79 ; $ 390.324 ; $ 261.505 
+1184;África;1;Bahrain;Material de oficina;Offline;Media;11/07/2020;118465077;16/07/2020;5304; $ 651,21 ; $ 524,96 ; $ 3.454.018 ; $ 2.784.388 
+4085;Australia y Oceanía;3;Australia;Snacks;Offline;Crítica;26/12/2020;408538901;5/01/2021;4594; $ 152,58 ; $ 97,44 ; $ 700.953 ; $ 447.639 
+6067;África;1;Nigeria;Cosméticos;Online;Baja;15/05/2020;606725823;31/05/2020;2509; $ 437,20 ; $ 263,33 ; $ 1.096.935 ; $ 660.695 
+1474;Europa;5;Spain;Ropa;Offline;Crítica;13/09/2020;147449672;26/10/2020;2489; $ 109,28 ; $ 35,84 ; $ 271.998 ; $ 89.206 
+7854;Europa;5;Hungary;Cárnicos;Online;Media;22/07/2021;785446774;11/08/2021;10; $ 421,89 ; $ 364,69 ; $ 4.219 ; $ 3.647 
+7457;Europa;5;Bosnia and Herzegovina;Verduras;Offline;Baja;22/06/2021;745765960;14/07/2021;7575; $ 154,06 ; $ 90,93 ; $ 1.167.005 ; $ 688.795 
+5737;Asia;2;South Korea;Cosméticos;Online;Crítica;5/04/2022;573768556;5/05/2022;9721; $ 437,20 ; $ 263,33 ; $ 4.250.021 ; $ 2.559.831 
+8851;África;1;The Gambia;Snacks;Offline;Baja;2/11/2021;885128390;20/11/2021;8015; $ 152,58 ; $ 97,44 ; $ 1.222.929 ; $ 780.982 
+1158;Europa;5;Norway;Bebida;Online;Baja;19/05/2021;115831792;9/06/2021;6056; $ 47,45 ; $ 31,79 ; $ 287.357 ; $ 192.520 
+3721;Norteamérica;6;Mexico;Frutas;Offline;Media;16/01/2021;372177588;30/01/2021;4474; $ 9,33 ; $ 6,92 ; $ 41.742 ; $ 30.960 
+6807;Europa;5;France;Cosméticos;Offline;Baja;20/05/2021;680777108;22/06/2021;5930; $ 437,20 ; $ 263,33 ; $ 2.592.596 ; $ 1.561.547 
+1385;Centroamérica y Caribe;4;Belize;Frutas;Offline;Alta;3/12/2021;138554179;6/12/2021;115; $ 9,33 ; $ 6,92 ; $ 1.073 ; $ 796 
+1627;África;1;Malawi;Bebida;Online;Alta;4/08/2022;162745130;19/08/2022;8755; $ 47,45 ; $ 31,79 ; $ 415.425 ; $ 278.321 
+4408;Asia;2;India;Cuidado personal;Offline;Crítica;17/04/2022;440898787;1/06/2022;604; $ 81,73 ; $ 56,67 ; $ 49.365 ; $ 34.229 
+2808;Asia;2;Tajikistan;Frutas;Online;Media;29/04/2020;280876481;31/05/2020;6447; $ 9,33 ; $ 6,92 ; $ 60.151 ; $ 44.613 
+8608;Europa;5;Finland;Verduras;Online;Baja;9/09/2020;860852038;15/09/2020;4103; $ 154,06 ; $ 90,93 ; $ 632.108 ; $ 373.086 
+2793;África;1;Rwanda;Ropa;Offline;Crítica;22/01/2022;279311788;1/02/2022;3420; $ 109,28 ; $ 35,84 ; $ 373.738 ; $ 122.573 
